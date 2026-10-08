@@ -20,6 +20,20 @@ from collections import Counter, defaultdict
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DANE = os.path.join(ROOT, "narzedzia", "dane", "uodo_decyzje.json")
 SENTENCJE = os.path.join(os.path.dirname(DANE), "uodo_sentencje.json")
+SADY = os.path.join(os.path.dirname(DANE), "uodo_sady.json")
+SADY_REJESTR = os.path.join(ROOT, "zrodla", "orzecznictwo", "nsa-wsa", "rejestr-uodo.md")
+WYDZIAL = {"ii_sa-wa": ("II SA/Wa", "WSA w Warszawie"), "ii_sab-wa": ("II SAB/Wa", "WSA w Warszawie"),
+           "iii_osk": ("III OSK", "NSA"), "i_osk": ("I OSK", "NSA"), "i_oz": ("I OZ", "NSA"), "iii_oz": ("III OZ", "NSA")}
+SKUTEK = {"defended": "decyzja obroniona", "repealed": "uchylenie przez sąd", "trial": "sprawa w sądzie",
+          "validation": "uprawomocnienie"}
+
+
+def sygnatura_sadu(kod):
+    """'2025:ii_sa-wa_124' -> ('II SA/Wa 124/25', 'WSA w Warszawie')"""
+    rok, reszta = kod.split(":")
+    wydz, nr = reszta.rsplit("_", 1)
+    pref, sad = WYDZIAL[wydz]
+    return f"{pref} {nr}/{rok[2:]}", sad
 OUT = os.path.join(ROOT, "zrodla", "decyzje-organow", "pl-uodo")
 PORTAL = "https://orzeczenia.uodo.gov.pl/document/urn:ndoc:gov:pl:uodo:{}/content"
 DATA_POBRANIA = "2026-10-08"
@@ -62,6 +76,11 @@ def main():
         recs = json.load(f)
     with open(SENTENCJE, encoding="utf-8") as f:
         sentencje = json.load(f)
+    with open(SADY, encoding="utf-8") as f:
+        sady = defaultdict(list)
+        for syg_d, uzycie, data_z, kod in json.load(f):
+            sady[syg_d].append((data_z.strip(), uzycie, *sygnatura_sadu(kod)))
+    plik_decyzji = {}
     lata = Counter()
     rejestr = defaultdict(list)
     for (syg, urn, d_ogl, d_pub, status, zdarz, opis, etyk, kary, arts, flagi) in recs:
@@ -136,6 +155,12 @@ def main():
             for data, kod, opis_z in zdarzenia:
                 lines.append(f"- {data} – {opis_z} (`{kod}`)")
             lines.append("")
+        if sady.get(syg):
+            lines += ["## Sądy administracyjne (portal UODO)", ""]
+            for data_z, uzycie, syg_s, sad in sorted(sady[syg]):
+                lines.append(f"- {sad}, {syg_s} – {SKUTEK[uzycie]} ({data_z}); tekst: CBOSA https://orzeczenia.nsa.gov.pl (wyszukaj sygnaturę)")
+            lines.append("")
+        plik_decyzji[syg] = f"{rok}/{plik}"
         if syg in sentencje:
             lines += [
                 "## Sentencja (skrót – sygnalizacyjnie)",
@@ -190,6 +215,41 @@ def main():
         w.append("")
     with open(os.path.join(OUT, "rejestr.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(w))
+    # rejestr wyroków sądów administracyjnych
+    wiersze = []
+    for syg_d, lst in sady.items():
+        for data_z, uzycie, syg_s, sad in lst:
+            wiersze.append((data_z, syg_s, sad, SKUTEK[uzycie], syg_d))
+    w2 = [
+        "---",
+        "id: nsa-wsa-rejestr-uodo",
+        "typ: rejestr",
+        "tytul: Wyroki sądów administracyjnych w sprawach decyzji Prezesa UODO – rejestr",
+        "organ: WSA w Warszawie / NSA",
+        f"data: {DATA_POBRANIA}",
+        "status: obowiazuje",
+        "artykuly_rodo: []",
+        "zrodlo: https://orzeczenia.uodo.gov.pl",
+        f"weryfikacja: {yq(f'powiązania decyzja–sygnatura z portalu UODO ({DATA_POBRANIA}); treści wyroków nie importowano')}",
+        "---",
+        "",
+        "# Sądy administracyjne – sprawy decyzji Prezesa UODO",
+        "",
+        f"Powiązania z portalu orzeczenia.uodo.gov.pl: **{len(wiersze)} zdarzeń**, {len({w[1] for w in wiersze})} sygnatur, {len(sady)} decyzji. "
+        "Sygnatura odtworzona z identyfikatora portalu (np. `2025:ii_sa-wa_124` → II SA/Wa 124/25). "
+        "Data – data zdarzenia w portalu (zwykle data orzeczenia). Skutek – kod portalu UODO (`defended`, `repealed`, `trial`, `validation`), "
+        "a nie odczyt sentencji wyroku. Teksty wyroków: CBOSA https://orzeczenia.nsa.gov.pl – wyszukać sygnaturę.",
+        "",
+        "Sygnalizacyjnie: przy decyzji z wyrokiem skill podaje sygnaturę i skutek oraz odsyła do CBOSA. Tez wyroków nie ma w repozytorium.",
+        "",
+        "| Data | Sygnatura | Sąd | Skutek (portal) | Decyzja UODO |",
+        "|---|---|---|---|---|",
+    ]
+    for data_z, syg_s, sad, sk, syg_d in sorted(wiersze, reverse=True):
+        link = os.path.relpath(os.path.join(OUT, plik_decyzji[syg_d]), os.path.dirname(SADY_REJESTR)) if syg_d in plik_decyzji else ""
+        w2.append(f"| {data_z} | {syg_s} | {sad} | {sk} | " + (f"[{syg_d}]({link})" if link else syg_d) + " |")
+    with open(SADY_REJESTR, "w", encoding="utf-8") as f:
+        f.write("\n".join(w2) + "\n")
     print(f"Zapisano decyzji: {len(recs)}")
 
 

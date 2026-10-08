@@ -30,6 +30,8 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 
 ## Art. 4
 
+- Prawo polskie: [art. 399 PKE "Art. 399 Prawa komunikacji elektronicznej – cookies – przechowywanie informacji i dostęp do urządzenia końcowego"](../zrodla/pl/prawo-komunikacji-elektronicznej/art-399.md) – Sejm RP, 2024-07-12
+- Prawo polskie: [art. 400 PKE "Art. 400 Prawa komunikacji elektronicznej – zgoda – odesłanie do przepisów o ochronie danych osobowych"](../zrodla/pl/prawo-komunikacji-elektronicznej/art-400.md) – Sejm RP, 2024-07-12
 - Orzecznictwo: [C-131/12 Google Spain i Google](../zrodla/orzecznictwo/tsue/c-131-12.md) – TSUE (wielka izba), 2014-05-13
 - Orzecznictwo: [C-582/14 Breyer](../zrodla/orzecznictwo/tsue/c-582-14.md) – TSUE (druga izba), 2016-10-19
 - Orzecznictwo: [C-210/16 Wirtschaftsakademie Schleswig-Holstein](../zrodla/orzecznictwo/tsue/c-210-16.md) – TSUE (wielka izba), 2018-06-05
@@ -39,21 +41,30 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Orzecznictwo: [C-683/21 Nacionalinis visuomenės sveikatos centras](../zrodla/orzecznictwo/tsue/c-683-21.md) – TSUE (wielka izba), 2023-12-05
 - Orzecznictwo: [C-604/22 IAB Europe](../zrodla/orzecznictwo/tsue/c-604-22.md) – TSUE (czwarta izba), 2024-03-07
 - Orzecznictwo: [C-413/23 P EIOD / SRB](../zrodla/orzecznictwo/tsue/c-413-23-p.md) – TSUE (pierwsza izba), 2025-09-04
+- Decyzje organów: ["EROD 1/2021" "WhatsApp – przejrzystość"](../zrodla/decyzje-organow/edpb-art65/2021-07-28-1-2021.md) – EROD, 2021-07-28
 - Zmiany w przygotowaniu: [Digital Omnibus – projektowane zmiany RODO i ePrivacy](../zrodla/zmiany/digital-omnibus.md) – Komisja Europejska, 2025-11-19
 
 ## Art. 5
 
+- Prawo polskie: [art. 22¹ᶜ KP "Art. 22¹ᶜ Kodeksu pracy – kontrola trzeźwości"](../zrodla/pl/kodeks-pracy/art-22-1c.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22¹ᵉ KP "Art. 22¹ᵉ Kodeksu pracy – kontrola na obecność środków działających podobnie do alkoholu"](../zrodla/pl/kodeks-pracy/art-22-1e.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22² KP "Art. 22² Kodeksu pracy – monitoring wizyjny"](../zrodla/pl/kodeks-pracy/art-22-2.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22³ KP "Art. 22³ Kodeksu pracy – monitoring poczty elektronicznej i inne formy monitoringu"](../zrodla/pl/kodeks-pracy/art-22-3.md) – Sejm RP, 1974-06-26
 - Orzecznictwo: [C-708/18 TK / Asociaţia de Proprietari bloc M5A-ScaraA](../zrodla/orzecznictwo/tsue/c-708-18.md) – TSUE (trzecia izba), 2019-12-11
 - Orzecznictwo: [C-26/22, C-64/22 UF i AB / SCHUFA Holding (zwolnienie z długów)](../zrodla/orzecznictwo/tsue/c-26-22-c-64-22.md) – TSUE (pierwsza izba), 2023-12-07
 - Decyzje organów: ["ZSPR.421.7.2019" "nakaz, nałożenie kary (201 559,50 zł) – art. 5, 6, 24 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspr_421_7-2019.md) – Prezes UODO, 2019-10-16
 - Decyzje organów: ["ZSPU.421.3.2019" "nakaz, nałożenie kary (40.000 zł) – art. 5, 24, 28, 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspu_421_3-2019.md) – Prezes UODO, 2019-10-18
 - Decyzje organów: ["DKN.5112.13.2020" "nakaz, umorzenie, nałożenie kary (100 000 zł) – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dkn_5112_13-2020.md) – Prezes UODO, 2020-08-24
+- Decyzje organów: ["EROD 1/2021" "WhatsApp – przejrzystość"](../zrodla/decyzje-organow/edpb-art65/2021-07-28-1-2021.md) – EROD, 2021-07-28
 - Decyzje organów: ["DKN.5131.51.2021" "nałożenie kary (10.000 zł) – art. 5 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5131_51-2021.md) – Prezes UODO, 2022-05-31
 - Decyzje organów: ["DKN.5131.8.2022" "nałożenie kary (8 000 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5131_8-2022.md) – Prezes UODO, 2022-11-02
 - Decyzje organów: ["DS.523.1436.2022" "odmowa, upomnienie – art. 5 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_1436-2022.md) – Prezes UODO, 2022-11-23
 - Decyzje organów: ["DKN.5112.5.2021" "nakaz, nałożenie kary (45 697,00 zł) – art. 5, 6, 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5112_5-2021.md) – Prezes UODO, 2022-11-30
+- Decyzje organów: ["EROD 3/2022" "Facebook – reklama behawioralna na podstawie umowy"](../zrodla/decyzje-organow/edpb-art65/2022-12-05-3-2022.md) – EROD, 2022-12-05
+- Decyzje organów: ["EROD 4/2022" "Instagram – reklama behawioralna na podstawie umowy"](../zrodla/decyzje-organow/edpb-art65/2022-12-05-4-2022.md) – EROD, 2022-12-05
 - Decyzje organów: ["DKN.5131.8.2021" "nałożenie kary (47.160 zł) – art. 5, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_8-2021.md) – Prezes UODO, 2023-05-31
 - Decyzje organów: ["DKN.5131.47.2022" "nałożenie kary (15 000 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_47-2022.md) – Prezes UODO, 2023-07-18
+- Decyzje organów: ["EROD 2/2023" "TikTok – dane dzieci, ustawienia domyślne i projektowanie"](../zrodla/decyzje-organow/edpb-art65/2023-08-02-2-2023.md) – EROD, 2023-08-02
 - Decyzje organów: ["DKN.5131.26.2023" "nałożenie kary (35 000 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_26-2023.md) – Prezes UODO, 2023-11-30
 - Decyzje organów: ["DKN.5131.32.2023" "nakaz, nałożenie kary (100 000 zł) – art. 5, 9, 32, 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_32-2023.md) – Prezes UODO, 2023-12-20
 - Decyzje organów: ["ZSPR.421.2.2019 ZSPR.405.67.2019" "umorzenie, nałożenie kary (3 819 960 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/zspr_405_67-2019.md) – Prezes UODO, 2024-01-17
@@ -97,6 +108,16 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 ## Art. 6
 
 - Tezy: [Klauzule otwarte RODO – mapowanie na prawo polskie](klauzule-otwarte.md) – –, 2026-10-08
+- Prawo polskie: [art. 22¹ KP "Art. 22¹ Kodeksu pracy – dane osobowe kandydata i pracownika – katalog"](../zrodla/pl/kodeks-pracy/art-22-1.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22¹ᵃ KP "Art. 22¹ᵃ Kodeksu pracy – zgoda kandydata/pracownika jako podstawa przetwarzania"](../zrodla/pl/kodeks-pracy/art-22-1a.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22¹ᶜ KP "Art. 22¹ᶜ Kodeksu pracy – kontrola trzeźwości"](../zrodla/pl/kodeks-pracy/art-22-1c.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22¹ᵈ KP "Art. 22¹ᵈ Kodeksu pracy – niedopuszczenie do pracy po kontroli trzeźwości"](../zrodla/pl/kodeks-pracy/art-22-1d.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22¹ᵉ KP "Art. 22¹ᵉ Kodeksu pracy – kontrola na obecność środków działających podobnie do alkoholu"](../zrodla/pl/kodeks-pracy/art-22-1e.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22¹ᶠ KP "Art. 22¹ᶠ Kodeksu pracy – niedopuszczenie do pracy – środki podobne do alkoholu"](../zrodla/pl/kodeks-pracy/art-22-1f.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22² KP "Art. 22² Kodeksu pracy – monitoring wizyjny"](../zrodla/pl/kodeks-pracy/art-22-2.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22³ KP "Art. 22³ Kodeksu pracy – monitoring poczty elektronicznej i inne formy monitoringu"](../zrodla/pl/kodeks-pracy/art-22-3.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 398 PKE "Art. 398 Prawa komunikacji elektronicznej – zakaz marketingu bezpośredniego bez zgody (telefon, e-mail, systemy wywołujące)"](../zrodla/pl/prawo-komunikacji-elektronicznej/art-398.md) – Sejm RP, 2024-07-12
+- Prawo polskie: [art. 399 PKE "Art. 399 Prawa komunikacji elektronicznej – cookies – przechowywanie informacji i dostęp do urządzenia końcowego"](../zrodla/pl/prawo-komunikacji-elektronicznej/art-399.md) – Sejm RP, 2024-07-12
 - Orzecznictwo: [C-212/13 Ryneš](../zrodla/orzecznictwo/tsue/c-212-13.md) – TSUE (czwarta izba), 2014-12-11
 - Orzecznictwo: [C-582/14 Breyer](../zrodla/orzecznictwo/tsue/c-582-14.md) – TSUE (druga izba), 2016-10-19
 - Orzecznictwo: [C-13/16 Rīgas satiksme](../zrodla/orzecznictwo/tsue/c-13-16.md) – TSUE (druga izba), 2017-05-04
@@ -111,13 +132,19 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Decyzje organów: ["ZSPR.421.7.2019" "nakaz, nałożenie kary (201 559,50 zł) – art. 5, 6, 24 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspr_421_7-2019.md) – Prezes UODO, 2019-10-16
 - Decyzje organów: ["DKN.5112.7.2020" "upomnienie – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dkn_5112_7-2020.md) – Prezes UODO, 2020-06-30
 - Decyzje organów: ["DKN.5112.13.2020" "nakaz, umorzenie, nałożenie kary (100 000 zł) – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dkn_5112_13-2020.md) – Prezes UODO, 2020-08-24
+- Decyzje organów: ["EROD Urgent 01/2021" "Facebook – wniosek Hamburga o pilne środki (WhatsApp)"](../zrodla/decyzje-organow/edpb-art65/2021-07-12-pilna-01-2021.md) – EROD, 2021-07-12
 - Decyzje organów: ["ZSPR.440.280.2018" "upomnienie – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/zspr_440_280-2018.md) – Prezes UODO, 2022-02-22
 - Decyzje organów: ["DS.523.1235.2021" "upomnienie – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_1235-2021.md) – Prezes UODO, 2022-03-02
 - Decyzje organów: ["ZWOS.440.3951.2019" "upomnienie – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/zwos_440_3951-2019.md) – Prezes UODO, 2022-05-16
+- Decyzje organów: ["EROD 2/2022" "Instagram – dane kontaktowe dzieci w kontach firmowych"](../zrodla/decyzje-organow/edpb-art65/2022-07-28-2-2022.md) – EROD, 2022-07-28
 - Decyzje organów: ["DS.523.2704.2022" "upomnienie – art. 6, 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_2704-2022.md) – Prezes UODO, 2022-11-25
 - Decyzje organów: ["DKN.5112.5.2021" "nakaz, nałożenie kary (45 697,00 zł) – art. 5, 6, 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5112_5-2021.md) – Prezes UODO, 2022-11-30
+- Decyzje organów: ["EROD 3/2022" "Facebook – reklama behawioralna na podstawie umowy"](../zrodla/decyzje-organow/edpb-art65/2022-12-05-3-2022.md) – EROD, 2022-12-05
+- Decyzje organów: ["EROD 4/2022" "Instagram – reklama behawioralna na podstawie umowy"](../zrodla/decyzje-organow/edpb-art65/2022-12-05-4-2022.md) – EROD, 2022-12-05
+- Decyzje organów: ["EROD 5/2022" "WhatsApp – ulepszanie usługi i bezpieczeństwo na podstawie umowy"](../zrodla/decyzje-organow/edpb-art65/2022-12-05-5-2022.md) – EROD, 2022-12-05
 - Decyzje organów: ["DS.523.3215.2022" "upomnienie – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_3215-2022.md) – Prezes UODO, 2022-12-14
 - Decyzje organów: ["DS.523.2244.2022" "nakaz – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/ds_523_2244-2022.md) – Prezes UODO, 2023-03-10
+- Decyzje organów: ["EROD Urgent 01/2023" "Meta – zakaz reklamy behawioralnej (wniosek Norwegii)"](../zrodla/decyzje-organow/edpb-art65/2023-10-27-pilna-01-2023.md) – EROD, 2023-10-27
 - Decyzje organów: ["DS.523.5648.2023" "upomnienie – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/ds_523_5648-2023.md) – Prezes UODO, 2024-09-17
 - Decyzje organów: ["DKN.5131.1.2025" "nałożenie kary (100 000 zł + 27 124 816 zł) – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_1-2025.md) – Prezes UODO, 2025-03-17
 - Decyzje organów: ["DS.523.4750.2023" "umorzenie, nałożenie kary (75.000 zł) – art. 6, 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/ds_523_4750-2023.md) – Prezes UODO, 2025-03-19
@@ -135,15 +162,25 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 
 ## Art. 7
 
+- Prawo polskie: [art. 22¹ᵃ KP "Art. 22¹ᵃ Kodeksu pracy – zgoda kandydata/pracownika jako podstawa przetwarzania"](../zrodla/pl/kodeks-pracy/art-22-1a.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 398 PKE "Art. 398 Prawa komunikacji elektronicznej – zakaz marketingu bezpośredniego bez zgody (telefon, e-mail, systemy wywołujące)"](../zrodla/pl/prawo-komunikacji-elektronicznej/art-398.md) – Sejm RP, 2024-07-12
+- Prawo polskie: [art. 399 PKE "Art. 399 Prawa komunikacji elektronicznej – cookies – przechowywanie informacji i dostęp do urządzenia końcowego"](../zrodla/pl/prawo-komunikacji-elektronicznej/art-399.md) – Sejm RP, 2024-07-12
+- Prawo polskie: [art. 400 PKE "Art. 400 Prawa komunikacji elektronicznej – zgoda – odesłanie do przepisów o ochronie danych osobowych"](../zrodla/pl/prawo-komunikacji-elektronicznej/art-400.md) – Sejm RP, 2024-07-12
 - Orzecznictwo: [C-673/17 Planet49](../zrodla/orzecznictwo/tsue/c-673-17.md) – TSUE (wielka izba), 2019-10-01
 
 ## Art. 8
 
 - Tezy: [Klauzule otwarte RODO – mapowanie na prawo polskie](klauzule-otwarte.md) – –, 2026-10-08
+- Prawo polskie: [art. 400 PKE "Art. 400 Prawa komunikacji elektronicznej – zgoda – odesłanie do przepisów o ochronie danych osobowych"](../zrodla/pl/prawo-komunikacji-elektronicznej/art-400.md) – Sejm RP, 2024-07-12
 
 ## Art. 9
 
 - Tezy: [Klauzule otwarte RODO – mapowanie na prawo polskie](klauzule-otwarte.md) – –, 2026-10-08
+- Prawo polskie: [art. 22¹ᵇ KP "Art. 22¹ᵇ Kodeksu pracy – dane szczególnych kategorii i biometria pracownika"](../zrodla/pl/kodeks-pracy/art-22-1b.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22¹ᶜ KP "Art. 22¹ᶜ Kodeksu pracy – kontrola trzeźwości"](../zrodla/pl/kodeks-pracy/art-22-1c.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22¹ᵈ KP "Art. 22¹ᵈ Kodeksu pracy – niedopuszczenie do pracy po kontroli trzeźwości"](../zrodla/pl/kodeks-pracy/art-22-1d.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22¹ᵉ KP "Art. 22¹ᵉ Kodeksu pracy – kontrola na obecność środków działających podobnie do alkoholu"](../zrodla/pl/kodeks-pracy/art-22-1e.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22¹ᶠ KP "Art. 22¹ᶠ Kodeksu pracy – niedopuszczenie do pracy – środki podobne do alkoholu"](../zrodla/pl/kodeks-pracy/art-22-1f.md) – Sejm RP, 1974-06-26
 - Prawo polskie: [art. 6a u.o.d.o. "Art. 6a ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-006a.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-184/20 OT / Vyriausioji tarnybinės etikos komisija](../zrodla/orzecznictwo/tsue/c-184-20.md) – TSUE (wielka izba), 2022-08-01
 - Orzecznictwo: [C-252/21 Meta Platforms i in. / Bundeskartellamt](../zrodla/orzecznictwo/tsue/c-252-21.md) – TSUE (wielka izba), 2023-07-04
@@ -163,6 +200,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 ## Art. 10
 
 - Tezy: [Klauzule otwarte RODO – mapowanie na prawo polskie](klauzule-otwarte.md) – –, 2026-10-08
+- Prawo polskie: [art. 22¹ᵃ KP "Art. 22¹ᵃ Kodeksu pracy – zgoda kandydata/pracownika jako podstawa przetwarzania"](../zrodla/pl/kodeks-pracy/art-22-1a.md) – Sejm RP, 1974-06-26
 - Prawo polskie: [art. 6a u.o.d.o. "Art. 6a ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-006a.md) – Sejm RP, 2018-05-10
 
 ## Art. 11
@@ -173,16 +211,20 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 ## Art. 12
 
 - Tezy: [Art. 11 RODO – przetwarzanie niewymagające identyfikacji – tezy](art-011.md) – –, 2026-10-08
+- Prawo polskie: [art. 22² KP "Art. 22² Kodeksu pracy – monitoring wizyjny"](../zrodla/pl/kodeks-pracy/art-22-2.md) – Sejm RP, 1974-06-26
 - Orzecznictwo: [C-154/21 Österreichische Post (odbiorcy)](../zrodla/orzecznictwo/tsue/c-154-21.md) – TSUE (pierwsza izba), 2023-01-12
+- Decyzje organów: ["EROD 1/2021" "WhatsApp – przejrzystość"](../zrodla/decyzje-organow/edpb-art65/2021-07-28-1-2021.md) – EROD, 2021-07-28
 - Decyzje organów: [Właściciel Tesli – tryb Sentry (Wächter-Modus)](../zrodla/decyzje-organow/at-dsb/2025-09-29-tesla-sentry.md) – DSB (AT), 2025-09-29
 - Zmiany w przygotowaniu: [Digital Omnibus – projektowane zmiany RODO i ePrivacy](../zrodla/zmiany/digital-omnibus.md) – Komisja Europejska, 2025-11-19
 
 ## Art. 13
 
+- Prawo polskie: [art. 22² KP "Art. 22² Kodeksu pracy – monitoring wizyjny"](../zrodla/pl/kodeks-pracy/art-22-2.md) – Sejm RP, 1974-06-26
 - Prawo polskie: [art. 3 u.o.d.o. "Art. 3 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-003.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-40/17 Fashion ID](../zrodla/orzecznictwo/tsue/c-40-17.md) – TSUE (druga izba), 2019-07-29
 - Orzecznictwo: [C-413/23 P EIOD / SRB](../zrodla/orzecznictwo/tsue/c-413-23-p.md) – TSUE (pierwsza izba), 2025-09-04
 - Decyzje organów: ["ZSPU.421.2.2018" "nakaz, umorzenie – art. 13, 30 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspu_421_2-2018.md) – Prezes UODO, 2019-04-06
+- Decyzje organów: ["EROD 1/2021" "WhatsApp – przejrzystość"](../zrodla/decyzje-organow/edpb-art65/2021-07-28-1-2021.md) – EROD, 2021-07-28
 - Decyzje organów: ["DS.523.2332.2021" "nakaz, odmowa – art. 13 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_2332-2021.md) – Prezes UODO, 2022-01-24
 - Decyzje organów: ["DS.523.399.2021" "nakaz, upomnienie – art. 13 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_399-2021.md) – Prezes UODO, 2022-05-30
 - Decyzje organów: ["DKN.5131.4.2024" "nałożenie kary (687 534,75 zł + 458 356,50 zł) – art. 5, 9, 13, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_4-2024.md) – Prezes UODO, 2025-01-17
@@ -196,6 +238,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 4 u.o.d.o. "Art. 4 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-004.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-413/23 P EIOD / SRB](../zrodla/orzecznictwo/tsue/c-413-23-p.md) – TSUE (pierwsza izba), 2025-09-04
 - Decyzje organów: ["ZSPR.421.3.2018" "nakaz, nałożenie kary (943.470,00 zł) – art. 14 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspr_421_3-2018.md) – Prezes UODO, 2019-03-15
+- Decyzje organów: ["EROD 1/2021" "WhatsApp – przejrzystość"](../zrodla/decyzje-organow/edpb-art65/2021-07-28-1-2021.md) – EROD, 2021-07-28
 - Decyzje organów: ["DKE.523.18.2021" "nakaz, odmowa – art. 14 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_523_18-2021.md) – Prezes UODO, 2021-08-24
 
 ## Art. 15
@@ -236,6 +279,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 
 ## Art. 21
 
+- Prawo polskie: [art. 398 PKE "Art. 398 Prawa komunikacji elektronicznej – zakaz marketingu bezpośredniego bez zgody (telefon, e-mail, systemy wywołujące)"](../zrodla/pl/prawo-komunikacji-elektronicznej/art-398.md) – Sejm RP, 2024-07-12
 - Orzecznictwo: [C-131/12 Google Spain i Google](../zrodla/orzecznictwo/tsue/c-131-12.md) – TSUE (wielka izba), 2014-05-13
 - Orzecznictwo: [C-26/22, C-64/22 UF i AB / SCHUFA Holding (zwolnienie z długów)](../zrodla/orzecznictwo/tsue/c-26-22-c-64-22.md) – TSUE (pierwsza izba), 2023-12-07
 
@@ -259,6 +303,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 
 ## Art. 25
 
+- Decyzje organów: ["EROD 2/2023" "TikTok – dane dzieci, ustawienia domyślne i projektowanie"](../zrodla/decyzje-organow/edpb-art65/2023-08-02-2-2023.md) – EROD, 2023-08-02
 - Decyzje organów: ["DKN.5131.5.2024" "nakaz, nałożenie kary (40 000 zł + 38 000 zł) – art. 5, 9, 25, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_5-2024.md) – Prezes UODO, 2025-12-29
 
 ## Art. 26
@@ -365,6 +410,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 ## Art. 33
 
 - Prawo polskie: [art. 55 u.o.d.o. "Art. 55 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-055.md) – Sejm RP, 2018-05-10
+- Decyzje organów: ["EROD 01/2020" "Twitter – zgłoszenie naruszenia (spór o projekt decyzji DPC)"](../zrodla/decyzje-organow/edpb-art65/2020-11-09-01-2020.md) – EROD, 2020-11-09
 - Decyzje organów: ["DKN.5131.5.2020" "nałożenie kary (85 588 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dkn_5131_5-2020.md) – Prezes UODO, 2020-12-09
 - Decyzje organów: ["DKN.5131.6.2020" "nakaz, nałożenie kary (25 000 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dkn_5131_6-2020.md) – Prezes UODO, 2021-01-05
 - Decyzje organów: ["DKN.5131.7.2020" "nałożenie kary (136 437 zł) – art. 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dkn_5131_7-2020.md) – Prezes UODO, 2021-01-11
@@ -539,6 +585,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 ## Art. 44
 
 - Orzecznictwo: [C-311/18 Facebook Ireland i Schrems (Schrems II)](../zrodla/orzecznictwo/tsue/c-311-18.md) – TSUE (wielka izba), 2020-07-16
+- Decyzje organów: ["EROD 1/2023" "Meta – transfery danych z Facebooka do USA"](../zrodla/decyzje-organow/edpb-art65/2023-04-13-1-2023.md) – EROD, 2023-04-13
 
 ## Art. 45
 
@@ -552,6 +599,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 56 u.o.d.o. "Art. 56 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-056.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 71 u.o.d.o. "Art. 71 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-071.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-311/18 Facebook Ireland i Schrems (Schrems II)](../zrodla/orzecznictwo/tsue/c-311-18.md) – TSUE (wielka izba), 2020-07-16
+- Decyzje organów: ["EROD 1/2023" "Meta – transfery danych z Facebooka do USA"](../zrodla/decyzje-organow/edpb-art65/2023-04-13-1-2023.md) – EROD, 2023-04-13
 
 ## Art. 47
 
@@ -584,6 +632,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 
 - Prawo polskie: [art. 60 u.o.d.o. "Art. 60 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-060.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 78 u.o.d.o. "Art. 78 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-078.md) – Sejm RP, 2018-05-10
+- Decyzje organów: ["EROD 1/2026" "VRT – nadużycie prawa do skargi (spór zgłoszony przez organ belgijski)"](../zrodla/decyzje-organow/edpb-art65/2026-05-28-1-2026.md) – EROD, 2026-05-28
 
 ## Art. 58
 
@@ -670,6 +719,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Decyzje organów: ["DKE.561.35.2022" "nałożenie kary (18 279 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dke_561_35-2022.md) – Prezes UODO, 2023-01-25
 - Decyzje organów: ["DKE.561.2.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dke_561_2-2023.md) – Prezes UODO, 2023-03-07
 - Decyzje organów: ["DKE.561.32.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dke_561_32-2022.md) – Prezes UODO, 2023-03-23
+- Decyzje organów: ["EROD 1/2023" "Meta – transfery danych z Facebooka do USA"](../zrodla/decyzje-organow/edpb-art65/2023-04-13-1-2023.md) – EROD, 2023-04-13
 - Decyzje organów: ["DKE.561.3.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dke_561_3-2023.md) – Prezes UODO, 2023-04-18
 - Decyzje organów: ["DOKE.561.3.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/doke_561_3-2023.md) – Prezes UODO, 2023-05-22
 - Decyzje organów: ["DKE.561.33.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dke_561_33-2022.md) – Prezes UODO, 2023-05-26
@@ -681,6 +731,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Decyzje organów: ["DOKE.561.8.2023" "nałożenie kary (56 592 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/doke_561_8-2023.md) – Prezes UODO, 2023-08-30
 - Decyzje organów: ["DOKE.561.10.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/doke_561_10-2023.md) – Prezes UODO, 2023-10-06
 - Decyzje organów: ["DOKE.561.15.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/doke_561_15-2023.md) – Prezes UODO, 2023-10-19
+- Decyzje organów: ["EROD Urgent 01/2023" "Meta – zakaz reklamy behawioralnej (wniosek Norwegii)"](../zrodla/decyzje-organow/edpb-art65/2023-10-27-pilna-01-2023.md) – EROD, 2023-10-27
 - Decyzje organów: ["DOKE.561.7.2023" "nałożenie kary (14 148 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/doke_561_7-2023.md) – Prezes UODO, 2023-11-16
 - Decyzje organów: ["DOKE.561.5.2023" "nałożenie kary (11 790 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/doke_561_5-2023.md) – Prezes UODO, 2023-12-07
 - Decyzje organów: ["DOKE.561.14.2023" "nałożenie kary (18 864 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/doke_561_14-2023.md) – Prezes UODO, 2023-12-21
@@ -731,11 +782,14 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 ## Art. 66
 
 - Prawo polskie: [art. 75 u.o.d.o. "Art. 75 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-075.md) – Sejm RP, 2018-05-10
+- Decyzje organów: ["EROD Urgent 01/2021" "Facebook – wniosek Hamburga o pilne środki (WhatsApp)"](../zrodla/decyzje-organow/edpb-art65/2021-07-12-pilna-01-2021.md) – EROD, 2021-07-12
+- Decyzje organów: ["EROD Urgent 01/2023" "Meta – zakaz reklamy behawioralnej (wniosek Norwegii)"](../zrodla/decyzje-organow/edpb-art65/2023-10-27-pilna-01-2023.md) – EROD, 2023-10-27
 
 ## Art. 77
 
 - Prawo polskie: [art. 60 u.o.d.o. "Art. 60 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-060.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-362/14 Schrems (I)](../zrodla/orzecznictwo/tsue/c-362-14.md) – TSUE (wielka izba), 2015-10-06
+- Decyzje organów: ["EROD 1/2026" "VRT – nadużycie prawa do skargi (spór zgłoszony przez organ belgijski)"](../zrodla/decyzje-organow/edpb-art65/2026-05-28-1-2026.md) – EROD, 2026-05-28
 
 ## Art. 78
 
@@ -758,6 +812,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 61 u.o.d.o. "Art. 61 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-061.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 98 u.o.d.o. "Art. 98 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-098.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-40/17 Fashion ID](../zrodla/orzecznictwo/tsue/c-40-17.md) – TSUE (druga izba), 2019-07-29
+- Decyzje organów: ["EROD 1/2026" "VRT – nadużycie prawa do skargi (spór zgłoszony przez organ belgijski)"](../zrodla/decyzje-organow/edpb-art65/2026-05-28-1-2026.md) – EROD, 2026-05-28
 
 ## Art. 82
 
@@ -786,6 +841,15 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 106 u.o.d.o. "Art. 106 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-106.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-683/21 Nacionalinis visuomenės sveikatos centras](../zrodla/orzecznictwo/tsue/c-683-21.md) – TSUE (wielka izba), 2023-12-05
 - Orzecznictwo: [C-807/21 Deutsche Wohnen](../zrodla/orzecznictwo/tsue/c-807-21.md) – TSUE (wielka izba), 2023-12-05
+- Decyzje organów: ["EROD 01/2020" "Twitter – zgłoszenie naruszenia (spór o projekt decyzji DPC)"](../zrodla/decyzje-organow/edpb-art65/2020-11-09-01-2020.md) – EROD, 2020-11-09
+- Decyzje organów: ["EROD 1/2021" "WhatsApp – przejrzystość"](../zrodla/decyzje-organow/edpb-art65/2021-07-28-1-2021.md) – EROD, 2021-07-28
+- Decyzje organów: ["EROD 01/2022" "Accor – wysokość kary (spór o projekt decyzji CNIL)"](../zrodla/decyzje-organow/edpb-art65/2022-06-15-01-2022.md) – EROD, 2022-06-15
+- Decyzje organów: ["EROD 2/2022" "Instagram – dane kontaktowe dzieci w kontach firmowych"](../zrodla/decyzje-organow/edpb-art65/2022-07-28-2-2022.md) – EROD, 2022-07-28
+- Decyzje organów: ["EROD 3/2022" "Facebook – reklama behawioralna na podstawie umowy"](../zrodla/decyzje-organow/edpb-art65/2022-12-05-3-2022.md) – EROD, 2022-12-05
+- Decyzje organów: ["EROD 4/2022" "Instagram – reklama behawioralna na podstawie umowy"](../zrodla/decyzje-organow/edpb-art65/2022-12-05-4-2022.md) – EROD, 2022-12-05
+- Decyzje organów: ["EROD 5/2022" "WhatsApp – ulepszanie usługi i bezpieczeństwo na podstawie umowy"](../zrodla/decyzje-organow/edpb-art65/2022-12-05-5-2022.md) – EROD, 2022-12-05
+- Decyzje organów: ["EROD 1/2023" "Meta – transfery danych z Facebooka do USA"](../zrodla/decyzje-organow/edpb-art65/2023-04-13-1-2023.md) – EROD, 2023-04-13
+- Decyzje organów: ["EROD 2/2023" "TikTok – dane dzieci, ustawienia domyślne i projektowanie"](../zrodla/decyzje-organow/edpb-art65/2023-08-02-2-2023.md) – EROD, 2023-08-02
 
 ## Art. 84
 
@@ -809,6 +873,17 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 ## Art. 88
 
 - Tezy: [Klauzule otwarte RODO – mapowanie na prawo polskie](klauzule-otwarte.md) – –, 2026-10-08
+- Prawo polskie: [art. 22¹ KP "Art. 22¹ Kodeksu pracy – dane osobowe kandydata i pracownika – katalog"](../zrodla/pl/kodeks-pracy/art-22-1.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22¹ᵃ KP "Art. 22¹ᵃ Kodeksu pracy – zgoda kandydata/pracownika jako podstawa przetwarzania"](../zrodla/pl/kodeks-pracy/art-22-1a.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22¹ᵇ KP "Art. 22¹ᵇ Kodeksu pracy – dane szczególnych kategorii i biometria pracownika"](../zrodla/pl/kodeks-pracy/art-22-1b.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22¹ᶜ KP "Art. 22¹ᶜ Kodeksu pracy – kontrola trzeźwości"](../zrodla/pl/kodeks-pracy/art-22-1c.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22¹ᵈ KP "Art. 22¹ᵈ Kodeksu pracy – niedopuszczenie do pracy po kontroli trzeźwości"](../zrodla/pl/kodeks-pracy/art-22-1d.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22¹ᵉ KP "Art. 22¹ᵉ Kodeksu pracy – kontrola na obecność środków działających podobnie do alkoholu"](../zrodla/pl/kodeks-pracy/art-22-1e.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22¹ᶠ KP "Art. 22¹ᶠ Kodeksu pracy – niedopuszczenie do pracy – środki podobne do alkoholu"](../zrodla/pl/kodeks-pracy/art-22-1f.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22¹ᵍ KP "Art. 22¹ᵍ Kodeksu pracy – upoważnienie do rozporządzenia (badania trzeźwości)"](../zrodla/pl/kodeks-pracy/art-22-1g.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22¹ʰ KP "Art. 22¹ʰ Kodeksu pracy – kontrola trzeźwości – osoby zatrudnione na innej podstawie"](../zrodla/pl/kodeks-pracy/art-22-1h.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22² KP "Art. 22² Kodeksu pracy – monitoring wizyjny"](../zrodla/pl/kodeks-pracy/art-22-2.md) – Sejm RP, 1974-06-26
+- Prawo polskie: [art. 22³ KP "Art. 22³ Kodeksu pracy – monitoring poczty elektronicznej i inne formy monitoringu"](../zrodla/pl/kodeks-pracy/art-22-3.md) – Sejm RP, 1974-06-26
 
 ## Art. 89
 
@@ -821,3 +896,8 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 ## Art. 91
 
 - Prawo polskie: [art. 59 u.o.d.o. "Art. 59 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-059.md) – Sejm RP, 2018-05-10
+
+## Art. 95
+
+- Tezy: [Klauzule otwarte RODO – mapowanie na prawo polskie](klauzule-otwarte.md) – –, 2026-10-08
+- Prawo polskie: [art. 399 PKE "Art. 399 Prawa komunikacji elektronicznej – cookies – przechowywanie informacji i dostęp do urządzenia końcowego"](../zrodla/pl/prawo-komunikacji-elektronicznej/art-399.md) – Sejm RP, 2024-07-12

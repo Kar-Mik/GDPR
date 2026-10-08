@@ -10,7 +10,7 @@ Nazwa pliku: `RRRR-MM-DD-krotki-opis.md` (UODO: `RRRR/<sygnatura>-<rok sprawy>.m
 |---|---|
 | UODO (PL) | wszystkie decyzje z portalu orzeczenia.uodo.gov.pl – metadane (585, stan 2026-10-08); pełne teksty – do decyzji |
 | Organy zagraniczne | selekcja: (1) zagadnienia nierozstrzygnięte przez UODO (dashcamy, Sentry, inteligentne dzwonki, AI), (2) największe kary, (3) decyzje ilustrujące tezy z indeksu |
-| EROD – art. 65 | wszystkie wiążące decyzje |
+| EROD – art. 65 i 66 ust. 2 | wszystkie wiążące decyzje (12, stan 2026-10-08) – noty sygnalizacyjne |
 
 ## Źródła
 
@@ -23,4 +23,5 @@ Nazwa pliku: `RRRR-MM-DD-krotki-opis.md` (UODO: `RRRR/<sygnatura>-<rok sprawy>.m
 | Organ | Data | Plik | Kara | Artykuły |
 |---|---|---|---|---|
 | UODO (PL) | 2018–2026 | [rejestr 585 decyzji](pl-uodo/rejestr.md) | 136 decyzji z karą | zob. rejestr |
+| EROD | 2020–2026 | [12 wiążących decyzji](edpb-art65/README.md) | zob. rejestr | zob. rejestr |
 | DSB (AT) | 2025-09-29 | [Tesla – tryb Sentry](at-dsb/2025-09-29-tesla-sentry.md) | 600 EUR | 2(2)(c), 5(1)(a)(c)(e), 6(1), 12, 13 |

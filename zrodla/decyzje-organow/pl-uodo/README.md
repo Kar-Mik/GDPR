@@ -19,6 +19,8 @@
 | „Sentencja (skrót)” – tylko decyzje z karą | rozstrzygnięcie z portalu: tytuł RODO skrócony do „rozporządzenia 2016/679”, „(słownie: …)” usunięte, ucięte do ok. 700 znaków | tekst UODO, ale **niepełny** – służy do zorientowania się, czego dotyczy kara; nie cytować jako całej sentencji. Przy decyzjach wieloadresatowych początek bywa listą stron, a w jednej (DS.523.4750.2023) fragment zaczyna się w środku wyliczenia |
 | `podstawa` | RODO albo ustawa z 1997 r. (sprawy sprzed 25.05.2018) albo ustawa z 14.12.2018 r. (policja, prokuratura, sądy w sprawach karnych) | wykryta z podstawy prawnej w sentencji |
 
+| „Sądy administracyjne” – 84 decyzje | sygnatury WSA/NSA z identyfikatorów zdarzeń portalu | sygnatury – wysoka; skutek – kod portalu (zob. [`rejestr-uodo.md`](../../orzecznictwo/nsa-wsa/rejestr-uodo.md)) |
+
 Przy odpowiedzi skill przytacza decyzję jako: sygnatura, data, rozstrzygnięcie, kara, status – i odsyła do pełnego tekstu na portalu. Kwoty i artykuły przed użyciem w opinii warto potwierdzić w tekście decyzji.
 
 ## Znane rozbieżności w danych portalu
@@ -30,4 +32,3 @@ Przy odpowiedzi skill przytacza decyzję jako: sygnatura, data, rozstrzygnięcie
 ## Następne kroki (do decyzji użytkownika)
 
 1. Pełne teksty wybranych decyzji z tezami do `indeksy/`.
-2. Powiązanie z wyrokami WSA/NSA (`zrodla/orzecznictwo/nsa-wsa/`) dla decyzji ze zdarzeniami `trial` / `defended` / `repealed`.

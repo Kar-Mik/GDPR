@@ -1,0 +1,36 @@
+---
+id: pl-kp-art-22-1c
+typ: ustawa
+tytul: "Art. 22¹ᶜ Kodeksu pracy – kontrola trzeźwości"
+sygnatura: art. 22¹ᶜ KP
+organ: Sejm RP
+data: 1974-06-26
+status: obowiazuje
+podstawa: RODO
+artykuly_rodo: [5(1)(e), 6(1)(c), 9(2)(b), 88]
+akt: ustawa z dnia 26 czerwca 1974 r. – Kodeks pracy (t.j. Dz.U. 2026 poz. 1245)
+zrodlo: https://api.sejm.gov.pl/eli/acts/DU/2026/1245
+wersja_tekstu: Dz.U. 2026 poz. 1245 (tekst jednolity, stan prawny na 27.08.2026)
+jezyk_tekstu: pl
+sha256_tekstu: f12d177f53235558a3afddc5d7ca3a2b2c278e29057bae0f22085bc366f85a5a
+weryfikacja: "zweryfikowane (2026-10-08) – tekst z warstwy tekstowej PDF tekstu jednolitego; korekty sklejonych wyrazów opisane w README"
+---
+
+# Art. 22¹ᶜ Kodeksu pracy
+
+*kontrola trzeźwości*
+
+<!-- tekst urzędowy: początek -->
+§ 1. Jeżeli jest to niezbędne do zapewnienia ochrony życia i zdrowia pracowników lub innych osób lub ochrony mienia, pracodawca może wprowadzić kontrolę trzeźwości pracowników.
+§ 2. Kontrola trzeźwości nie może naruszać godności oraz innych dóbr osobistych pracownika.
+§ 3. Kontrola trzeźwości jest przeprowadzana przez pracodawcę w sposób ustalony zgodnie z § 10, uwzględniający wymagania wynikające z przepisów wydanych na podstawie art. 22¹ᵍ.
+§ 4. Kontrola trzeźwości obejmuje badanie przy użyciu metod niewymagających badania laboratoryjnego za pomocą urządzenia posiadającego ważny dokument potwierdzający jego kalibrację lub wzorcowanie.
+§ 5. Badanie, o którym mowa w § 4, polega na stwierdzeniu braku obecności alkoholu w organizmie pracownika albo obecności alkoholu wskazującej na stan po użyciu alkoholu albo stan nietrzeźwości w rozumieniu art. 46 ust. 2 albo 3 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151 oraz z 2026 r. poz. 875). Za równoznaczne ze stwierdzeniem braku obecności alkoholu w organizmie pracownika uznaje się przypadki, w których zawartość alkoholu nie osiąga lub nie prowadzi do osiągnięcia wartości właściwych dla stanu po użyciu alkoholu.
+§ 6. Pracodawca przetwarza informacje o dacie, godzinie i minucie badania, o którym mowa w § 4, oraz jego wyniku wskazującym na stan po użyciu alkoholu albo stan nietrzeźwości wyłącznie w przypadku, gdy jest to niezbędne do zapewnienia ochrony dóbr, o których mowa w § 1, i przechowuje te informacje w aktach osobowych pracownika przez okres nieprzekraczający roku od dnia ich zebrania.
+§ 7. W przypadku zastosowania kary upomnienia, kary nagany lub kary pieniężnej pracodawca przechowuje informacje, o których mowa w § 6, w aktach osobowych pracownika do czasu uznania kary za niebyłą zgodnie z art. 113.
+§ 8. W przypadku, w którym informacje, o których mowa w § 6, mogą stanowić lub stanowią dowód w postępowaniu prowadzonym na podstawie prawa, a pracodawca jest stroną tego postępowania lub powziął wiadomość o wytoczeniu powództwa lub wszczęciu postępowania, okres, o którym mowa w § 6, ulega przedłużeniu do czasu prawomocnego zakończenia postępowania.
+§ 9. Po upływie okresów, o których mowa w § 6, 7 lub 8, informacje, o których mowa w § 6, podlegają usunięciu.
+§ 10. Wprowadzenie kontroli trzeźwości, grupę lub grupy pracowników objętych kontrolą trzeźwości i sposób przeprowadzania kontroli trzeźwości, w tym rodzaj urządzenia wykorzystywanego do kontroli, czas i częstotliwość jej przeprowadzania, ustala się w układzie zbiorowym pracy lub w regulaminie pracy albo w obwieszczeniu, jeżeli pracodawca nie jest objęty układem zbiorowym pracy lub nie jest obowiązany do ustalenia regulaminu pracy.
+§ 11. O wprowadzeniu kontroli trzeźwości, o którym mowa w § 10, pracodawca informuje pracowników w sposób przyjęty u danego pracodawcy nie później niż 2 tygodnie przed rozpoczęciem jej przeprowadzania.
+§ 12. W związku z zatrudnieniem pracownika objętego kontrolą trzeźwości pracodawca przekazuje temu pracownikowi przed dopuszczeniem go do pracy informacje, o których mowa w § 10, w postaci papierowej lub elektronicznej.
+<!-- tekst urzędowy: koniec -->

@@ -5,9 +5,9 @@ tytul: Klauzule otwarte RODO – mapowanie na prawo polskie
 organ: –
 data: 2026-10-08
 status: obowiazuje
-artykuly_rodo: [2(2), 6(2), 6(3), 8(1), 9(2), 9(4), 10, 23, 35(4), 37(1)(a), 37(4), 43(1), 54, 58(6), 79, 80(1), 80(2), 82, 83(7), 83(8), 84, 85, 86, 87, 88, 89, 90]
+artykuly_rodo: [2(2), 6(2), 6(3), 8(1), 9(2), 9(4), 10, 23, 95, 35(4), 37(1)(a), 37(4), 43(1), 54, 58(6), 79, 80(1), 80(2), 82, 83(7), 83(8), 84, 85, 86, 87, 88, 89, 90]
 zrodlo: https://api.sejm.gov.pl/eli/acts/DU/2018/1000
-weryfikacja: zweryfikowane (2026-10-08) dla wierszy z u.o.d.o.; pozostałe – do mapowania
+weryfikacja: zweryfikowane (2026-10-08) dla wierszy z u.o.d.o., KP i PKE; pozostałe – do mapowania
 ---
 
 # Klauzule otwarte RODO → prawo polskie
@@ -41,13 +41,18 @@ weryfikacja: zweryfikowane (2026-10-08) dla wierszy z u.o.d.o.; pozostałe – d
 | art. 6 ust. 2–3 | doprecyzowanie podstaw z lit. c i e | ustawy sektorowe | do mapowania |
 | art. 8 ust. 1 | wiek zgody dziecka na usługi społeczeństwa informacyjnego (13–16 lat) | brak w u.o.d.o. | do potwierdzenia w ustawach sektorowych |
 | art. 9 ust. 2 lit. b, g, h, i, j | podstawy przetwarzania danych szczególnych kategorii | KP, ustawy o ochronie zdrowia i in. | do mapowania |
-| art. 9 ust. 4 | dodatkowe warunki dla danych genetycznych, biometrycznych, dot. zdrowia | KP art. 22¹b (biometria pracowników) | do weryfikacji |
-| art. 10 | dane o wyrokach skazujących i naruszeniach prawa | KP art. 22¹a, ustawy sektorowe | do weryfikacji |
+| art. 9 ust. 4 | dodatkowe warunki dla danych genetycznych, biometrycznych, dot. zdrowia | KP art. 22¹ᵇ § 2 – biometria pracownika do kontroli dostępu do szczególnie ważnych informacji lub pomieszczeń; § 3 – pisemne upoważnienie ([tekst](../zrodla/pl/kodeks-pracy/art-22-1b.md)); inne ustawy (zdrowie) – do mapowania | KP sprawdzony |
+| art. 10 | dane o wyrokach skazujących i naruszeniach prawa | KP art. 22¹ᵃ § 1 – zgoda pracownika **nie** może być podstawą przetwarzania danych z art. 10 ([tekst](../zrodla/pl/kodeks-pracy/art-22-1a.md)); podstawy żądania informacji o niekaralności – ustawy sektorowe (do mapowania) | KP sprawdzony |
 | art. 86 | dostęp do dokumentów urzędowych | ustawa o dostępie do informacji publicznej | do mapowania |
 | art. 87 | krajowy numer identyfikacyjny (PESEL) | do ustalenia | do mapowania |
-| art. 88 | zatrudnienie | KP art. 22¹–22³ | do weryfikacji |
+| art. 88 | zatrudnienie | KP art. 22¹ (katalog danych), 22¹ᵃ (zgoda), 22¹ᵇ (dane szczególne, biometria), 22¹ᶜ–22¹ʰ (kontrola trzeźwości i na środki podobne do alkoholu), 22² (monitoring wizyjny), 22³ (monitoring poczty i inny) – [`kodeks-pracy/`](../zrodla/pl/kodeks-pracy/README.md) | sprawdzone (t.j. Dz.U. 2026 poz. 1245) |
 | art. 89 | archiwizacja, badania naukowe, statystyka | ustawa z 21.02.2019 r., ustawy sektorowe | do mapowania |
 | art. 90 | tajemnica zawodowa | ustawy o zawodach zaufania publicznego | do mapowania |
+| art. 95 (dyrektywa 2002/58) | marketing elektroniczny, cookies | PKE art. 398 (zgoda na marketing bezpośredni), art. 399 (cookies), art. 400 (zgoda wg przepisów o ochronie danych) – [`prawo-komunikacji-elektronicznej/`](../zrodla/pl/prawo-komunikacji-elektronicznej/README.md); kary – Prezes UKE | sprawdzone |
+
+## Poza RODO
+
+- Dyrektywa 2016/680 (policja, prokuratura, sądy karne, służby) – ustawa z 14.12.2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (t.j. Dz.U. 2023 poz. 1206) – nie zaimportowana, tylko odesłanie: https://api.sejm.gov.pl/eli/acts/DU/2023/1206
 
 ## Inne kompetencje Prezesa UODO z u.o.d.o. (poza RODO)
 

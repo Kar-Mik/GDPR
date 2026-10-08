@@ -10,7 +10,7 @@ tytul: Rīgas satiksme
 sygnatura: C-13/16               # sygnatura, CELEX lub numer decyzji
 organ: TSUE                      # TSUE | NSA | WSA | UODO | DSB (AT) | EROD | Komisja | Sejm …
 data: 2017-05-04                 # data wydania / przyjęcia
-status: prawomocny               # obowiązuje | uchylony | zmieniony | wchodzi-w-zycie | prawomocny | nieprawomocny | projekt | brak-aktu
+status: prawomocny               # obowiązuje | uchylony | zmieniony | wchodzi-w-zycie | prawomocny | nieprawomocny | wydana (decyzje EROD) | projekt | brak-aktu
 obowiazuje_od:                   # dla aktów: data stosowania
 podstawa: dyrektywa 95/46        # akt, na którego gruncie wydano (dyrektywa 95/46 | RODO | …)
 artykuly_rodo: [6(1)(f)]         # artykuły RODO, których dotyczy (dla wyroków z dyr. 95/46 – odpowiedniki w RODO)

@@ -19,10 +19,12 @@ zrodla/
   pl/
     ustawa-odo-2018/         ustawa o ochronie danych osobowych (art-001.md … art-176.md)
     akty-wykonawcze-uodo/    komunikaty Prezesa UODO (wykaz DPIA), rozporządzenia RM, uchwały o powołaniu Prezesa
+    kodeks-pracy/            KP art. 22¹–22³ (dane pracowników, monitoring, kontrola trzeźwości)
+    prawo-komunikacji-elektronicznej/  PKE art. 398–400 (marketing, cookies)
     rejestr.md               ustawy sektorowe – rejestr
   orzecznictwo/
     tsue/                    wyroki wiodące (RODO i dyrektywa 95/46)
-    nsa-wsa/                 wyroki sądów administracyjnych
+    nsa-wsa/                 sygnatury wyroków WSA/NSA w sprawach decyzji UODO (rejestr-uodo.md)
   decyzje-organow/
     pl-uodo/                 decyzje Prezesa UODO (RRRR/…, rejestr.md)
     at-dsb/                  austriacka Datenschutzbehörde
@@ -44,8 +46,9 @@ indeksy/
 | Tekst RODO | art. 1–99 (wersja skonsolidowana ze sprostowaniami) i motywy 1–173 – zaimportowane i zweryfikowane sumą kontrolną |
 | Akty wykonawcze | rejestr gotowy (przegląd EUR-Lex z 2026-10-08) |
 | Wyroki TSUE | 22 wyroki wiodące – zweryfikowane z EUR-Lex: ECLI, skład, sentencja (suma SHA-256), kluczowe punkty uzasadnienia |
-| Decyzje organów | UODO – 585 decyzji (metadane: status, kara, rozstrzygnięcie, artykuły RODO; bez pełnych tekstów); DSB (AT) – Tesla Sentry |
-| Prawo polskie | ustawa o ochronie danych osobowych z 2018 r. – zaimportowana (tekst jednolity 2019 + zmiany z 2026 r.), zweryfikowana sumą kontrolną; komunikat Prezesa UODO – wykaz operacji wymagających DPIA (M.P. 2019 poz. 666); ustawy sektorowe do importu |
+| Wyroki NSA/WSA | 108 sygnatur w sprawach 84 decyzji UODO ze skutkiem wg portalu UODO – sygnalizacyjnie, bez tekstów (odesłanie do CBOSA) |
+| Decyzje organów | UODO – 585 decyzji (metadane: status, kara, rozstrzygnięcie, artykuły RODO, sygnatury wyroków; skróty sentencji 136 decyzji z karą; bez pełnych tekstów); EROD – 12 wiążących decyzji (art. 65, 66 ust. 2) – noty; DSB (AT) – Tesla Sentry; bazy zewnętrzne (CMS, EROD) – tylko przypomnienie |
+| Prawo polskie | ustawa o ochronie danych osobowych z 2018 r. – zaimportowana (tekst jednolity 2019 + zmiany z 2026 r.), zweryfikowana sumą kontrolną; komunikat Prezesa UODO – wykaz operacji wymagających DPIA (M.P. 2019 poz. 666); Kodeks pracy art. 22¹–22³ (t.j. 2026) i Prawo komunikacji elektronicznej art. 398–400 – zaimportowane; pozostałe ustawy sektorowe – rejestr |
 | Soft law, kodeksy | etap 2 |
 | Digital Omnibus | notatka o stanie prac |
 
