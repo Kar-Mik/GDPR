@@ -16,7 +16,9 @@ zrodla/
     rodo/                    RODO – artykuły i motywy (art-001.md … art-099.md, motywy/)
     akty-wykonawcze/         akty wydane na podstawie RODO + odesłania bez aktu
     inne/                    ePrivacy, dyr. 2016/680, rozp. 2018/1725, rozp. 2025/2518, KPP, TFUE
-  pl/                        ustawa o ochronie danych osobowych, ustawy sektorowe
+  pl/
+    ustawa-odo-2018/         ustawa o ochronie danych osobowych (art-001.md … art-176.md)
+    rejestr.md               ustawy sektorowe – rejestr
   orzecznictwo/
     tsue/                    wyroki wiodące (RODO i dyrektywa 95/46)
     nsa-wsa/                 wyroki sądów administracyjnych
@@ -42,13 +44,13 @@ indeksy/
 | Akty wykonawcze | rejestr gotowy (przegląd EUR-Lex z 2026-10-08) |
 | Wyroki TSUE | 22 wyroki wiodące – zweryfikowane z EUR-Lex: ECLI, skład, sentencja (suma SHA-256), kluczowe punkty uzasadnienia |
 | Decyzje organów | DSB (AT) – Tesla Sentry; UODO – do uzupełnienia |
-| Prawo polskie | rejestr aktów; teksty do importu |
+| Prawo polskie | ustawa o ochronie danych osobowych z 2018 r. – zaimportowana (tekst jednolity 2019 + zmiany z 2026 r.), zweryfikowana sumą kontrolną; ustawy sektorowe do importu |
 | Soft law, kodeksy | etap 2 |
 | Digital Omnibus | notatka o stanie prac |
 
 ## Zasady
 
 1. Każdy plik ma nagłówek zgodny z [`METADANE.md`](METADANE.md) – status, daty, źródło URL, powiązane artykuły.
-2. Teksty aktów pochodzą wyłącznie ze źródeł urzędowych (EUR-Lex, ISAP/Dziennik Ustaw, CURIA, orzeczenia.uodo.gov.pl, strony organów).
+2. Teksty aktów pochodzą wyłącznie ze źródeł urzędowych (EUR-Lex, ISAP/Dziennik Ustaw/api.sejm.gov.pl, CURIA, orzeczenia.uodo.gov.pl, strony organów).
 3. Streszczenia orzeczeń i decyzji są pisane własnymi słowami; pole `weryfikacja` mówi, czy zostały sprawdzone z tekstem źródłowym.
 4. Nowy dokument = nowy plik + wpis w rejestrze katalogu + wpis w `indeksy/artykuly.md`.

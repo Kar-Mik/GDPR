@@ -12,13 +12,13 @@ weryfikacja: niezweryfikowane
 
 # Prawo polskie
 
-Teksty jednolite i aktualne publikatory (Dz.U.) potwierdzić w ISAP przy imporcie.
+Teksty jednolite i aktualne publikatory (Dz.U.) potwierdzać w ISAP / api.sejm.gov.pl (ELI) przy imporcie.
 
 ## Ustawy ogólne
 
 | Akt | Relacja do RODO | Stan w repo |
 |---|---|---|
-| Ustawa z 10.05.2018 r. o ochronie danych osobowych | organ nadzorczy (UODO), postępowanie, kary dla sektora publicznego (art. 83 ust. 7), akredytacja i certyfikacja | do importu |
+| Ustawa z 10.05.2018 r. o ochronie danych osobowych (t.j. Dz.U. 2019 poz. 1781, zm. Dz.U. 2026 poz. 252, 548, 1003) | organ nadzorczy (UODO), postępowanie, kary dla sektora publicznego (art. 83 ust. 7), akredytacja i certyfikacja | **zaimportowana** – [`ustawa-odo-2018/`](ustawa-odo-2018/) (art. 1–176 + art. 59a od 2026-10-28) |
 | Ustawa z 21.02.2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania RODO | dostosowanie ustaw sektorowych | do importu |
 | Ustawa z 14.12.2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości | implementacja dyrektywy 2016/680 | do importu |
 | Konstytucja RP – art. 47, 51 | prawo do prywatności, autonomia informacyjna | do importu |
