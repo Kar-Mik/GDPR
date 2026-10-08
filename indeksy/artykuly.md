@@ -45,7 +45,54 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 
 - Orzecznictwo: [C-708/18 TK / Asociaţia de Proprietari bloc M5A-ScaraA](../zrodla/orzecznictwo/tsue/c-708-18.md) – TSUE (trzecia izba), 2019-12-11
 - Orzecznictwo: [C-26/22, C-64/22 UF i AB / SCHUFA Holding (zwolnienie z długów)](../zrodla/orzecznictwo/tsue/c-26-22-c-64-22.md) – TSUE (pierwsza izba), 2023-12-07
+- Decyzje organów: ["ZSPR.421.7.2019" "nakaz, nałożenie kary (201 559,50 zł) – art. 5, 6, 24 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspr_421_7-2019.md) – Prezes UODO, 2019-10-16
+- Decyzje organów: ["ZSPU.421.3.2019" "nakaz, nałożenie kary (40.000 zł) – art. 5, 24, 28, 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspu_421_3-2019.md) – Prezes UODO, 2019-10-18
+- Decyzje organów: ["DKN.5112.13.2020" "nakaz, umorzenie, nałożenie kary (100 000 zł) – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dkn_5112_13-2020.md) – Prezes UODO, 2020-08-24
+- Decyzje organów: ["DKN.5131.51.2021" "nałożenie kary (10.000 zł) – art. 5 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5131_51-2021.md) – Prezes UODO, 2022-05-31
+- Decyzje organów: ["DKN.5131.8.2022" "nałożenie kary (8 000 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5131_8-2022.md) – Prezes UODO, 2022-11-02
+- Decyzje organów: ["DS.523.1436.2022" "odmowa, upomnienie – art. 5 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_1436-2022.md) – Prezes UODO, 2022-11-23
+- Decyzje organów: ["DKN.5112.5.2021" "nakaz, nałożenie kary (45 697,00 zł) – art. 5, 6, 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5112_5-2021.md) – Prezes UODO, 2022-11-30
+- Decyzje organów: ["DKN.5131.8.2021" "nałożenie kary (47.160 zł) – art. 5, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_8-2021.md) – Prezes UODO, 2023-05-31
+- Decyzje organów: ["DKN.5131.47.2022" "nałożenie kary (15 000 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_47-2022.md) – Prezes UODO, 2023-07-18
+- Decyzje organów: ["DKN.5131.26.2023" "nałożenie kary (35 000 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_26-2023.md) – Prezes UODO, 2023-11-30
+- Decyzje organów: ["DKN.5131.32.2023" "nakaz, nałożenie kary (100 000 zł) – art. 5, 9, 32, 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_32-2023.md) – Prezes UODO, 2023-12-20
+- Decyzje organów: ["ZSPR.421.2.2019 ZSPR.405.67.2019" "umorzenie, nałożenie kary (3 819 960 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/zspr_405_67-2019.md) – Prezes UODO, 2024-01-17
+- Decyzje organów: ["DKN.5131.32.2022" "nakaz, nałożenie kary (10 913 zł) – art. 5, 32, 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_32-2022.md) – Prezes UODO, 2024-04-24
+- Decyzje organów: ["DKN.5131.29.2023" "nakaz, nałożenie kary (238 345 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_29-2023.md) – Prezes UODO, 2024-04-29
+- Decyzje organów: ["DKN.5131.57.2022" "nakaz, nałożenie kary (40.000 zł) – art. 5, 32, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_57-2022.md) – Prezes UODO, 2024-06-13
+- Decyzje organów: ["DKN.5131.33.2023" "nakaz, nałożenie kary (85.000 zł) – art. 5, 9, 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_33-2023.md) – Prezes UODO, 2024-09-02
+- Decyzje organów: ["DKN.5131.1.2021" "nakaz, nałożenie kary (353 589 zł) – art. 5, 28, 32, 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_1-2021.md) – Prezes UODO, 2024-10-09
+- Decyzje organów: ["DKN.5131.35.2021" "nałożenie kary (15.000 zł + 20.000 zł + 24.882,21 zł) – art. 5, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_35-2021.md) – Prezes UODO, 2024-10-10
+- Decyzje organów: ["DKN.5130.2415.2020" "nałożenie kary (1 527 855,00 zł + 20 037,00 zł) – art. 5, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5130_2415-2020.md) – Prezes UODO, 2024-11-12
+- Decyzje organów: ["DKN.5131.9.2024" "nakaz, nałożenie kary (24 555 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_9-2024.md) – Prezes UODO, 2024-11-12
+- Decyzje organów: ["DKN.5131.4.2024" "nałożenie kary (687 534,75 zł + 458 356,50 zł) – art. 5, 9, 13, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_4-2024.md) – Prezes UODO, 2025-01-17
+- Decyzje organów: ["DKN.5131.1.2025" "nałożenie kary (100 000 zł + 27 124 816 zł) – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_1-2025.md) – Prezes UODO, 2025-03-17
+- Decyzje organów: ["DKN.5131.10.2023" "nakaz, nałożenie kary (29 043 zł + 4 630 zł) – art. 5, 32, 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_10-2023.md) – Prezes UODO, 2025-04-01
+- Decyzje organów: ["DKN.5131.30.2022" "upomnienie, nałożenie kary (5 000,00 zł + 10 000,00 zł) – art. 5, 28, 32, 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_30-2022.md) – Prezes UODO, 2025-06-03
+- Decyzje organów: ["DKN.5131.48.2022" "nakaz, nałożenie kary (66 500 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_48-2022.md) – Prezes UODO, 2025-06-17
+- Decyzje organów: ["DKN.5130.4179.2020" "nałożenie kary (94 286 zł + 42 429 zł + 47 143 zł + 1 632 063 zł + 13 600 528 zł + 1 700 066 zł) – art. 5, 28, 32, 34, 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5130_4179-2020.md) – Prezes UODO, 2025-06-23
+- Decyzje organów: ["DKN.5131.17.2022" "nałożenie kary (32 832 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_17-2022.md) – Prezes UODO, 2025-07-04
+- Decyzje organów: ["DKN.5131.10.2025" "nakaz, upomnienie – art. 5, 6, 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_10-2025.md) – Prezes UODO, 2025-08-07
+- Decyzje organów: ["DKN.5131.9.2025" "upomnienie – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_9-2025.md) – Prezes UODO, 2025-08-07
+- Decyzje organów: ["DKN.5130.3165.2020" "nakaz, upomnienie – art. 5, 28, 32, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5130_3165-2020.md) – Prezes UODO, 2025-08-26
+- Decyzje organów: ["DKN.5131.11.2025" "upomnienie – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_11-2025.md) – Prezes UODO, 2025-08-26
+- Decyzje organów: ["DKN.5110.9.2020" "upomnienie – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5110_9-2020.md) – Prezes UODO, 2025-09-12
 - Decyzje organów: [Właściciel Tesli – tryb Sentry (Wächter-Modus)](../zrodla/decyzje-organow/at-dsb/2025-09-29-tesla-sentry.md) – DSB (AT), 2025-09-29
+- Decyzje organów: ["DKN.5131.13.2025" "upomnienie – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_13-2025.md) – Prezes UODO, 2025-10-07
+- Decyzje organów: ["DKN.5112.11.2021" "umorzenie, upomnienie – art. 5, 13, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5112_11-2021.md) – Prezes UODO, 2025-11-06
+- Decyzje organów: ["DKN.5131.3.2024" "nałożenie kary (20 000 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_3-2024.md) – Prezes UODO, 2025-11-15
+- Decyzje organów: ["DKN.5112.27.2022" "nałożenie kary (7 577 zł + 3 157 zł) – art. 5, 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5112_27-2022.md) – Prezes UODO, 2025-11-25
+- Decyzje organów: ["DKN.5112.63.2024" "nakaz, upomnienie – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5112_63-2024.md) – Prezes UODO, 2025-12-14
+- Decyzje organów: ["DKN.5131.5.2024" "nakaz, nałożenie kary (40 000 zł + 38 000 zł) – art. 5, 9, 25, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_5-2024.md) – Prezes UODO, 2025-12-29
+- Decyzje organów: ["DKN.5112.1.2023" "nałożenie kary (6 251 471 zł + 5 209 559 zł) – art. 5, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5112_1-2023.md) – Prezes UODO, 2026-02-05
+- Decyzje organów: ["DKN.5131.12.2025" "nałożenie kary (35 582 zł) – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_12-2025.md) – Prezes UODO, 2026-02-13
+- Decyzje organów: ["DKN.5131.37.2021" "upomnienie – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_37-2021.md) – Prezes UODO, 2026-02-18
+- Decyzje organów: ["DKN.5112.33.2022" "nakaz, nałożenie kary (5 898 064 zł) – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5112_33-2022.md) – Prezes UODO, 2026-02-19
+- Decyzje organów: ["DKN.5112.13.2023" "nakaz, upomnienie, nałożenie kary (975 zł) – art. 5, 13, 28, 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5112_13-2023.md) – Prezes UODO, 2026-02-27
+- Decyzje organów: ["DKN.5131.7.2022" "upomnienie, nałożenie kary (10 145 zł) – art. 5, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_7-2022.md) – Prezes UODO, 2026-04-13
+- Decyzje organów: ["DKN.5131.27.2023" "nakaz, nałożenie kary (15 000 zł + 5 500 zł + 13 200 zł) – art. 5, 32, 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_27-2023.md) – Prezes UODO, 2026-05-19
+- Decyzje organów: ["DKN.5131.5.2025" "nałożenie kary (21 000 zł + 12 500 zł) – art. 5, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_5-2025.md) – Prezes UODO, 2026-05-25
+- Decyzje organów: ["DKN.5131.34.2023" "nałożenie kary (11 594 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_34-2023.md) – Prezes UODO, 2026-06-13
 
 ## Art. 6
 
@@ -60,7 +107,30 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Orzecznictwo: [C-252/21 Meta Platforms i in. / Bundeskartellamt](../zrodla/orzecznictwo/tsue/c-252-21.md) – TSUE (wielka izba), 2023-07-04
 - Orzecznictwo: [C-26/22, C-64/22 UF i AB / SCHUFA Holding (zwolnienie z długów)](../zrodla/orzecznictwo/tsue/c-26-22-c-64-22.md) – TSUE (pierwsza izba), 2023-12-07
 - Orzecznictwo: [C-621/22 Koninklijke Nederlandse Lawn Tennis Bond (KNLTB)](../zrodla/orzecznictwo/tsue/c-621-22.md) – TSUE (dziewiąta izba), 2024-10-04
+- Decyzje organów: ["ZSZZS.440.790.2018" "upomnienie – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zszzs_440_790-2018.md) – Prezes UODO, 2019-07-11
+- Decyzje organów: ["ZSPR.421.7.2019" "nakaz, nałożenie kary (201 559,50 zł) – art. 5, 6, 24 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspr_421_7-2019.md) – Prezes UODO, 2019-10-16
+- Decyzje organów: ["DKN.5112.7.2020" "upomnienie – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dkn_5112_7-2020.md) – Prezes UODO, 2020-06-30
+- Decyzje organów: ["DKN.5112.13.2020" "nakaz, umorzenie, nałożenie kary (100 000 zł) – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dkn_5112_13-2020.md) – Prezes UODO, 2020-08-24
+- Decyzje organów: ["ZSPR.440.280.2018" "upomnienie – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/zspr_440_280-2018.md) – Prezes UODO, 2022-02-22
+- Decyzje organów: ["DS.523.1235.2021" "upomnienie – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_1235-2021.md) – Prezes UODO, 2022-03-02
+- Decyzje organów: ["ZWOS.440.3951.2019" "upomnienie – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/zwos_440_3951-2019.md) – Prezes UODO, 2022-05-16
+- Decyzje organów: ["DS.523.2704.2022" "upomnienie – art. 6, 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_2704-2022.md) – Prezes UODO, 2022-11-25
+- Decyzje organów: ["DKN.5112.5.2021" "nakaz, nałożenie kary (45 697,00 zł) – art. 5, 6, 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5112_5-2021.md) – Prezes UODO, 2022-11-30
+- Decyzje organów: ["DS.523.3215.2022" "upomnienie – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_3215-2022.md) – Prezes UODO, 2022-12-14
+- Decyzje organów: ["DS.523.2244.2022" "nakaz – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/ds_523_2244-2022.md) – Prezes UODO, 2023-03-10
+- Decyzje organów: ["DS.523.5648.2023" "upomnienie – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/ds_523_5648-2023.md) – Prezes UODO, 2024-09-17
+- Decyzje organów: ["DKN.5131.1.2025" "nałożenie kary (100 000 zł + 27 124 816 zł) – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_1-2025.md) – Prezes UODO, 2025-03-17
+- Decyzje organów: ["DS.523.4750.2023" "umorzenie, nałożenie kary (75.000 zł) – art. 6, 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/ds_523_4750-2023.md) – Prezes UODO, 2025-03-19
+- Decyzje organów: ["DKN.5112.6.2020" "nałożenie kary (18 416 400 zł) – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5112_6-2020.md) – Prezes UODO, 2025-07-23
+- Decyzje organów: ["DKN.5131.10.2025" "nakaz, upomnienie – art. 5, 6, 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_10-2025.md) – Prezes UODO, 2025-08-07
+- Decyzje organów: ["DKN.5131.9.2025" "upomnienie – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_9-2025.md) – Prezes UODO, 2025-08-07
+- Decyzje organów: ["DKN.5131.11.2025" "upomnienie – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_11-2025.md) – Prezes UODO, 2025-08-26
+- Decyzje organów: ["DKN.5110.9.2020" "upomnienie – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5110_9-2020.md) – Prezes UODO, 2025-09-12
 - Decyzje organów: [Właściciel Tesli – tryb Sentry (Wächter-Modus)](../zrodla/decyzje-organow/at-dsb/2025-09-29-tesla-sentry.md) – DSB (AT), 2025-09-29
+- Decyzje organów: ["DKN.5131.13.2025" "upomnienie – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_13-2025.md) – Prezes UODO, 2025-10-07
+- Decyzje organów: ["DKN.5131.12.2025" "nałożenie kary (35 582 zł) – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_12-2025.md) – Prezes UODO, 2026-02-13
+- Decyzje organów: ["DKN.5112.33.2022" "nakaz, nałożenie kary (5 898 064 zł) – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5112_33-2022.md) – Prezes UODO, 2026-02-19
+- Decyzje organów: ["DS.523.2582.2024" "upomnienie – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/ds_523_2582-2024.md) – Prezes UODO, 2026-05-18
 - Zmiany w przygotowaniu: [Digital Omnibus – projektowane zmiany RODO i ePrivacy](../zrodla/zmiany/digital-omnibus.md) – Komisja Europejska, 2025-11-19
 
 ## Art. 7
@@ -77,6 +147,17 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 6a u.o.d.o. "Art. 6a ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-006a.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-184/20 OT / Vyriausioji tarnybinės etikos komisija](../zrodla/orzecznictwo/tsue/c-184-20.md) – TSUE (wielka izba), 2022-08-01
 - Orzecznictwo: [C-252/21 Meta Platforms i in. / Bundeskartellamt](../zrodla/orzecznictwo/tsue/c-252-21.md) – TSUE (wielka izba), 2023-07-04
+- Decyzje organów: ["ZSZZS.440.768.2018" "nakaz, nałożenie kary (20 000,00 zł) – art. 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/zszzs_440_768-2018.md) – Prezes UODO, 2020-02-18
+- Decyzje organów: ["DS.523.7376.2021" "nakaz, upomnienie – art. 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_7376-2021.md) – Prezes UODO, 2022-04-27
+- Decyzje organów: ["DS.523.7988.2021" "umorzenie, upomnienie – art. 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_7988-2021.md) – Prezes UODO, 2022-07-13
+- Decyzje organów: ["DS.523.2704.2022" "upomnienie – art. 6, 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_2704-2022.md) – Prezes UODO, 2022-11-25
+- Decyzje organów: ["DKN.5112.5.2021" "nakaz, nałożenie kary (45 697,00 zł) – art. 5, 6, 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5112_5-2021.md) – Prezes UODO, 2022-11-30
+- Decyzje organów: ["DKN.5131.32.2023" "nakaz, nałożenie kary (100 000 zł) – art. 5, 9, 32, 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_32-2023.md) – Prezes UODO, 2023-12-20
+- Decyzje organów: ["DKN.5131.33.2023" "nakaz, nałożenie kary (85.000 zł) – art. 5, 9, 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_33-2023.md) – Prezes UODO, 2024-09-02
+- Decyzje organów: ["DKN.5131.4.2024" "nałożenie kary (687 534,75 zł + 458 356,50 zł) – art. 5, 9, 13, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_4-2024.md) – Prezes UODO, 2025-01-17
+- Decyzje organów: ["DS.523.4750.2023" "umorzenie, nałożenie kary (75.000 zł) – art. 6, 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/ds_523_4750-2023.md) – Prezes UODO, 2025-03-19
+- Decyzje organów: ["DKN.5131.10.2025" "nakaz, upomnienie – art. 5, 6, 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_10-2025.md) – Prezes UODO, 2025-08-07
+- Decyzje organów: ["DKN.5131.5.2024" "nakaz, nałożenie kary (40 000 zł + 38 000 zł) – art. 5, 9, 25, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_5-2024.md) – Prezes UODO, 2025-12-29
 - Zmiany w przygotowaniu: [Digital Omnibus – projektowane zmiany RODO i ePrivacy](../zrodla/zmiany/digital-omnibus.md) – Komisja Europejska, 2025-11-19
 
 ## Art. 10
@@ -101,13 +182,21 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 3 u.o.d.o. "Art. 3 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-003.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-40/17 Fashion ID](../zrodla/orzecznictwo/tsue/c-40-17.md) – TSUE (druga izba), 2019-07-29
 - Orzecznictwo: [C-413/23 P EIOD / SRB](../zrodla/orzecznictwo/tsue/c-413-23-p.md) – TSUE (pierwsza izba), 2025-09-04
+- Decyzje organów: ["ZSPU.421.2.2018" "nakaz, umorzenie – art. 13, 30 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspu_421_2-2018.md) – Prezes UODO, 2019-04-06
+- Decyzje organów: ["DS.523.2332.2021" "nakaz, odmowa – art. 13 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_2332-2021.md) – Prezes UODO, 2022-01-24
+- Decyzje organów: ["DS.523.399.2021" "nakaz, upomnienie – art. 13 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_399-2021.md) – Prezes UODO, 2022-05-30
+- Decyzje organów: ["DKN.5131.4.2024" "nałożenie kary (687 534,75 zł + 458 356,50 zł) – art. 5, 9, 13, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_4-2024.md) – Prezes UODO, 2025-01-17
 - Decyzje organów: [Właściciel Tesli – tryb Sentry (Wächter-Modus)](../zrodla/decyzje-organow/at-dsb/2025-09-29-tesla-sentry.md) – DSB (AT), 2025-09-29
+- Decyzje organów: ["DKN.5112.11.2021" "umorzenie, upomnienie – art. 5, 13, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5112_11-2021.md) – Prezes UODO, 2025-11-06
+- Decyzje organów: ["DKN.5112.13.2023" "nakaz, upomnienie, nałożenie kary (975 zł) – art. 5, 13, 28, 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5112_13-2023.md) – Prezes UODO, 2026-02-27
 - Zmiany w przygotowaniu: [Digital Omnibus – projektowane zmiany RODO i ePrivacy](../zrodla/zmiany/digital-omnibus.md) – Komisja Europejska, 2025-11-19
 
 ## Art. 14
 
 - Prawo polskie: [art. 4 u.o.d.o. "Art. 4 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-004.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-413/23 P EIOD / SRB](../zrodla/orzecznictwo/tsue/c-413-23-p.md) – TSUE (pierwsza izba), 2025-09-04
+- Decyzje organów: ["ZSPR.421.3.2018" "nakaz, nałożenie kary (943.470,00 zł) – art. 14 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspr_421_3-2018.md) – Prezes UODO, 2019-03-15
+- Decyzje organów: ["DKE.523.18.2021" "nakaz, odmowa – art. 14 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_523_18-2021.md) – Prezes UODO, 2021-08-24
 
 ## Art. 15
 
@@ -116,6 +205,10 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 5a u.o.d.o. "Art. 5a ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-005a.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-154/21 Österreichische Post (odbiorcy)](../zrodla/orzecznictwo/tsue/c-154-21.md) – TSUE (pierwsza izba), 2023-01-12
 - Orzecznictwo: [C-487/21 F.F. / Österreichische Datenschutzbehörde (kopia)](../zrodla/orzecznictwo/tsue/c-487-21.md) – TSUE (pierwsza izba), 2023-05-04
+- Decyzje organów: ["ZSZZS.440.842.2018" "nakaz – art. 15 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zszzs_440_842-2018.md) – Prezes UODO, 2019-03-18
+- Decyzje organów: ["ZKE.440.89.2019" "nakaz, odmowa – art. 15 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/zke_440_89-2019.md) – Prezes UODO, 2020-02-20
+- Decyzje organów: ["DS.523.4826.2020" "nakaz – art. 15 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_4826-2020.md) – Prezes UODO, 2022-10-19
+- Decyzje organów: ["DS.523.6794.2024" "odmowa – art. 15 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/ds_523_6794-2024.md) – Prezes UODO, 2025-01-31
 - Zmiany w przygotowaniu: [Digital Omnibus – projektowane zmiany RODO i ePrivacy](../zrodla/zmiany/digital-omnibus.md) – Komisja Europejska, 2025-11-19
 
 ## Art. 16
@@ -127,6 +220,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Tezy: [Art. 11 RODO – przetwarzanie niewymagające identyfikacji – tezy](art-011.md) – –, 2026-10-08
 - Orzecznictwo: [C-131/12 Google Spain i Google](../zrodla/orzecznictwo/tsue/c-131-12.md) – TSUE (wielka izba), 2014-05-13
 - Orzecznictwo: [C-26/22, C-64/22 UF i AB / SCHUFA Holding (zwolnienie z długów)](../zrodla/orzecznictwo/tsue/c-26-22-c-64-22.md) – TSUE (pierwsza izba), 2023-12-07
+- Decyzje organów: ["ZSPR.440.1055.2019" "upomnienie – art. 17 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/zspr_440_1055-2019.md) – Prezes UODO, 2022-07-05
 
 ## Art. 18
 
@@ -158,6 +252,15 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 5 u.o.d.o. "Art. 5 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-005.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 5a u.o.d.o. "Art. 5a ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-005a.md) – Sejm RP, 2018-05-10
 
+## Art. 24
+
+- Decyzje organów: ["ZSPR.421.7.2019" "nakaz, nałożenie kary (201 559,50 zł) – art. 5, 6, 24 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspr_421_7-2019.md) – Prezes UODO, 2019-10-16
+- Decyzje organów: ["ZSPU.421.3.2019" "nakaz, nałożenie kary (40.000 zł) – art. 5, 24, 28, 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspu_421_3-2019.md) – Prezes UODO, 2019-10-18
+
+## Art. 25
+
+- Decyzje organów: ["DKN.5131.5.2024" "nakaz, nałożenie kary (40 000 zł + 38 000 zł) – art. 5, 9, 25, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_5-2024.md) – Prezes UODO, 2025-12-29
+
 ## Art. 26
 
 - Orzecznictwo: [C-210/16 Wirtschaftsakademie Schleswig-Holstein](../zrodla/orzecznictwo/tsue/c-210-16.md) – TSUE (wielka izba), 2018-06-05
@@ -168,17 +271,197 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 ## Art. 28
 
 - Prawo polskie: [art. 53 u.o.d.o. "Art. 53 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-053.md) – Sejm RP, 2018-05-10
+- Decyzje organów: ["ZSPU.421.3.2019" "nakaz, nałożenie kary (40.000 zł) – art. 5, 24, 28, 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspu_421_3-2019.md) – Prezes UODO, 2019-10-18
+- Decyzje organów: ["DKN.5130.2024.2020" "umorzenie, nałożenie kary (100 000 zł) – art. 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dkn_5130_2024-2020.md) – Prezes UODO, 2021-02-11
+- Decyzje organów: ["DKN.5130.2215.2020" "umorzenie, nałożenie kary (4 911 732 zł + 250 135 zł) – art. 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5130_2215-2020.md) – Prezes UODO, 2022-01-22
+- Decyzje organów: ["DKN.5131.29.2022" "nałożenie kary (2.500 zł) – art. 28 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5131_29-2022.md) – Prezes UODO, 2022-08-16
+- Decyzje organów: ["DKN.5131.31.2021" "nakaz, nałożenie kary (1 556,28 zł) – art. 28, 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_31-2021.md) – Prezes UODO, 2023-02-07
+- Decyzje organów: ["DKN.5131.50.2021" "nałożenie kary (33.012 zł + 472 zł) – art. 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_50-2021.md) – Prezes UODO, 2023-02-08
+- Decyzje organów: ["DKN.5110.3.2022" "upomnienie – art. 28 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5110_3-2022.md) – Prezes UODO, 2024-01-10
+- Decyzje organów: ["DKN.5131.1.2021" "nakaz, nałożenie kary (353 589 zł) – art. 5, 28, 32, 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_1-2021.md) – Prezes UODO, 2024-10-09
+- Decyzje organów: ["DKN.5131.35.2021" "nałożenie kary (15.000 zł + 20.000 zł + 24.882,21 zł) – art. 5, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_35-2021.md) – Prezes UODO, 2024-10-10
+- Decyzje organów: ["DKN.5130.2415.2020" "nałożenie kary (1 527 855,00 zł + 20 037,00 zł) – art. 5, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5130_2415-2020.md) – Prezes UODO, 2024-11-12
+- Decyzje organów: ["DKN.5131.30.2022" "upomnienie, nałożenie kary (5 000,00 zł + 10 000,00 zł) – art. 5, 28, 32, 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_30-2022.md) – Prezes UODO, 2025-06-03
+- Decyzje organów: ["DKN.5130.4179.2020" "nałożenie kary (94 286 zł + 42 429 zł + 47 143 zł + 1 632 063 zł + 13 600 528 zł + 1 700 066 zł) – art. 5, 28, 32, 34, 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5130_4179-2020.md) – Prezes UODO, 2025-06-23
+- Decyzje organów: ["DKN.5130.3165.2020" "nakaz, upomnienie – art. 5, 28, 32, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5130_3165-2020.md) – Prezes UODO, 2025-08-26
+- Decyzje organów: ["DKN.5112.11.2021" "umorzenie, upomnienie – art. 5, 13, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5112_11-2021.md) – Prezes UODO, 2025-11-06
+- Decyzje organów: ["DKN.5112.1.2023" "nałożenie kary (6 251 471 zł + 5 209 559 zł) – art. 5, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5112_1-2023.md) – Prezes UODO, 2026-02-05
+- Decyzje organów: ["DKN.5112.13.2023" "nakaz, upomnienie, nałożenie kary (975 zł) – art. 5, 13, 28, 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5112_13-2023.md) – Prezes UODO, 2026-02-27
+- Decyzje organów: ["DKN.5131.7.2022" "upomnienie, nałożenie kary (10 145 zł) – art. 5, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_7-2022.md) – Prezes UODO, 2026-04-13
+- Decyzje organów: ["DKN.5131.5.2025" "nałożenie kary (21 000 zł + 12 500 zł) – art. 5, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_5-2025.md) – Prezes UODO, 2026-05-25
+- Decyzje organów: ["DKN.5131.12.2022" "decyzja – art. 28, 32, 35 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_12-2022.md) – Prezes UODO, 2026-06-11
+
+## Art. 30
+
+- Decyzje organów: ["ZSPU.421.2.2018" "nakaz, umorzenie – art. 13, 30 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspu_421_2-2018.md) – Prezes UODO, 2019-04-06
+- Decyzje organów: ["ZSPU.421.3.2019" "nakaz, nałożenie kary (40.000 zł) – art. 5, 24, 28, 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspu_421_3-2019.md) – Prezes UODO, 2019-10-18
+- Decyzje organów: ["DKN.5112.14.2022" "nałożenie kary (261 918,00 zł + 314 302,00 zł) – art. 30, 35, 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5112_14-2022.md) – Prezes UODO, 2024-12-18
+- Decyzje organów: ["DKN.5112.28.2022" "umorzenie, upomnienie – art. 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5112_28-2022.md) – Prezes UODO, 2025-07-21
+- Decyzje organów: ["DKN.5112.27.2022" "nałożenie kary (7 577 zł + 3 157 zł) – art. 5, 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5112_27-2022.md) – Prezes UODO, 2025-11-25
+- Decyzje organów: ["DKN.5112.13.2023" "nakaz, upomnienie, nałożenie kary (975 zł) – art. 5, 13, 28, 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5112_13-2023.md) – Prezes UODO, 2026-02-27
+
+## Art. 31
+
+- Decyzje organów: ["DKE.561.3.2020" "nałożenie kary (100.000 zł) – art. 31 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dke_561_3-2020.md) – Prezes UODO, 2020-07-02
+
+## Art. 32
+
+- Decyzje organów: ["ZSPR.440.43.2019" "nałożenie kary (55 750,50 zł) – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspr_440_43-2019.md) – Prezes UODO, 2019-04-25
+- Decyzje organów: ["ZSPR.421.2.2019" "nałożenie kary (2 830 410 zł) – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspr_421_2-2019.md) – Prezes UODO, 2019-09-10
+- Decyzje organów: ["ZSPU.421.3.2019" "nakaz, nałożenie kary (40.000 zł) – art. 5, 24, 28, 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspu_421_3-2019.md) – Prezes UODO, 2019-10-18
+- Decyzje organów: ["DKN.5112.1.2020" "nałożenie kary (1.968.524,00 zł) – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dkn_5112_1-2020.md) – Prezes UODO, 2020-12-03
+- Decyzje organów: ["DKN.5130.1354.2020" "umorzenie, nałożenie kary (1.069.850,00 zł) – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dkn_5130_1354-2020.md) – Prezes UODO, 2020-12-17
+- Decyzje organów: ["DKN.5130.2815.2020" "upomnienie – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dkn_5130_2815-2020.md) – Prezes UODO, 2021-01-11
+- Decyzje organów: ["DKN.5130.2024.2020" "umorzenie, nałożenie kary (100 000 zł) – art. 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dkn_5130_2024-2020.md) – Prezes UODO, 2021-02-11
+- Decyzje organów: ["DKN.5130.3114.2020" "umorzenie, nałożenie kary (1 136 975 zł) – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dkn_5130_3114-2020.md) – Prezes UODO, 2021-04-22
+- Decyzje organów: ["DKN.5131.22.2021" "nałożenie kary (10 000 zł) – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dkn_5131_22-2021.md) – Prezes UODO, 2021-07-13
+- Decyzje organów: ["DKN.5130.2215.2020" "umorzenie, nałożenie kary (4 911 732 zł + 250 135 zł) – art. 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5130_2215-2020.md) – Prezes UODO, 2022-01-22
+- Decyzje organów: ["DKN.5131.56.2021" "nakaz, upomnienie – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5131_56-2021.md) – Prezes UODO, 2022-06-14
+- Decyzje organów: ["DKN.5131.11.2022" "upomnienie – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5131_11-2022.md) – Prezes UODO, 2022-06-23
+- Decyzje organów: ["DKN.5131.2.2022" "upomnienie – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5131_2-2022.md) – Prezes UODO, 2022-07-21
+- Decyzje organów: ["DKN.5131.8.2022" "nałożenie kary (8 000 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5131_8-2022.md) – Prezes UODO, 2022-11-02
+- Decyzje organów: ["DKN.5131.12.2020" "umorzenie, nałożenie kary (30.000 zł) – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_12-2020.md) – Prezes UODO, 2023-01-19
+- Decyzje organów: ["DKN.5131.50.2021" "nałożenie kary (33.012 zł + 472 zł) – art. 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_50-2021.md) – Prezes UODO, 2023-02-08
+- Decyzje organów: ["DKN.5131.31.2022" "nakaz, nałożenie kary (23 580 zł) – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_31-2022.md) – Prezes UODO, 2023-04-20
+- Decyzje organów: ["DKN.5131.44.2022" "nałożenie kary (10 000 zł) – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_44-2022.md) – Prezes UODO, 2023-05-09
+- Decyzje organów: ["DKN.5131.56.2022" "nakaz, nałożenie kary (30 000 zł) – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_56-2022.md) – Prezes UODO, 2023-05-16
+- Decyzje organów: ["DKN.5131.47.2022" "nałożenie kary (15 000 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_47-2022.md) – Prezes UODO, 2023-07-18
+- Decyzje organów: ["DKN.5131.13.2022" "nałożenie kary (117 900 zł) – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_13-2022.md) – Prezes UODO, 2023-11-30
+- Decyzje organów: ["DKN.5131.26.2023" "nałożenie kary (35 000 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_26-2023.md) – Prezes UODO, 2023-11-30
+- Decyzje organów: ["DKN.5131.32.2023" "nakaz, nałożenie kary (100 000 zł) – art. 5, 9, 32, 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_32-2023.md) – Prezes UODO, 2023-12-20
+- Decyzje organów: ["DKN.5131.34.2022" "nałożenie kary (50 000 zł) – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_34-2022.md) – Prezes UODO, 2023-12-20
+- Decyzje organów: ["ZSPR.421.2.2019 ZSPR.405.67.2019" "umorzenie, nałożenie kary (3 819 960 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/zspr_405_67-2019.md) – Prezes UODO, 2024-01-17
+- Decyzje organów: ["DKN.5131.32.2022" "nakaz, nałożenie kary (10 913 zł) – art. 5, 32, 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_32-2022.md) – Prezes UODO, 2024-04-24
+- Decyzje organów: ["DKN.5131.29.2023" "nakaz, nałożenie kary (238 345 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_29-2023.md) – Prezes UODO, 2024-04-29
+- Decyzje organów: ["DKN.5112.35.2021" "nakaz, nałożenie kary (1 440 549,00 zł) – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5112_35-2021.md) – Prezes UODO, 2024-05-20
+- Decyzje organów: ["DKN.5131.57.2022" "nakaz, nałożenie kary (40.000 zł) – art. 5, 32, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_57-2022.md) – Prezes UODO, 2024-06-13
+- Decyzje organów: ["DKN.5131.1.2021" "nakaz, nałożenie kary (353 589 zł) – art. 5, 28, 32, 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_1-2021.md) – Prezes UODO, 2024-10-09
+- Decyzje organów: ["DKN.5131.35.2021" "nałożenie kary (15.000 zł + 20.000 zł + 24.882,21 zł) – art. 5, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_35-2021.md) – Prezes UODO, 2024-10-10
+- Decyzje organów: ["DKN.5130.2415.2020" "nałożenie kary (1 527 855,00 zł + 20 037,00 zł) – art. 5, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5130_2415-2020.md) – Prezes UODO, 2024-11-12
+- Decyzje organów: ["DKN.5131.9.2024" "nakaz, nałożenie kary (24 555 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_9-2024.md) – Prezes UODO, 2024-11-12
+- Decyzje organów: ["DKN.5131.4.2024" "nałożenie kary (687 534,75 zł + 458 356,50 zł) – art. 5, 9, 13, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_4-2024.md) – Prezes UODO, 2025-01-17
+- Decyzje organów: ["DKN.5112.10.2024" "nakaz, nałożenie kary (56 824 zł) – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5112_10-2024.md) – Prezes UODO, 2025-03-06
+- Decyzje organów: ["DKN.5131.10.2023" "nakaz, nałożenie kary (29 043 zł + 4 630 zł) – art. 5, 32, 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_10-2023.md) – Prezes UODO, 2025-04-01
+- Decyzje organów: ["DKN.5131.30.2022" "upomnienie, nałożenie kary (5 000,00 zł + 10 000,00 zł) – art. 5, 28, 32, 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_30-2022.md) – Prezes UODO, 2025-06-03
+- Decyzje organów: ["DKN.5131.48.2022" "nakaz, nałożenie kary (66 500 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_48-2022.md) – Prezes UODO, 2025-06-17
+- Decyzje organów: ["DKN.5130.4179.2020" "nałożenie kary (94 286 zł + 42 429 zł + 47 143 zł + 1 632 063 zł + 13 600 528 zł + 1 700 066 zł) – art. 5, 28, 32, 34, 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5130_4179-2020.md) – Prezes UODO, 2025-06-23
+- Decyzje organów: ["DKN.5131.17.2022" "nałożenie kary (32 832 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_17-2022.md) – Prezes UODO, 2025-07-04
+- Decyzje organów: ["DKN.5112.28.2022" "umorzenie, upomnienie – art. 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5112_28-2022.md) – Prezes UODO, 2025-07-21
+- Decyzje organów: ["DKN.5130.3165.2020" "nakaz, upomnienie – art. 5, 28, 32, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5130_3165-2020.md) – Prezes UODO, 2025-08-26
+- Decyzje organów: ["DKN.5112.11.2021" "umorzenie, upomnienie – art. 5, 13, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5112_11-2021.md) – Prezes UODO, 2025-11-06
+- Decyzje organów: ["DKN.5131.3.2024" "nałożenie kary (20 000 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_3-2024.md) – Prezes UODO, 2025-11-15
+- Decyzje organów: ["DKN.5112.27.2022" "nałożenie kary (7 577 zł + 3 157 zł) – art. 5, 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5112_27-2022.md) – Prezes UODO, 2025-11-25
+- Decyzje organów: ["DKN.5112.63.2024" "nakaz, upomnienie – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5112_63-2024.md) – Prezes UODO, 2025-12-14
+- Decyzje organów: ["DKN.5131.5.2024" "nakaz, nałożenie kary (40 000 zł + 38 000 zł) – art. 5, 9, 25, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_5-2024.md) – Prezes UODO, 2025-12-29
+- Decyzje organów: ["DKN.5112.1.2023" "nałożenie kary (6 251 471 zł + 5 209 559 zł) – art. 5, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5112_1-2023.md) – Prezes UODO, 2026-02-05
+- Decyzje organów: ["DKN.5131.37.2021" "upomnienie – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_37-2021.md) – Prezes UODO, 2026-02-18
+- Decyzje organów: ["DKN.5112.13.2023" "nakaz, upomnienie, nałożenie kary (975 zł) – art. 5, 13, 28, 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5112_13-2023.md) – Prezes UODO, 2026-02-27
+- Decyzje organów: ["DKN.5131.7.2022" "upomnienie, nałożenie kary (10 145 zł) – art. 5, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_7-2022.md) – Prezes UODO, 2026-04-13
+- Decyzje organów: ["DKN.5131.27.2023" "nakaz, nałożenie kary (15 000 zł + 5 500 zł + 13 200 zł) – art. 5, 32, 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_27-2023.md) – Prezes UODO, 2026-05-19
+- Decyzje organów: ["DKN.5131.5.2025" "nałożenie kary (21 000 zł + 12 500 zł) – art. 5, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_5-2025.md) – Prezes UODO, 2026-05-25
+- Decyzje organów: ["DKN.5131.12.2022" "decyzja – art. 28, 32, 35 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_12-2022.md) – Prezes UODO, 2026-06-11
+- Decyzje organów: ["DKN.5131.34.2023" "nałożenie kary (11 594 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_34-2023.md) – Prezes UODO, 2026-06-13
 
 ## Art. 33
 
 - Prawo polskie: [art. 55 u.o.d.o. "Art. 55 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-055.md) – Sejm RP, 2018-05-10
+- Decyzje organów: ["DKN.5131.5.2020" "nałożenie kary (85 588 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dkn_5131_5-2020.md) – Prezes UODO, 2020-12-09
+- Decyzje organów: ["DKN.5131.6.2020" "nakaz, nałożenie kary (25 000 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dkn_5131_6-2020.md) – Prezes UODO, 2021-01-05
+- Decyzje organów: ["DKN.5131.7.2020" "nałożenie kary (136 437 zł) – art. 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dkn_5131_7-2020.md) – Prezes UODO, 2021-01-11
+- Decyzje organów: ["DKN.5131.3.2021" "nakaz, nałożenie kary (159.176 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dkn_5131_3-2021.md) – Prezes UODO, 2021-06-21
+- Decyzje organów: ["DKN.5131.11.2020" "nakaz, nałożenie kary (13 644 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dkn_5131_11-2020.md) – Prezes UODO, 2021-06-30
+- Decyzje organów: ["DKN.5131.16.2021" "nakaz, nałożenie kary (363.832 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dkn_5131_16-2021.md) – Prezes UODO, 2021-10-14
+- Decyzje organów: ["DKN.5131.14.2021" "nakaz, upomnienie – art. 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5131_14-2021.md) – Prezes UODO, 2022-05-25
+- Decyzje organów: ["DKN.5131.23.2022" "upomnienie – art. 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5131_23-2022.md) – Prezes UODO, 2022-06-02
+- Decyzje organów: ["DKN.5110.12.2021" "umorzenie, nałożenie kary (15 994 zł) – art. 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5110_12-2021.md) – Prezes UODO, 2022-06-06
+- Decyzje organów: ["DKN.5131.34.2021" "nakaz, nałożenie kary (10 000 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5131_34-2021.md) – Prezes UODO, 2022-07-06
+- Decyzje organów: ["DKN.5131.27.2022" "nakaz, nałożenie kary (60 000 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5131_27-2022.md) – Prezes UODO, 2022-07-07
+- Decyzje organów: ["DKN.5131.31.2021" "nakaz, nałożenie kary (1 556,28 zł) – art. 28, 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_31-2021.md) – Prezes UODO, 2023-02-07
+- Decyzje organów: ["DKN.5131.49.2021" "nakaz, nałożenie kary (51.876 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_49-2021.md) – Prezes UODO, 2023-03-01
+- Decyzje organów: ["DKN.5131.45.2022" "nakaz, nałożenie kary (20 000 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_45-2022.md) – Prezes UODO, 2023-03-14
+- Decyzje organów: ["DKN.5131.43.2022" "nakaz, nałożenie kary (11 790 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_43-2022.md) – Prezes UODO, 2023-07-12
+- Decyzje organów: ["DKN.5131.55.2022" "nałożenie kary (103.752 zł) – art. 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_55-2022.md) – Prezes UODO, 2023-10-18
+- Decyzje organów: ["DKN.5131.6.2023" "nakaz, nałożenie kary (282.960 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_6-2023.md) – Prezes UODO, 2023-11-30
+- Decyzje organów: ["DKN.5131.42.2022" "nakaz, umorzenie, nałożenie kary (10.000 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_42-2022.md) – Prezes UODO, 2023-12-19
+- Decyzje organów: ["DKN.5131.32.2023" "nakaz, nałożenie kary (100 000 zł) – art. 5, 9, 32, 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_32-2023.md) – Prezes UODO, 2023-12-20
+- Decyzje organów: ["DKN.5131.53.2021" "nakaz, nałożenie kary (9.903,60 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_53-2021.md) – Prezes UODO, 2024-01-18
+- Decyzje organów: ["DKN.5131.28.2023" "nałożenie kary (78.575,40 zł) – art. 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_28-2023.md) – Prezes UODO, 2024-03-12
+- Decyzje organów: ["DKN.5131.59.2022" "nakaz, nałożenie kary (1 440 549 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_59-2022.md) – Prezes UODO, 2024-03-12
+- Decyzje organów: ["DKN.5131.32.2022" "nakaz, nałożenie kary (10 913 zł) – art. 5, 32, 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_32-2022.md) – Prezes UODO, 2024-04-24
+- Decyzje organów: ["DKN.5131.58.2022" "nałożenie kary (916,71 zł) – art. 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_58-2022.md) – Prezes UODO, 2024-04-30
+- Decyzje organów: ["DKN.5131.33.2023" "nakaz, nałożenie kary (85.000 zł) – art. 5, 9, 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_33-2023.md) – Prezes UODO, 2024-09-02
+- Decyzje organów: ["DKN.5131.1.2021" "nakaz, nałożenie kary (353 589 zł) – art. 5, 28, 32, 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_1-2021.md) – Prezes UODO, 2024-10-09
+- Decyzje organów: ["DKN.5131.6.2024" "nakaz, nałożenie kary (29 684,04 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_6-2024.md) – Prezes UODO, 2024-11-26
+- Decyzje organów: ["DKN.5131.10.2023" "nakaz, nałożenie kary (29 043 zł + 4 630 zł) – art. 5, 32, 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_10-2023.md) – Prezes UODO, 2025-04-01
+- Decyzje organów: ["DKN.5131.30.2022" "upomnienie, nałożenie kary (5 000,00 zł + 10 000,00 zł) – art. 5, 28, 32, 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_30-2022.md) – Prezes UODO, 2025-06-03
+- Decyzje organów: ["DKN.5131.6.2025" "nakaz, upomnienie – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_6-2025.md) – Prezes UODO, 2025-09-02
+- Decyzje organów: ["DKN.5131.3.2025" "upomnienie, nałożenie kary (40 514 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_3-2025.md) – Prezes UODO, 2025-10-15
+- Decyzje organów: ["DKN.5131.17.2024" "nakaz, nałożenie kary (7 700 zł + 13 200 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_17-2024.md) – Prezes UODO, 2025-10-23
+- Decyzje organów: ["DKN.5131.15.2025" "upomnienie, nałożenie kary (6 700 zł + 6 091 zł + 9 137 zł) – art. 33, 34, 37, 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_15-2025.md) – Prezes UODO, 2026-02-10
+- Decyzje organów: ["DKN.5131.16.2025" "nałożenie kary (4 852 zł) – art. 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_16-2025.md) – Prezes UODO, 2026-04-07
+- Decyzje organów: ["DKN.5131.17.2025" "nałożenie kary (7 700 zł) – art. 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_17-2025.md) – Prezes UODO, 2026-04-30
+- Decyzje organów: ["DKN.5131.27.2023" "nakaz, nałożenie kary (15 000 zł + 5 500 zł + 13 200 zł) – art. 5, 32, 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_27-2023.md) – Prezes UODO, 2026-05-19
 - Zmiany w przygotowaniu: [Digital Omnibus – projektowane zmiany RODO i ePrivacy](../zrodla/zmiany/digital-omnibus.md) – Komisja Europejska, 2025-11-19
+
+## Art. 34
+
+- Decyzje organów: ["ZWAD.405.10.2018" "nakaz – art. 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2018/zwad_405_10-2018.md) – Prezes UODO, 2018-11-20
+- Decyzje organów: ["ZWAD.405.11.2018" "nakaz – art. 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2018/zwad_405_11-2018.md) – Prezes UODO, 2018-11-20
+- Decyzje organów: ["ZWAD.405.22.2018" "nakaz – art. 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2018/zwad_405_22-2018.md) – Prezes UODO, 2018-11-20
+- Decyzje organów: ["ZWAD.405.23.2018" "nakaz – art. 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2018/zwad_405_23-2018.md) – Prezes UODO, 2018-11-20
+- Decyzje organów: ["ZWAD.405.25.2018" "nakaz – art. 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2018/zwad_405_25-2018.md) – Prezes UODO, 2018-11-20
+- Decyzje organów: ["ZWAD.405.26.2018" "nakaz – art. 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2018/zwad_405_26-2018.md) – Prezes UODO, 2018-11-20
+- Decyzje organów: ["ZWAD.405.27.2018" "nakaz – art. 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2018/zwad_405_27-2018.md) – Prezes UODO, 2018-11-20
+- Decyzje organów: ["ZWAD.405.28.2018" "nakaz – art. 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2018/zwad_405_28-2018.md) – Prezes UODO, 2018-11-20
+- Decyzje organów: ["ZWAD.405.29.2018" "nakaz – art. 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2018/zwad_405_29-2018.md) – Prezes UODO, 2018-11-20
+- Decyzje organów: ["ZWAD.405.9.2018" "nakaz – art. 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2018/zwad_405_9-2018.md) – Prezes UODO, 2018-11-20
+- Decyzje organów: ["ZWAD.405.88.2018" "nakaz – art. 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2018/zwad_405_88-2018.md) – Prezes UODO, 2018-12-20
+- Decyzje organów: ["ZWAD.405.153.2018" "nakaz – art. 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2018/zwad_405_153-2018.md) – Prezes UODO, 2018-12-21
+- Decyzje organów: ["ZWAD.405.154.2018" "nakaz – art. 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2018/zwad_405_154-2018.md) – Prezes UODO, 2018-12-21
+- Decyzje organów: ["ZWAD.405.158.2018" "nakaz – art. 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zwad_405_158-2018.md) – Prezes UODO, 2019-01-23
+- Decyzje organów: ["ZWAD.405.1383.2018" "nakaz – art. 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zwad_405_1383-2018.md) – Prezes UODO, 2019-03-27
+- Decyzje organów: ["DKE.561.2.2020" "nałożenie kary (5.000 zł) – art. 34, 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dke_561_2-2020.md) – Prezes UODO, 2020-06-03
+- Decyzje organów: ["DKN.5101.25.2020" "nakaz, upomnienie – art. 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dkn_5101_25-2020.md) – Prezes UODO, 2020-11-12
+- Decyzje organów: ["DKN.5131.5.2020" "nałożenie kary (85 588 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dkn_5131_5-2020.md) – Prezes UODO, 2020-12-09
+- Decyzje organów: ["DKN.5131.6.2020" "nakaz, nałożenie kary (25 000 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dkn_5131_6-2020.md) – Prezes UODO, 2021-01-05
+- Decyzje organów: ["DKN.5131.3.2021" "nakaz, nałożenie kary (159.176 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dkn_5131_3-2021.md) – Prezes UODO, 2021-06-21
+- Decyzje organów: ["DKN.5131.11.2020" "nakaz, nałożenie kary (13 644 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dkn_5131_11-2020.md) – Prezes UODO, 2021-06-30
+- Decyzje organów: ["DKN.5131.16.2021" "nakaz, nałożenie kary (363.832 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dkn_5131_16-2021.md) – Prezes UODO, 2021-10-14
+- Decyzje organów: ["DKN.5131.33.2021" "nakaz, nałożenie kary (545.748 zł) – art. 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5131_33-2021.md) – Prezes UODO, 2022-01-19
+- Decyzje organów: ["DKN.5131.34.2021" "nakaz, nałożenie kary (10 000 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5131_34-2021.md) – Prezes UODO, 2022-07-06
+- Decyzje organów: ["DKN.5131.27.2022" "nakaz, nałożenie kary (60 000 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dkn_5131_27-2022.md) – Prezes UODO, 2022-07-07
+- Decyzje organów: ["DKN.5131.31.2021" "nakaz, nałożenie kary (1 556,28 zł) – art. 28, 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_31-2021.md) – Prezes UODO, 2023-02-07
+- Decyzje organów: ["DKN.5131.49.2021" "nakaz, nałożenie kary (51.876 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_49-2021.md) – Prezes UODO, 2023-03-01
+- Decyzje organów: ["DKN.5131.45.2022" "nakaz, nałożenie kary (20 000 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_45-2022.md) – Prezes UODO, 2023-03-14
+- Decyzje organów: ["DKN.5131.8.2021" "nałożenie kary (47.160 zł) – art. 5, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_8-2021.md) – Prezes UODO, 2023-05-31
+- Decyzje organów: ["DKN.5131.43.2022" "nakaz, nałożenie kary (11 790 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_43-2022.md) – Prezes UODO, 2023-07-12
+- Decyzje organów: ["DKN.5131.6.2023" "nakaz, nałożenie kary (282.960 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_6-2023.md) – Prezes UODO, 2023-11-30
+- Decyzje organów: ["DKN.5131.42.2022" "nakaz, umorzenie, nałożenie kary (10.000 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dkn_5131_42-2022.md) – Prezes UODO, 2023-12-19
+- Decyzje organów: ["DKN.5131.53.2021" "nakaz, nałożenie kary (9.903,60 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_53-2021.md) – Prezes UODO, 2024-01-18
+- Decyzje organów: ["DKN.5131.59.2022" "nakaz, nałożenie kary (1 440 549 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_59-2022.md) – Prezes UODO, 2024-03-12
+- Decyzje organów: ["DKN.5131.32.2022" "nakaz, nałożenie kary (10 913 zł) – art. 5, 32, 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_32-2022.md) – Prezes UODO, 2024-04-24
+- Decyzje organów: ["DKN.5131.57.2022" "nakaz, nałożenie kary (40.000 zł) – art. 5, 32, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_57-2022.md) – Prezes UODO, 2024-06-13
+- Decyzje organów: ["DKN.5131.1.2024" "nakaz, nałożenie kary (4 053 173 zł) – art. 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_1-2024.md) – Prezes UODO, 2024-08-20
+- Decyzje organów: ["DKN.5131.33.2023" "nakaz, nałożenie kary (85.000 zł) – art. 5, 9, 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_33-2023.md) – Prezes UODO, 2024-09-02
+- Decyzje organów: ["DKN.5131.6.2024" "nakaz, nałożenie kary (29 684,04 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_6-2024.md) – Prezes UODO, 2024-11-26
+- Decyzje organów: ["DKN.5131.15.2024" "upomnienie – art. 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_15-2024.md) – Prezes UODO, 2024-12-17
+- Decyzje organów: ["DKN.5130.4179.2020" "nałożenie kary (94 286 zł + 42 429 zł + 47 143 zł + 1 632 063 zł + 13 600 528 zł + 1 700 066 zł) – art. 5, 28, 32, 34, 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5130_4179-2020.md) – Prezes UODO, 2025-06-23
+- Decyzje organów: ["DKN.5130.3165.2020" "nakaz, upomnienie – art. 5, 28, 32, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5130_3165-2020.md) – Prezes UODO, 2025-08-26
+- Decyzje organów: ["DKN.5131.6.2025" "nakaz, upomnienie – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_6-2025.md) – Prezes UODO, 2025-09-02
+- Decyzje organów: ["DKN.5131.3.2025" "upomnienie, nałożenie kary (40 514 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_3-2025.md) – Prezes UODO, 2025-10-15
+- Decyzje organów: ["DKN.5131.17.2024" "nakaz, nałożenie kary (7 700 zł + 13 200 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_17-2024.md) – Prezes UODO, 2025-10-23
+- Decyzje organów: ["DKN.5131.15.2025" "upomnienie, nałożenie kary (6 700 zł + 6 091 zł + 9 137 zł) – art. 33, 34, 37, 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_15-2025.md) – Prezes UODO, 2026-02-10
+- Decyzje organów: ["DKN.5131.27.2023" "nakaz, nałożenie kary (15 000 zł + 5 500 zł + 13 200 zł) – art. 5, 32, 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_27-2023.md) – Prezes UODO, 2026-05-19
 
 ## Art. 35
 
 - Tezy: [Klauzule otwarte RODO – mapowanie na prawo polskie](klauzule-otwarte.md) – –, 2026-10-08
+- Akty wykonawcze: [M.P. 2018 poz. 827 "Komunikat Prezesa UODO z 17.08.2018 r. w sprawie wykazu rodzajów operacji przetwarzania danych osobowych wymagających oceny skutków przetwarzania dla ich ochrony"](../zrodla/pl/akty-wykonawcze-uodo/mp-2018-827-wykaz-dpia.md) – Prezes UODO, 2018-08-17
+- Akty wykonawcze: [M.P. 2019 poz. 666 "Komunikat Prezesa UODO z 17.06.2019 r. w sprawie wykazu rodzajów operacji przetwarzania danych osobowych wymagających oceny skutków przetwarzania dla ich ochrony"](../zrodla/pl/akty-wykonawcze-uodo/mp-2019-666-wykaz-dpia.md) – Prezes UODO, 2019-06-17
 - Prawo polskie: [art. 54 u.o.d.o. "Art. 54 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-054.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 172 u.o.d.o. "Art. 172 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-172.md) – Sejm RP, 2018-05-10
+- Decyzje organów: ["DKN.5112.14.2022" "nałożenie kary (261 918,00 zł + 314 302,00 zł) – art. 30, 35, 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5112_14-2022.md) – Prezes UODO, 2024-12-18
+- Decyzje organów: ["DKN.5131.12.2022" "decyzja – art. 28, 32, 35 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_12-2022.md) – Prezes UODO, 2026-06-11
 - Zmiany w przygotowaniu: [Digital Omnibus – projektowane zmiany RODO i ePrivacy](../zrodla/zmiany/digital-omnibus.md) – Komisja Europejska, 2025-11-19
 
 ## Art. 36
@@ -195,6 +478,26 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 11 u.o.d.o. "Art. 11 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-011.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 11a u.o.d.o. "Art. 11a ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-011a.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 158 u.o.d.o. "Art. 158 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-158.md) – Sejm RP, 2018-05-10
+- Decyzje organów: ["DKN.5131.7.2024" "nakaz, nałożenie kary (25 000 zł) – art. 37 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5131_7-2024.md) – Prezes UODO, 2024-10-18
+- Decyzje organów: ["DKN.5131.15.2025" "upomnienie, nałożenie kary (6 700 zł + 6 091 zł + 9 137 zł) – art. 33, 34, 37, 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_15-2025.md) – Prezes UODO, 2026-02-10
+- Decyzje organów: ["DKN.5131.24.2025" "nałożenie kary (3 500 zł + 12 000 zł) – art. 37, 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_24-2025.md) – Prezes UODO, 2026-07-29
+
+## Art. 38
+
+- Decyzje organów: ["ZWAD.405.31.331.2019" "umorzenie, upomnienie – art. 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/zwad_405_31_331-2019.md) – Prezes UODO, 2020-09-22
+- Decyzje organów: ["DKN.5112.14.2022" "nałożenie kary (261 918,00 zł + 314 302,00 zł) – art. 30, 35, 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5112_14-2022.md) – Prezes UODO, 2024-12-18
+- Decyzje organów: ["DKN.5110.14.2022" "upomnienie – art. 38, 39 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5110_14-2022.md) – Prezes UODO, 2025-04-02
+- Decyzje organów: ["DKN.5110.16.2022" "nakaz, upomnienie – art. 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5110_16-2022.md) – Prezes UODO, 2025-04-02
+- Decyzje organów: ["DKN.5130.4179.2020" "nałożenie kary (94 286 zł + 42 429 zł + 47 143 zł + 1 632 063 zł + 13 600 528 zł + 1 700 066 zł) – art. 5, 28, 32, 34, 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5130_4179-2020.md) – Prezes UODO, 2025-06-23
+- Decyzje organów: ["DKN.5131.7.2025" "nałożenie kary (11 365 zł) – art. 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_7-2025.md) – Prezes UODO, 2025-09-12
+- Decyzje organów: ["DKN.5131.4.2025" "nałożenie kary (978 128 zł) – art. 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_4-2025.md) – Prezes UODO, 2026-01-02
+- Decyzje organów: ["DKN.5131.15.2025" "upomnienie, nałożenie kary (6 700 zł + 6 091 zł + 9 137 zł) – art. 33, 34, 37, 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_15-2025.md) – Prezes UODO, 2026-02-10
+- Decyzje organów: ["DKN.5131.24.2025" "nałożenie kary (3 500 zł + 12 000 zł) – art. 37, 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_24-2025.md) – Prezes UODO, 2026-07-29
+
+## Art. 39
+
+- Decyzje organów: ["ZSOŚS.421.25.2019" "umorzenie, nałożenie kary – art. 39 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/zsoss_421_25-2019.md) – Prezes UODO, 2020-08-21
+- Decyzje organów: ["DKN.5110.14.2022" "upomnienie – art. 38, 39 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5110_14-2022.md) – Prezes UODO, 2025-04-02
 
 ## Art. 40
 
@@ -300,6 +603,111 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Orzecznictwo: [C-362/14 Schrems (I)](../zrodla/orzecznictwo/tsue/c-362-14.md) – TSUE (wielka izba), 2015-10-06
 - Orzecznictwo: [C-311/18 Facebook Ireland i Schrems (Schrems II)](../zrodla/orzecznictwo/tsue/c-311-18.md) – TSUE (wielka izba), 2020-07-16
 - Orzecznictwo: [C-807/21 Deutsche Wohnen](../zrodla/orzecznictwo/tsue/c-807-21.md) – TSUE (wielka izba), 2023-12-05
+- Decyzje organów: ["ZSPR.421.19.2019" "nałożenie kary (20.000 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/zspr_421_19-2019.md) – Prezes UODO, 2020-03-09
+- Decyzje organów: ["DKE.561.1.2020" "nałożenie kary (15.000 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dke_561_1-2020.md) – Prezes UODO, 2020-05-29
+- Decyzje organów: ["DKE.561.2.2020" "nałożenie kary (5.000 zł) – art. 34, 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dke_561_2-2020.md) – Prezes UODO, 2020-06-03
+- Decyzje organów: ["DKE.561.6.2020" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dke_561_6-2020.md) – Prezes UODO, 2020-09-09
+- Decyzje organów: ["DKE.561.21.2020" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dke_561_21-2020.md) – Prezes UODO, 2020-11-19
+- Decyzje organów: ["DKE.561.20.2020" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dke_561_20-2020.md) – Prezes UODO, 2020-11-26
+- Decyzje organów: ["DKE.561.12.2020" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dke_561_12-2020.md) – Prezes UODO, 2020-12-04
+- Decyzje organów: ["DKE.561.14.2020" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dke_561_14-2020.md) – Prezes UODO, 2020-12-04
+- Decyzje organów: ["DKE.561.15.2020" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dke_561_15-2020.md) – Prezes UODO, 2020-12-04
+- Decyzje organów: ["DKE.561.9.2020" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dke_561_9-2020.md) – Prezes UODO, 2020-12-04
+- Decyzje organów: ["DKE.561.13.2020" "nałożenie kary (12.838,20 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dke_561_13-2020.md) – Prezes UODO, 2020-12-09
+- Decyzje organów: ["DKE.561.24.2020" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dke_561_24-2020.md) – Prezes UODO, 2020-12-16
+- Decyzje organów: ["DKE.561.17.2020" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dke_561_17-2020.md) – Prezes UODO, 2020-12-18
+- Decyzje organów: ["DKE.561.16.2020" "nałożenie kary (21.397 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_561_16-2020.md) – Prezes UODO, 2021-01-05
+- Decyzje organów: ["DKE.561.8.2020" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_561_8-2020.md) – Prezes UODO, 2021-03-01
+- Decyzje organów: ["DKE.561.22.2020" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_561_22-2020.md) – Prezes UODO, 2021-03-19
+- Decyzje organów: ["DKE.561.25.2020" "nałożenie kary (22 739,50 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_561_25-2020.md) – Prezes UODO, 2021-03-19
+- Decyzje organów: ["DKE.561.3.2021" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_561_3-2021.md) – Prezes UODO, 2021-04-15
+- Decyzje organów: ["DKE.561.23.2020" "nałożenie kary (22.739 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_561_23-2020.md) – Prezes UODO, 2021-04-27
+- Decyzje organów: ["DKE.561.17.2021" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_561_17-2021.md) – Prezes UODO, 2021-08-31
+- Decyzje organów: ["DKE.561.28.2020" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_561_28-2020.md) – Prezes UODO, 2021-09-01
+- Decyzje organów: ["DKE.561.21.2021" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_561_21-2021.md) – Prezes UODO, 2021-09-02
+- Decyzje organów: ["DKE.561.22.2021" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_561_22-2021.md) – Prezes UODO, 2021-09-06
+- Decyzje organów: ["DKE.561.12.2021" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_561_12-2021.md) – Prezes UODO, 2021-09-07
+- Decyzje organów: ["DKE.561.9.2021" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_561_9-2021.md) – Prezes UODO, 2021-10-07
+- Decyzje organów: ["DKE.561.16.2021" "nałożenie kary (18 192 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_561_16-2021.md) – Prezes UODO, 2021-12-01
+- Decyzje organów: ["DKE.561.13.2021" "nałożenie kary (4.548 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_561_13-2021.md) – Prezes UODO, 2021-12-22
+- Decyzje organów: ["DKE.561.19.2021" "nałożenie kary (4.548 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_561_19-2021.md) – Prezes UODO, 2021-12-23
+- Decyzje organów: ["DKE.561.1.2021" "nałożenie kary (18 192 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_561_1-2021.md) – Prezes UODO, 2021-12-31
+- Decyzje organów: ["DKE.561.10.2021" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_10-2021.md) – Prezes UODO, 2022-01-13
+- Decyzje organów: ["DKE.561.14.2021" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_14-2021.md) – Prezes UODO, 2022-01-19
+- Decyzje organów: ["DKE.561.24.2021" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_24-2021.md) – Prezes UODO, 2022-01-20
+- Decyzje organów: ["DKE.561.4.2021" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_4-2021.md) – Prezes UODO, 2022-01-26
+- Decyzje organów: ["DKE.561.11.2021" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_11-2021.md) – Prezes UODO, 2022-02-04
+- Decyzje organów: ["DKE.561.18.2021" "nałożenie kary (2.285 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_18-2021.md) – Prezes UODO, 2022-03-23
+- Decyzje organów: ["DKE.561.4.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_4-2022.md) – Prezes UODO, 2022-03-25
+- Decyzje organów: ["DKE.561.7.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_7-2022.md) – Prezes UODO, 2022-03-25
+- Decyzje organów: ["DKE.561.13.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_13-2022.md) – Prezes UODO, 2022-05-13
+- Decyzje organów: ["DKE.561.9.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_9-2022.md) – Prezes UODO, 2022-05-23
+- Decyzje organów: ["DKE.561.6.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_6-2022.md) – Prezes UODO, 2022-05-25
+- Decyzje organów: ["DKE.561.14.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_14-2022.md) – Prezes UODO, 2022-06-03
+- Decyzje organów: ["DKE.561.27.2020" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_27-2020.md) – Prezes UODO, 2022-07-05
+- Decyzje organów: ["DKE.561.15.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_15-2022.md) – Prezes UODO, 2022-07-06
+- Decyzje organów: ["DKE.561.8.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_8-2022.md) – Prezes UODO, 2022-07-18
+- Decyzje organów: ["DKE.561.1.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_1-2022.md) – Prezes UODO, 2022-07-22
+- Decyzje organów: ["DKE.561.12.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_12-2022.md) – Prezes UODO, 2022-07-26
+- Decyzje organów: ["DKE.561.16.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_16-2022.md) – Prezes UODO, 2022-07-29
+- Decyzje organów: ["DKE.561.23.2021" "nałożenie kary (4.569 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_23-2021.md) – Prezes UODO, 2022-08-18
+- Decyzje organów: ["DKE.561.25.2021" "nałożenie kary (31 988 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_25-2021.md) – Prezes UODO, 2022-08-30
+- Decyzje organów: ["DKE.561.19.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_19-2022.md) – Prezes UODO, 2022-08-31
+- Decyzje organów: ["DKE.561.5.2022" "nałożenie kary (6 854 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_5-2022.md) – Prezes UODO, 2022-08-31
+- Decyzje organów: ["DKE.561.17.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_17-2022.md) – Prezes UODO, 2022-09-19
+- Decyzje organów: ["DKE.561.23.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_23-2022.md) – Prezes UODO, 2022-09-22
+- Decyzje organów: ["DKE.561.22.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_22-2022.md) – Prezes UODO, 2022-09-27
+- Decyzje organów: ["DKE.561.21.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_21-2022.md) – Prezes UODO, 2022-10-28
+- Decyzje organów: ["DKE.561.27.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_27-2022.md) – Prezes UODO, 2022-12-02
+- Decyzje organów: ["DKE.561.25.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_25-2022.md) – Prezes UODO, 2022-12-13
+- Decyzje organów: ["DKE.561.20.2021" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_20-2021.md) – Prezes UODO, 2022-12-16
+- Decyzje organów: ["DKE.561.29.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_29-2022.md) – Prezes UODO, 2022-12-16
+- Decyzje organów: ["DKE.561.30.2022" "nałożenie kary (36.558 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_30-2022.md) – Prezes UODO, 2022-12-29
+- Decyzje organów: ["DKE.561.10.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_10-2022.md) – Prezes UODO, 2022-12-30
+- Decyzje organów: ["DKE.561.18.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_18-2022.md) – Prezes UODO, 2022-12-30
+- Decyzje organów: ["DKE.561.20.2022" "nałożenie kary (27 418 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/dke_561_20-2022.md) – Prezes UODO, 2022-12-30
+- Decyzje organów: ["DKE.561.31.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dke_561_31-2022.md) – Prezes UODO, 2023-01-20
+- Decyzje organów: ["DKE.561.35.2022" "nałożenie kary (18 279 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dke_561_35-2022.md) – Prezes UODO, 2023-01-25
+- Decyzje organów: ["DKE.561.2.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dke_561_2-2023.md) – Prezes UODO, 2023-03-07
+- Decyzje organów: ["DKE.561.32.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dke_561_32-2022.md) – Prezes UODO, 2023-03-23
+- Decyzje organów: ["DKE.561.3.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dke_561_3-2023.md) – Prezes UODO, 2023-04-18
+- Decyzje organów: ["DOKE.561.3.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/doke_561_3-2023.md) – Prezes UODO, 2023-05-22
+- Decyzje organów: ["DKE.561.33.2022" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dke_561_33-2022.md) – Prezes UODO, 2023-05-26
+- Decyzje organów: ["DKE.561.37.2022" "nałożenie kary (14 148 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dke_561_37-2022.md) – Prezes UODO, 2023-05-31
+- Decyzje organów: ["DKE.561.38.2022" "nałożenie kary (18 864 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dke_561_38-2022.md) – Prezes UODO, 2023-06-02
+- Decyzje organów: ["DKE.561.4.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dke_561_4-2023.md) – Prezes UODO, 2023-06-21
+- Decyzje organów: ["DOKE.561.1.2023" "nałożenie kary (33 012 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/doke_561_1-2023.md) – Prezes UODO, 2023-06-21
+- Decyzje organów: ["DOKE.561.9.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/doke_561_9-2023.md) – Prezes UODO, 2023-08-10
+- Decyzje organów: ["DOKE.561.8.2023" "nałożenie kary (56 592 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/doke_561_8-2023.md) – Prezes UODO, 2023-08-30
+- Decyzje organów: ["DOKE.561.10.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/doke_561_10-2023.md) – Prezes UODO, 2023-10-06
+- Decyzje organów: ["DOKE.561.15.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/doke_561_15-2023.md) – Prezes UODO, 2023-10-19
+- Decyzje organów: ["DOKE.561.7.2023" "nałożenie kary (14 148 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/doke_561_7-2023.md) – Prezes UODO, 2023-11-16
+- Decyzje organów: ["DOKE.561.5.2023" "nałożenie kary (11 790 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/doke_561_5-2023.md) – Prezes UODO, 2023-12-07
+- Decyzje organów: ["DOKE.561.14.2023" "nałożenie kary (18 864 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/doke_561_14-2023.md) – Prezes UODO, 2023-12-21
+- Decyzje organów: ["DKE.561.5.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2023/dke_561_5-2023.md) – Prezes UODO, 2023-12-22
+- Decyzje organów: ["DOKE.561.17.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/doke_561_17-2023.md) – Prezes UODO, 2024-02-29
+- Decyzje organów: ["DKE.561.1.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dke_561_1-2023.md) – Prezes UODO, 2024-03-15
+- Decyzje organów: ["DOKE.561.16.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/doke_561_16-2023.md) – Prezes UODO, 2024-03-29
+- Decyzje organów: ["DOKE.561.12.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/doke_561_12-2023.md) – Prezes UODO, 2024-04-15
+- Decyzje organów: ["DOKE.561.13.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/doke_561_13-2023.md) – Prezes UODO, 2024-04-18
+- Decyzje organów: ["DOKE.561.11.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/doke_561_11-2023.md) – Prezes UODO, 2024-04-22
+- Decyzje organów: ["DOKE.561.19.2023" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/doke_561_19-2023.md) – Prezes UODO, 2024-04-23
+- Decyzje organów: ["DOKE.561.3.2024" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/doke_561_3-2024.md) – Prezes UODO, 2024-06-27
+- Decyzje organów: ["DOKE.561.1.2024" "nałożenie kary (21 827 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/doke_561_1-2024.md) – Prezes UODO, 2024-07-10
+- Decyzje organów: ["DOKE.561.4.2024" "nałożenie kary (19 644 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/doke_561_4-2024.md) – Prezes UODO, 2024-08-30
+- Decyzje organów: ["DOKE.561.5.2024" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/doke_561_5-2024.md) – Prezes UODO, 2024-10-23
+- Decyzje organów: ["DOKE.561.7.2024" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/doke_561_7-2024.md) – Prezes UODO, 2024-11-14
+- Decyzje organów: ["DOKE.561.8.2024" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/doke_561_8-2024.md) – Prezes UODO, 2025-02-18
+- Decyzje organów: ["DKE.561.2.2025" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dke_561_2-2025.md) – Prezes UODO, 2025-03-03
+- Decyzje organów: ["DKE.561.3.2025" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dke_561_3-2025.md) – Prezes UODO, 2025-06-06
+- Decyzje organów: ["DKE.561.1.2025" "nałożenie kary (18 941 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dke_561_1-2025.md) – Prezes UODO, 2025-06-23
+- Decyzje organów: ["DOKE.561.11.2024" "nałożenie kary (14 816 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/doke_561_11-2024.md) – Prezes UODO, 2025-12-08
+- Decyzje organów: ["DOKE.561.6.2023" "nałożenie kary (12 964 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/doke_561_6-2023.md) – Prezes UODO, 2025-12-22
+- Decyzje organów: ["DKE.561.9.2025" "nałożenie kary (16 804 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dke_561_9-2025.md) – Prezes UODO, 2026-02-05
+- Decyzje organów: ["DKE.561.7.2025" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dke_561_7-2025.md) – Prezes UODO, 2026-02-16
+- Decyzje organów: ["DKE.561.13.2025" "nałożenie kary (10 082 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dke_561_13-2025.md) – Prezes UODO, 2026-05-18
+- Decyzje organów: ["DKE.561.1.2026" "upomnienie – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dke_561_1-2026.md) – Prezes UODO, 2026-06-01
+- Decyzje organów: ["DKE.561.7.2026" "nałożenie kary (31 507 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dke_561_7-2026.md) – Prezes UODO, 2026-09-01
 
 ## Art. 59
 

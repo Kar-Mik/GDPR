@@ -18,12 +18,13 @@ zrodla/
     inne/                    ePrivacy, dyr. 2016/680, rozp. 2018/1725, rozp. 2025/2518, KPP, TFUE
   pl/
     ustawa-odo-2018/         ustawa o ochronie danych osobowych (art-001.md … art-176.md)
+    akty-wykonawcze-uodo/    komunikaty Prezesa UODO (wykaz DPIA), rozporządzenia RM, uchwały o powołaniu Prezesa
     rejestr.md               ustawy sektorowe – rejestr
   orzecznictwo/
     tsue/                    wyroki wiodące (RODO i dyrektywa 95/46)
     nsa-wsa/                 wyroki sądów administracyjnych
   decyzje-organow/
-    pl-uodo/                 decyzje Prezesa UODO
+    pl-uodo/                 decyzje Prezesa UODO (RRRR/…, rejestr.md)
     at-dsb/                  austriacka Datenschutzbehörde
     edpb-art65/              wiążące decyzje EROD
     …                        kolejne organy: kod państwa + skrót organu
@@ -43,8 +44,8 @@ indeksy/
 | Tekst RODO | art. 1–99 (wersja skonsolidowana ze sprostowaniami) i motywy 1–173 – zaimportowane i zweryfikowane sumą kontrolną |
 | Akty wykonawcze | rejestr gotowy (przegląd EUR-Lex z 2026-10-08) |
 | Wyroki TSUE | 22 wyroki wiodące – zweryfikowane z EUR-Lex: ECLI, skład, sentencja (suma SHA-256), kluczowe punkty uzasadnienia |
-| Decyzje organów | DSB (AT) – Tesla Sentry; UODO – do uzupełnienia |
-| Prawo polskie | ustawa o ochronie danych osobowych z 2018 r. – zaimportowana (tekst jednolity 2019 + zmiany z 2026 r.), zweryfikowana sumą kontrolną; ustawy sektorowe do importu |
+| Decyzje organów | UODO – 585 decyzji (metadane: status, kara, rozstrzygnięcie, artykuły RODO; bez pełnych tekstów); DSB (AT) – Tesla Sentry |
+| Prawo polskie | ustawa o ochronie danych osobowych z 2018 r. – zaimportowana (tekst jednolity 2019 + zmiany z 2026 r.), zweryfikowana sumą kontrolną; komunikat Prezesa UODO – wykaz operacji wymagających DPIA (M.P. 2019 poz. 666); ustawy sektorowe do importu |
 | Soft law, kodeksy | etap 2 |
 | Digital Omnibus | notatka o stanie prac |
 

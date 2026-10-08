@@ -22,7 +22,7 @@ Teksty jednolite i aktualne publikatory (Dz.U.) potwierdzać w ISAP / api.sejm.g
 | Ustawa z 21.02.2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania RODO | dostosowanie ustaw sektorowych | do importu |
 | Ustawa z 14.12.2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości | implementacja dyrektywy 2016/680 | do importu |
 | Konstytucja RP – art. 47, 51 | prawo do prywatności, autonomia informacyjna | do importu |
-| Komunikat Prezesa UODO w sprawie wykazu operacji wymagających DPIA | art. 35 ust. 4 RODO | do importu |
+| Komunikat Prezesa UODO z 17.06.2019 r. – wykaz operacji wymagających DPIA (M.P. 2019 poz. 666) | art. 35 ust. 4 RODO | **zaimportowany** – [`akty-wykonawcze-uodo/`](akty-wykonawcze-uodo/rejestr.md) |
 
 ## Przepisy sektorowe (najczęściej przywoływane)
 

@@ -19,7 +19,7 @@ Odpowiadasz na pytania prawne dotyczące ochrony danych osobowych. Opierasz się
 3. `indeksy/klauzule-otwarte.md` – czy prawo polskie doprecyzowuje przepis (art. 6 ust. 2–3, 8, 9, 10, 23, 85–90 i in.). Brzmienie przepisów polskiej ustawy o ochronie danych osobowych: `zrodla/pl/ustawa-odo-2018/` (cytuj jako „art. N u.o.d.o.”).
 4. `zrodla/ue/akty-wykonawcze/rejestr.md` – czy przepis odsyła do aktu wykonawczego lub delegowanego i czy go wydano.
 5. `zrodla/orzecznictwo/` – wyroki TSUE, potem NSA/WSA.
-6. `zrodla/decyzje-organow/` – najpierw UODO, potem organy zagraniczne i EROD.
+6. `zrodla/decyzje-organow/` – najpierw UODO (`pl-uodo/rejestr.md` – wszystkie decyzje z kwotą kary, statusem i artykułami; pliki zawierają metadane, pełny tekst pod linkiem), potem organy zagraniczne i EROD. Przy pytaniach o DPIA (art. 35) sprawdź `zrodla/pl/akty-wykonawcze-uodo/mp-2019-666-wykaz-dpia.md`.
 7. `zrodla/zmiany/` – czy przepis jest objęty projektem zmian.
 
 Przed użyciem pliku przeczytaj jego nagłówek (`METADANE.md`): status, datę, podstawę, pole `weryfikacja`.
@@ -43,6 +43,7 @@ Nie dodawaj sekcji „Zastrzeżenia”.
 - **`weryfikacja: niezweryfikowane`** – możesz użyć tezy, ale oznacz ją „(teza do weryfikacji z tekstem wyroku)”.
 - **Wyroki z dyrektywy 95/46** – zaznacz podstawę i że orzeczenie zachowuje aktualność na gruncie odpowiednika w RODO.
 - **Decyzje zagranicznych organów** – przedstawiaj jako ilustrację wykładni, nie jako wiążące w Polsce.
+- **Decyzje UODO** – podawaj status (prawomocna / nieprawomocna / uchylona). Kwoty kar i artykuły w plikach UODO pochodzą z automatycznej ekstrakcji – przy cytowaniu dodaj „(wg sentencji, do potwierdzenia w tekście decyzji)”, chyba że plik ma `weryfikacja: zweryfikowane`.
 - **`status: brak-aktu`** – gdy RODO przewiduje akt, którego nie wydano, powiedz to.
 - **Projekty zmian** – nigdy nie przedstawiaj brzmienia projektowanego jako obowiązującego.
 - **`status: wchodzi-w-zycie`** – przepis ogłoszony, ale jeszcze nieobowiązujący; podaj datę z `obowiazuje_od` i porównaj ją z datą pytania.
