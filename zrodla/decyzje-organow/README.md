@@ -15,8 +15,8 @@ Nazwa pliku: `RRRR-MM-DD-krotki-opis.md` (UODO: `RRRR/<sygnatura>-<rok sprawy>.m
 ## Źródła
 
 - UODO: https://orzeczenia.uodo.gov.pl
-- Enforcement Tracker (źródło robocze do wyszukiwania): https://www.enforcementtracker.com – w pliku zawsze podać źródło pierwotne (decyzja lub komunikat organu)
 - EROD: https://www.edpb.europa.eu
+- Bazy zewnętrzne do przeglądania (CMS Enforcement Tracker, rejestry EROD, dsgvo-portal) – nie importujemy, skill tylko o nich przypomina: [`bazy-zewnetrzne.md`](bazy-zewnetrzne.md). Przy dodawaniu pojedynczej decyzji zawsze podać źródło pierwotne (decyzja lub komunikat organu).
 
 ## Rejestr
 
