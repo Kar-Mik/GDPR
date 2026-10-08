@@ -40,7 +40,7 @@ indeksy/
 |---|---|
 | Tekst RODO | art. 1–99 (wersja skonsolidowana ze sprostowaniami) i motywy 1–173 – zaimportowane i zweryfikowane sumą kontrolną |
 | Akty wykonawcze | rejestr gotowy (przegląd EUR-Lex z 2026-10-08) |
-| Wyroki TSUE | rejestr wyroków wiodących; tezy do weryfikacji z CURIA |
+| Wyroki TSUE | 22 wyroki wiodące – zweryfikowane z EUR-Lex: ECLI, skład, sentencja (suma SHA-256), kluczowe punkty uzasadnienia |
 | Decyzje organów | DSB (AT) – Tesla Sentry; UODO – do uzupełnienia |
 | Prawo polskie | rejestr aktów; teksty do importu |
 | Soft law, kodeksy | etap 2 |
