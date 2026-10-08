@@ -1,9 +1,9 @@
 # Decyzje Prezesa UODO
 
 - **Źródło:** portal orzeczenia.uodo.gov.pl (filtr „Rozporządzenie o Ochronie Danych Osobowych”), stan na 2026-10-08.
-- **Zakres:** wszystkie **585 decyzji** opublikowanych na portalu (2018–2026) – **tylko metadane**, bez pełnych tekstów.
+- **Zakres:** wszystkie **585 decyzji** opublikowanych na portalu (2018–2026) – metadane; dla **136 decyzji z karą** także skrót sentencji (sygnalizacyjnie). Pełnych tekstów nie importowano.
 - **Rejestr z tabelą wszystkich decyzji:** [`rejestr.md`](rejestr.md). Pliki: `RRRR/<sygnatura>-<rok sprawy>.md`, gdzie `RRRR` to rok wydania decyzji.
-- **Dane wejściowe:** `narzedzia/dane/uodo_decyzje.json`; generator: `narzedzia/import_uodo.py`.
+- **Dane wejściowe:** `narzedzia/dane/uodo_decyzje.json`, `narzedzia/dane/uodo_sentencje.json`; generator: `narzedzia/import_uodo.py`.
 
 ## Co zawiera plik decyzji
 
@@ -16,6 +16,7 @@
 | „Opis (portal UODO)” | tytuł/teza nadana przez UODO na portalu | treść UODO; zdarzają się niezgodności z rozstrzygnięciem |
 | `kara` | kwoty „w wysokości / w kwocie … zł” wyszukane w sentencji | **ekstrakcja automatyczna** – kilka kwot = kilka kar (np. administrator i podmiot przetwarzający) albo kary za odrębne naruszenia |
 | `artykuly_rodo` | numery artykułów, przy których w rozstrzygnięciu pada „rozporządzenia 2016/679” / „RODO” | **ekstrakcja automatyczna** – może być niepełna (np. pomija naruszenie art. 6 wymienione w liście z art. 9); brak przy decyzjach o niewykonaniu nakazu |
+| „Sentencja (skrót)” – tylko decyzje z karą | rozstrzygnięcie z portalu: tytuł RODO skrócony do „rozporządzenia 2016/679”, „(słownie: …)” usunięte, ucięte do ok. 700 znaków | tekst UODO, ale **niepełny** – służy do zorientowania się, czego dotyczy kara; nie cytować jako całej sentencji. Przy decyzjach wieloadresatowych początek bywa listą stron, a w jednej (DS.523.4750.2023) fragment zaczyna się w środku wyliczenia |
 | `podstawa` | RODO albo ustawa z 1997 r. (sprawy sprzed 25.05.2018) albo ustawa z 14.12.2018 r. (policja, prokuratura, sądy w sprawach karnych) | wykryta z podstawy prawnej w sentencji |
 
 Przy odpowiedzi skill przytacza decyzję jako: sygnatura, data, rozstrzygnięcie, kara, status – i odsyła do pełnego tekstu na portalu. Kwoty i artykuły przed użyciem w opinii warto potwierdzić w tekście decyzji.
@@ -28,5 +29,5 @@ Przy odpowiedzi skill przytacza decyzję jako: sygnatura, data, rozstrzygnięcie
 
 ## Następne kroki (do decyzji użytkownika)
 
-1. Pełne teksty lub sentencje wybranych decyzji (np. wszystkie z karą – 136) z tezami do `indeksy/`.
+1. Pełne teksty wybranych decyzji z tezami do `indeksy/`.
 2. Powiązanie z wyrokami WSA/NSA (`zrodla/orzecznictwo/nsa-wsa/`) dla decyzji ze zdarzeniami `trial` / `defended` / `repealed`.

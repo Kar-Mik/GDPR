@@ -19,6 +19,7 @@ from collections import Counter, defaultdict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DANE = os.path.join(ROOT, "narzedzia", "dane", "uodo_decyzje.json")
+SENTENCJE = os.path.join(os.path.dirname(DANE), "uodo_sentencje.json")
 OUT = os.path.join(ROOT, "zrodla", "decyzje-organow", "pl-uodo")
 PORTAL = "https://orzeczenia.uodo.gov.pl/document/urn:ndoc:gov:pl:uodo:{}/content"
 DATA_POBRANIA = "2026-10-08"
@@ -59,6 +60,8 @@ def yq(s):
 def main():
     with open(DANE, encoding="utf-8") as f:
         recs = json.load(f)
+    with open(SENTENCJE, encoding="utf-8") as f:
+        sentencje = json.load(f)
     lata = Counter()
     rejestr = defaultdict(list)
     for (syg, urn, d_ogl, d_pub, status, zdarz, opis, etyk, kary, arts, flagi) in recs:
@@ -133,10 +136,21 @@ def main():
             for data, kod, opis_z in zdarzenia:
                 lines.append(f"- {data} – {opis_z} (`{kod}`)")
             lines.append("")
+        if syg in sentencje:
+            lines += [
+                "## Sentencja (skrót – sygnalizacyjnie)",
+                "",
+                "*Fragment rozstrzygnięcia: tytuł rozporządzenia skrócony do „rozporządzenia 2016/679”, "
+                "zapis „(słownie: …)” usunięty, tekst ucięty do ok. 700 znaków ([…]). "
+                "Do opinii – pełny tekst pod linkiem.*",
+                "",
+            ]
+            lines += ["> " + l if l else ">" for l in sentencje[syg].split("\n")]
+            lines.append("")
         lines += [
             "## Pełny tekst",
             "",
-            f"Nie zaimportowano (zakres: metadane). Tekst decyzji: {link}",
+            f"Nie zaimportowano. Tekst decyzji: {link}",
             "",
         ]
         with open(os.path.join(katalog, plik), "w", encoding="utf-8") as f:

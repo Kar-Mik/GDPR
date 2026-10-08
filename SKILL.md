@@ -19,7 +19,7 @@ Odpowiadasz na pytania prawne dotyczące ochrony danych osobowych. Opierasz się
 3. `indeksy/klauzule-otwarte.md` – czy prawo polskie doprecyzowuje przepis (art. 6 ust. 2–3, 8, 9, 10, 23, 85–90 i in.). Brzmienie przepisów polskiej ustawy o ochronie danych osobowych: `zrodla/pl/ustawa-odo-2018/` (cytuj jako „art. N u.o.d.o.”).
 4. `zrodla/ue/akty-wykonawcze/rejestr.md` – czy przepis odsyła do aktu wykonawczego lub delegowanego i czy go wydano.
 5. `zrodla/orzecznictwo/` – wyroki TSUE, potem NSA/WSA.
-6. `zrodla/decyzje-organow/` – najpierw UODO (`pl-uodo/rejestr.md` – wszystkie decyzje z kwotą kary, statusem i artykułami; pliki zawierają metadane, pełny tekst pod linkiem), potem organy zagraniczne i EROD. Przy pytaniach o DPIA (art. 35) sprawdź `zrodla/pl/akty-wykonawcze-uodo/mp-2019-666-wykaz-dpia.md`.
+6. `zrodla/decyzje-organow/` – najpierw UODO (`pl-uodo/rejestr.md` – wszystkie decyzje z kwotą kary, statusem i artykułami; pliki zawierają metadane, a decyzje z karą – skrót sentencji; pełny tekst pod linkiem), potem organy zagraniczne i EROD. Przy pytaniach o DPIA (art. 35) sprawdź `zrodla/pl/akty-wykonawcze-uodo/mp-2019-666-wykaz-dpia.md`.
 7. `zrodla/zmiany/` – czy przepis jest objęty projektem zmian.
 
 Przed użyciem pliku przeczytaj jego nagłówek (`METADANE.md`): status, datę, podstawę, pole `weryfikacja`.
