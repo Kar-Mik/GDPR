@@ -38,7 +38,7 @@ indeksy/
 
 | Obszar | Stan |
 |---|---|
-| Tekst RODO | do importu z EUR-Lex (wersja PL, CELEX 32016R0679) |
+| Tekst RODO | art. 1–99 (wersja skonsolidowana ze sprostowaniami) i motywy 1–173 – zaimportowane i zweryfikowane sumą kontrolną |
 | Akty wykonawcze | rejestr gotowy (przegląd EUR-Lex z 2026-10-08) |
 | Wyroki TSUE | rejestr wyroków wiodących; tezy do weryfikacji z CURIA |
 | Decyzje organów | DSB (AT) – Tesla Sentry; UODO – do uzupełnienia |
