@@ -49,7 +49,7 @@ indeksy/
 | Wyroki NSA/WSA | 108 sygnatur w sprawach 84 decyzji UODO ze skutkiem wg portalu UODO – sygnalizacyjnie, bez tekstów (odesłanie do CBOSA) |
 | Decyzje organów | UODO – 585 decyzji (metadane: status, kara, rozstrzygnięcie, artykuły RODO, sygnatury wyroków; skróty sentencji 136 decyzji z karą; bez pełnych tekstów); EROD – 12 wiążących decyzji (art. 65, 66 ust. 2) – noty; DSB (AT) – Tesla Sentry; bazy zewnętrzne (CMS, EROD) – tylko przypomnienie |
 | Prawo polskie | ustawa o ochronie danych osobowych z 2018 r. – zaimportowana (tekst jednolity 2019 + zmiany z 2026 r.), zweryfikowana sumą kontrolną; komunikat Prezesa UODO – wykaz operacji wymagających DPIA (M.P. 2019 poz. 666); Kodeks pracy art. 22¹–22³ (t.j. 2026) i Prawo komunikacji elektronicznej art. 398–400 – zaimportowane; pozostałe ustawy sektorowe – rejestr |
-| Soft law | etap 2 w toku – noty z tezami (numery punktów, sprawdzone z PDF): wytyczne EROD 3/2019, 05/2020, 07/2020, 9/2022, 1/2024 (projekt), WP29 WP248 i WP260; źródła i zasady: `zrodla/wytyczne/ZRODLA.md` |
+| Soft law | etap 2 w toku – noty z tezami (numery punktów sprawdzone z PDF) dla wszystkich 18 pozycji rejestru: 13 wytycznych i rekomendacji EROD (w tym 1/2024 i 01/2025 jako projekty), opinia 28/2024 (modele AI), wspólna opinia EROD–EIOD 2/2026 (Digital Omnibus), WP29: WP243, WP248, WP251, WP260; poradniki UODO – do zrobienia; źródła i zasady: `zrodla/wytyczne/ZRODLA.md` |
 | Kodeksy, certyfikacja | etap 2 |
 | Digital Omnibus | notatka o stanie prac |
 
