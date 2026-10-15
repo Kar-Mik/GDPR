@@ -14,6 +14,8 @@ weryfikacja: zweryfikowane (2026-10-08, sentencja i punkty uzasadnienia z tekste
 
 Etap 1 obejmuje wyłącznie wyroki wiodące. Każdy plik zawiera tezę (własnymi słowami), kluczowe punkty uzasadnienia oraz sentencję w brzmieniu z EUR-Lex (suma SHA-256 w nagłówku). Gdy teza wynika z uzasadnienia, a nie z sentencji, plik wskazuje numer punktu.
 
+Pełna lista wyroków TSUE na gruncie RODO (także noty sygnalizacyjne bez tekstu sentencji): [`rejestr-rodo.md`](rejestr-rodo.md).
+
 | Sygnatura | Nazwa | Data | Skład | ECLI | Podstawa | Artykuły RODO |
 |---|---|---|---|---|---|---|
 | [C-131/12](c-131-12.md) | Google Spain i Google | 2014-05-13 | wielka izba | ECLI:EU:C:2014:317 | dyrektywa 95/46 | 3(1), 4(2), 4(7), 17, 21 |

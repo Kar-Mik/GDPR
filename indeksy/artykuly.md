@@ -20,7 +20,18 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 1 u.o.d.o. "Art. 1 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-001.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 6 u.o.d.o. "Art. 6 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-006.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-212/13 Ryneš](../zrodla/orzecznictwo/tsue/c-212-13.md) – TSUE (czwarta izba), 2014-12-11
+- Orzecznictwo: [C-272/19 VQ / Land Hessen](../zrodla/orzecznictwo/tsue/c-272-19.md) – TSUE (trzecia izba), 2020-07-09
 - Orzecznictwo: [C-311/18 Facebook Ireland i Schrems (Schrems II)](../zrodla/orzecznictwo/tsue/c-311-18.md) – TSUE (wielka izba), 2020-07-16
+- Orzecznictwo: [C-817/19 Ligue des droits humains (PNR)](../zrodla/orzecznictwo/tsue/c-817-19.md) – TSUE (wielka izba), 2022-06-21
+- Orzecznictwo: [C-306/21 Komisia za zashtita na lichnite danni / Demokratichna Bulgaria](../zrodla/orzecznictwo/tsue/c-306-21.md) – TSUE (ósma izba), 2022-10-20
+- Orzecznictwo: [C-180/21 VS / Inspektor v Inspektorata kam Visshia sadeben savet](../zrodla/orzecznictwo/tsue/c-180-21.md) – TSUE (piąta izba), 2022-12-08
+- Orzecznictwo: [C-33/22 Österreichische Datenschutzbehörde / WK (komisja śledcza)](../zrodla/orzecznictwo/tsue/c-33-22.md) – TSUE (wielka izba), 2024-01-16
+- Orzecznictwo: [C-740/22 Endemol Shine Finland](../zrodla/orzecznictwo/tsue/c-740-22.md) – TSUE (szósta izba), 2024-03-07
+- Orzecznictwo: [C-461/22 MK / WB (były kurator)](../zrodla/orzecznictwo/tsue/c-461-22.md) – TSUE (dziewiąta izba), 2024-07-11
+- Orzecznictwo: [C-313/23, C-316/23, C-332/23 Inspektorat kam Visshia sadeben savet](../zrodla/orzecznictwo/tsue/c-313-23-c-316-23-c-332-23.md) – TSUE (pierwsza izba), 2025-04-30
+- Orzecznictwo: [C-492/23 X / Russmedia Digital, Inform Media Press](../zrodla/orzecznictwo/tsue/c-492-23.md) – TSUE (wielka izba), 2025-12-02
+- Orzecznictwo: [C-312/24 CL / Prokuratura na Republika Bulgaria (Darashev)](../zrodla/orzecznictwo/tsue/c-312-24.md) – TSUE (piąta izba), 2026-06-04
+- Orzecznictwo: [C-474/24 AR i in. / NADA Austria](../zrodla/orzecznictwo/tsue/c-474-24.md) – TSUE (wielka izba), 2026-07-14
 - Decyzje organów: [Właściciel Tesli – tryb Sentry (Wächter-Modus)](../zrodla/decyzje-organow/at-dsb/2025-09-29-tesla-sentry.md) – DSB (AT), 2025-09-29
 - Wytyczne: [3/2019 "Wytyczne 3/2019 w sprawie przetwarzania danych osobowych przez urządzenia wideo"](../zrodla/wytyczne/edpb/2020-01-wytyczne-3-2019-urzadzenia-wideo.md) – EROD, 2020-01-29
 
@@ -40,10 +51,23 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Orzecznictwo: [C-210/16 Wirtschaftsakademie Schleswig-Holstein](../zrodla/orzecznictwo/tsue/c-210-16.md) – TSUE (wielka izba), 2018-06-05
 - Orzecznictwo: [C-40/17 Fashion ID](../zrodla/orzecznictwo/tsue/c-40-17.md) – TSUE (druga izba), 2019-07-29
 - Orzecznictwo: [C-673/17 Planet49](../zrodla/orzecznictwo/tsue/c-673-17.md) – TSUE (wielka izba), 2019-10-01
+- Orzecznictwo: [C-272/19 VQ / Land Hessen](../zrodla/orzecznictwo/tsue/c-272-19.md) – TSUE (trzecia izba), 2020-07-09
+- Orzecznictwo: [C-61/19 Orange România](../zrodla/orzecznictwo/tsue/c-61-19.md) – TSUE (druga izba), 2020-11-11
+- Orzecznictwo: [C-129/21 Proximus / Gegevensbeschermingsautoriteit](../zrodla/orzecznictwo/tsue/c-129-21.md) – TSUE (czwarta izba), 2022-10-27
 - Orzecznictwo: [C-252/21 Meta Platforms i in. / Bundeskartellamt](../zrodla/orzecznictwo/tsue/c-252-21.md) – TSUE (wielka izba), 2023-07-04
+- Orzecznictwo: [C-659/22 RK / Ministerstvo zdravotnictví](../zrodla/orzecznictwo/tsue/c-659-22.md) – TSUE (ósma izba), 2023-10-05
+- Orzecznictwo: [C-319/22 Gesamtverband Autoteile-Handel / Scania](../zrodla/orzecznictwo/tsue/c-319-22.md) – TSUE (trzecia izba), 2023-11-09
 - Orzecznictwo: [C-683/21 Nacionalinis visuomenės sveikatos centras](../zrodla/orzecznictwo/tsue/c-683-21.md) – TSUE (wielka izba), 2023-12-05
+- Orzecznictwo: [C-231/22 État belge / Autorité de protection des données (Moniteur belge)](../zrodla/orzecznictwo/tsue/c-231-22.md) – TSUE (trzecia izba), 2024-01-11
 - Orzecznictwo: [C-604/22 IAB Europe](../zrodla/orzecznictwo/tsue/c-604-22.md) – TSUE (czwarta izba), 2024-03-07
+- Orzecznictwo: [C-740/22 Endemol Shine Finland](../zrodla/orzecznictwo/tsue/c-740-22.md) – TSUE (szósta izba), 2024-03-07
+- Orzecznictwo: [C-461/22 MK / WB (były kurator)](../zrodla/orzecznictwo/tsue/c-461-22.md) – TSUE (dziewiąta izba), 2024-07-11
+- Orzecznictwo: [C-200/23 Agentsia po vpisvaniyata / OL](../zrodla/orzecznictwo/tsue/c-200-23.md) – TSUE (pierwsza izba), 2024-10-04
+- Orzecznictwo: [C-638/23 Amt der Tiroler Landesregierung / Datenschutzbehörde](../zrodla/orzecznictwo/tsue/c-638-23.md) – TSUE (ósma izba), 2025-02-27
+- Orzecznictwo: [C-710/23 L.H. / Ministerstvo zdravotnictví](../zrodla/orzecznictwo/tsue/c-710-23.md) – TSUE (pierwsza izba), 2025-04-03
+- Orzecznictwo: [C-313/23, C-316/23, C-332/23 Inspektorat kam Visshia sadeben savet](../zrodla/orzecznictwo/tsue/c-313-23-c-316-23-c-332-23.md) – TSUE (pierwsza izba), 2025-04-30
 - Orzecznictwo: [C-413/23 P EIOD / SRB](../zrodla/orzecznictwo/tsue/c-413-23-p.md) – TSUE (pierwsza izba), 2025-09-04
+- Orzecznictwo: [C-492/23 X / Russmedia Digital, Inform Media Press](../zrodla/orzecznictwo/tsue/c-492-23.md) – TSUE (wielka izba), 2025-12-02
 - Decyzje organów: ["EROD 1/2021" "WhatsApp – przejrzystość"](../zrodla/decyzje-organow/edpb-art65/2021-07-28-1-2021.md) – EROD, 2021-07-28
 - Wytyczne: [WP251 rev.01 "Wytyczne w sprawie zautomatyzowanego podejmowania decyzji w indywidualnych przypadkach i profilowania do celów rozporządzenia 2016/679"](../zrodla/wytyczne/wp29/2018-02-wp251-profilowanie-art-22.md) – Grupa Robocza Art. 29 (przyjęte przez EROD 25.05.2018), 2018-02-06
 - Wytyczne: [05/2020 "Wytyczne 05/2020 dotyczące zgody na mocy rozporządzenia 2016/679"](../zrodla/wytyczne/edpb/2020-05-wytyczne-05-2020-zgoda.md) – EROD, 2020-05-04
@@ -62,8 +86,27 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 22¹ᵉ KP "Art. 22¹ᵉ Kodeksu pracy – kontrola na obecność środków działających podobnie do alkoholu"](../zrodla/pl/kodeks-pracy/art-22-1e.md) – Sejm RP, 1974-06-26
 - Prawo polskie: [art. 22² KP "Art. 22² Kodeksu pracy – monitoring wizyjny"](../zrodla/pl/kodeks-pracy/art-22-2.md) – Sejm RP, 1974-06-26
 - Prawo polskie: [art. 22³ KP "Art. 22³ Kodeksu pracy – monitoring poczty elektronicznej i inne formy monitoringu"](../zrodla/pl/kodeks-pracy/art-22-3.md) – Sejm RP, 1974-06-26
+- Orzecznictwo: [C-496/17 Deutsche Post / Hauptzollamt Köln](../zrodla/orzecznictwo/tsue/c-496-17.md) – TSUE (trzecia izba), 2019-01-16
 - Orzecznictwo: [C-708/18 TK / Asociaţia de Proprietari bloc M5A-ScaraA](../zrodla/orzecznictwo/tsue/c-708-18.md) – TSUE (trzecia izba), 2019-12-11
+- Orzecznictwo: [C-439/19 B (punkty karne) / Latvijas Republikas Saeima](../zrodla/orzecznictwo/tsue/c-439-19.md) – TSUE (wielka izba), 2021-06-22
+- Orzecznictwo: [C-175/20 „SS” SIA / Valsts ieņēmumu dienests](../zrodla/orzecznictwo/tsue/c-175-20.md) – TSUE (piąta izba), 2022-02-24
+- Orzecznictwo: [C-77/21 Digi / NAIH](../zrodla/orzecznictwo/tsue/c-77-21.md) – TSUE (pierwsza izba), 2022-10-20
+- Orzecznictwo: [C-129/21 Proximus / Gegevensbeschermingsautoriteit](../zrodla/orzecznictwo/tsue/c-129-21.md) – TSUE (czwarta izba), 2022-10-27
+- Orzecznictwo: [C-268/21 Norra Stockholm Bygg / Per Nycander](../zrodla/orzecznictwo/tsue/c-268-21.md) – TSUE (trzecia izba), 2023-03-02
+- Orzecznictwo: [C-60/22 UZ / Bundesrepublik Deutschland](../zrodla/orzecznictwo/tsue/c-60-22.md) – TSUE (piąta izba), 2023-05-04
 - Orzecznictwo: [C-26/22, C-64/22 UF i AB / SCHUFA Holding (zwolnienie z długów)](../zrodla/orzecznictwo/tsue/c-26-22-c-64-22.md) – TSUE (pierwsza izba), 2023-12-07
+- Orzecznictwo: [C-340/21 VB / Natsionalna agentsia za prihodite](../zrodla/orzecznictwo/tsue/c-340-21.md) – TSUE (trzecia izba), 2023-12-14
+- Orzecznictwo: [C-667/21 ZQ / Medizinischer Dienst der Krankenversicherung Nordrhein](../zrodla/orzecznictwo/tsue/c-667-21.md) – TSUE (trzecia izba), 2023-12-21
+- Orzecznictwo: [C-231/22 État belge / Autorité de protection des données (Moniteur belge)](../zrodla/orzecznictwo/tsue/c-231-22.md) – TSUE (trzecia izba), 2024-01-11
+- Orzecznictwo: [C-687/21 BL / MediaMarktSaturn Hagen-Iserlohn](../zrodla/orzecznictwo/tsue/c-687-21.md) – TSUE (trzecia izba), 2024-01-25
+- Orzecznictwo: [C-446/21 Schrems / Meta Platforms Ireland (minimalizacja)](../zrodla/orzecznictwo/tsue/c-446-21.md) – TSUE (czwarta izba), 2024-10-04
+- Orzecznictwo: [C-65/23 MK / K GmbH](../zrodla/orzecznictwo/tsue/c-65-23.md) – TSUE (ósma izba), 2024-12-19
+- Orzecznictwo: [C-394/23 Mousse / CNIL, SNCF Connect](../zrodla/orzecznictwo/tsue/c-394-23.md) – TSUE (pierwsza izba), 2025-01-09
+- Orzecznictwo: [C-247/23 VP / Országos Idegenrendészeti Főigazgatóság (Deldits)](../zrodla/orzecznictwo/tsue/c-247-23.md) – TSUE (pierwsza izba), 2025-03-13
+- Orzecznictwo: [C-492/23 X / Russmedia Digital, Inform Media Press](../zrodla/orzecznictwo/tsue/c-492-23.md) – TSUE (wielka izba), 2025-12-02
+- Orzecznictwo: [C-484/24 NTH Haustechnik / EM](../zrodla/orzecznictwo/tsue/c-484-24.md) – TSUE (piąta izba), 2026-06-18
+- Orzecznictwo: [C-474/24 AR i in. / NADA Austria](../zrodla/orzecznictwo/tsue/c-474-24.md) – TSUE (wielka izba), 2026-07-14
+- Orzecznictwo: [C-798/24 A i in. (Jautiva)](../zrodla/orzecznictwo/tsue/c-798-24.md) – TSUE (pierwsza izba), 2026-09-03
 - Decyzje organów: ["ZSPR.421.7.2019" "nakaz, nałożenie kary (201 559,50 zł) – art. 5, 6, 24 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspr_421_7-2019.md) – Prezes UODO, 2019-10-16
 - Decyzje organów: ["ZSPU.421.3.2019" "nakaz, nałożenie kary (40.000 zł) – art. 5, 24, 28, 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspu_421_3-2019.md) – Prezes UODO, 2019-10-18
 - Decyzje organów: ["DKN.5112.13.2020" "nakaz, umorzenie, nałożenie kary (100 000 zł) – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dkn_5112_13-2020.md) – Prezes UODO, 2020-08-24
@@ -139,13 +182,38 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Orzecznictwo: [C-212/13 Ryneš](../zrodla/orzecznictwo/tsue/c-212-13.md) – TSUE (czwarta izba), 2014-12-11
 - Orzecznictwo: [C-582/14 Breyer](../zrodla/orzecznictwo/tsue/c-582-14.md) – TSUE (druga izba), 2016-10-19
 - Orzecznictwo: [C-13/16 Rīgas satiksme](../zrodla/orzecznictwo/tsue/c-13-16.md) – TSUE (druga izba), 2017-05-04
+- Orzecznictwo: [C-496/17 Deutsche Post / Hauptzollamt Köln](../zrodla/orzecznictwo/tsue/c-496-17.md) – TSUE (trzecia izba), 2019-01-16
 - Orzecznictwo: [C-40/17 Fashion ID](../zrodla/orzecznictwo/tsue/c-40-17.md) – TSUE (druga izba), 2019-07-29
 - Orzecznictwo: [C-673/17 Planet49](../zrodla/orzecznictwo/tsue/c-673-17.md) – TSUE (wielka izba), 2019-10-01
 - Orzecznictwo: [C-708/18 TK / Asociaţia de Proprietari bloc M5A-ScaraA](../zrodla/orzecznictwo/tsue/c-708-18.md) – TSUE (trzecia izba), 2019-12-11
+- Orzecznictwo: [C-61/19 Orange România](../zrodla/orzecznictwo/tsue/c-61-19.md) – TSUE (druga izba), 2020-11-11
+- Orzecznictwo: [C-597/19 M.I.C.M. / Telenet](../zrodla/orzecznictwo/tsue/c-597-19.md) – TSUE (piąta izba), 2021-06-17
+- Orzecznictwo: [C-439/19 B (punkty karne) / Latvijas Republikas Saeima](../zrodla/orzecznictwo/tsue/c-439-19.md) – TSUE (wielka izba), 2021-06-22
+- Orzecznictwo: [C-175/20 „SS” SIA / Valsts ieņēmumu dienests](../zrodla/orzecznictwo/tsue/c-175-20.md) – TSUE (piąta izba), 2022-02-24
 - Orzecznictwo: [C-184/20 OT / Vyriausioji tarnybinės etikos komisija](../zrodla/orzecznictwo/tsue/c-184-20.md) – TSUE (wielka izba), 2022-08-01
+- Orzecznictwo: [C-306/21 Komisia za zashtita na lichnite danni / Demokratichna Bulgaria](../zrodla/orzecznictwo/tsue/c-306-21.md) – TSUE (ósma izba), 2022-10-20
+- Orzecznictwo: [C-77/21 Digi / NAIH](../zrodla/orzecznictwo/tsue/c-77-21.md) – TSUE (pierwsza izba), 2022-10-20
+- Orzecznictwo: [C-180/21 VS / Inspektor v Inspektorata kam Visshia sadeben savet](../zrodla/orzecznictwo/tsue/c-180-21.md) – TSUE (piąta izba), 2022-12-08
+- Orzecznictwo: [C-268/21 Norra Stockholm Bygg / Per Nycander](../zrodla/orzecznictwo/tsue/c-268-21.md) – TSUE (trzecia izba), 2023-03-02
+- Orzecznictwo: [C-34/21 Hauptpersonalrat der Lehrerinnen und Lehrer](../zrodla/orzecznictwo/tsue/c-34-21.md) – TSUE (pierwsza izba), 2023-03-30
+- Orzecznictwo: [C-60/22 UZ / Bundesrepublik Deutschland](../zrodla/orzecznictwo/tsue/c-60-22.md) – TSUE (piąta izba), 2023-05-04
+- Orzecznictwo: [C-204/21 Komisja / Polska (niezależność sądów – oświadczenia sędziów)](../zrodla/orzecznictwo/tsue/c-204-21.md) – TSUE (wielka izba), 2023-06-05
 - Orzecznictwo: [C-252/21 Meta Platforms i in. / Bundeskartellamt](../zrodla/orzecznictwo/tsue/c-252-21.md) – TSUE (wielka izba), 2023-07-04
+- Orzecznictwo: [C-319/22 Gesamtverband Autoteile-Handel / Scania](../zrodla/orzecznictwo/tsue/c-319-22.md) – TSUE (trzecia izba), 2023-11-09
 - Orzecznictwo: [C-26/22, C-64/22 UF i AB / SCHUFA Holding (zwolnienie z długów)](../zrodla/orzecznictwo/tsue/c-26-22-c-64-22.md) – TSUE (pierwsza izba), 2023-12-07
+- Orzecznictwo: [C-667/21 ZQ / Medizinischer Dienst der Krankenversicherung Nordrhein](../zrodla/orzecznictwo/tsue/c-667-21.md) – TSUE (trzecia izba), 2023-12-21
+- Orzecznictwo: [C-740/22 Endemol Shine Finland](../zrodla/orzecznictwo/tsue/c-740-22.md) – TSUE (szósta izba), 2024-03-07
+- Orzecznictwo: [C-17/22, C-18/22 HTB Neunte Immobilien Portfolio i Ökorenta Neue Energien Ökostabil IV](../zrodla/orzecznictwo/tsue/c-17-22-c-18-22.md) – TSUE (czwarta izba), 2024-09-12
 - Orzecznictwo: [C-621/22 Koninklijke Nederlandse Lawn Tennis Bond (KNLTB)](../zrodla/orzecznictwo/tsue/c-621-22.md) – TSUE (dziewiąta izba), 2024-10-04
+- Orzecznictwo: [C-65/23 MK / K GmbH](../zrodla/orzecznictwo/tsue/c-65-23.md) – TSUE (ósma izba), 2024-12-19
+- Orzecznictwo: [C-394/23 Mousse / CNIL, SNCF Connect](../zrodla/orzecznictwo/tsue/c-394-23.md) – TSUE (pierwsza izba), 2025-01-09
+- Orzecznictwo: [C-710/23 L.H. / Ministerstvo zdravotnictví](../zrodla/orzecznictwo/tsue/c-710-23.md) – TSUE (pierwsza izba), 2025-04-03
+- Orzecznictwo: [C-654/23 Inteligo Media / ANSPDCP](../zrodla/orzecznictwo/tsue/c-654-23.md) – TSUE (pierwsza izba), 2025-11-13
+- Orzecznictwo: [C-312/24 CL / Prokuratura na Republika Bulgaria (Darashev)](../zrodla/orzecznictwo/tsue/c-312-24.md) – TSUE (piąta izba), 2026-06-04
+- Orzecznictwo: [C-484/24 NTH Haustechnik / EM](../zrodla/orzecznictwo/tsue/c-484-24.md) – TSUE (piąta izba), 2026-06-18
+- Orzecznictwo: [C-474/24 AR i in. / NADA Austria](../zrodla/orzecznictwo/tsue/c-474-24.md) – TSUE (wielka izba), 2026-07-14
+- Orzecznictwo: [C-209/23 FT, RRC Sports / FIFA](../zrodla/orzecznictwo/tsue/c-209-23.md) – TSUE (piąta izba), 2026-07-16
+- Orzecznictwo: [C-798/24 A i in. (Jautiva)](../zrodla/orzecznictwo/tsue/c-798-24.md) – TSUE (pierwsza izba), 2026-09-03
 - Decyzje organów: ["ZSZZS.440.790.2018" "upomnienie – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zszzs_440_790-2018.md) – Prezes UODO, 2019-07-11
 - Decyzje organów: ["ZSPR.421.7.2019" "nakaz, nałożenie kary (201 559,50 zł) – art. 5, 6, 24 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspr_421_7-2019.md) – Prezes UODO, 2019-10-16
 - Decyzje organów: ["DKN.5112.7.2020" "upomnienie – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dkn_5112_7-2020.md) – Prezes UODO, 2020-06-30
@@ -195,6 +263,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 399 PKE "Art. 399 Prawa komunikacji elektronicznej – cookies – przechowywanie informacji i dostęp do urządzenia końcowego"](../zrodla/pl/prawo-komunikacji-elektronicznej/art-399.md) – Sejm RP, 2024-07-12
 - Prawo polskie: [art. 400 PKE "Art. 400 Prawa komunikacji elektronicznej – zgoda – odesłanie do przepisów o ochronie danych osobowych"](../zrodla/pl/prawo-komunikacji-elektronicznej/art-400.md) – Sejm RP, 2024-07-12
 - Orzecznictwo: [C-673/17 Planet49](../zrodla/orzecznictwo/tsue/c-673-17.md) – TSUE (wielka izba), 2019-10-01
+- Orzecznictwo: [C-61/19 Orange România](../zrodla/orzecznictwo/tsue/c-61-19.md) – TSUE (druga izba), 2020-11-11
 - Wytyczne: [2/2019 "Wytyczne 2/2019 w sprawie przetwarzania danych osobowych na podstawie art. 6 ust. 1 lit. b) RODO w kontekście świadczenia usług online na rzecz osób, których dane dotyczą"](../zrodla/wytyczne/edpb/2019-10-wytyczne-2-2019-art-6-1-b-uslugi-online.md) – EROD, 2019-10-08
 - Wytyczne: [05/2020 "Wytyczne 05/2020 dotyczące zgody na mocy rozporządzenia 2016/679"](../zrodla/wytyczne/edpb/2020-05-wytyczne-05-2020-zgoda.md) – EROD, 2020-05-04
 - Wytyczne: [03/2022 "Wytyczne 03/2022 dotyczące zwodniczych wzorców projektowych w interfejsach platform mediów społecznościowych: jak je rozpoznawać i jak ich unikać"](../zrodla/wytyczne/edpb/2023-02-wytyczne-03-2022-zwodnicze-wzorce-projektowe.md) – EROD, 2023-02-14
@@ -216,7 +285,14 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 22¹ᶠ KP "Art. 22¹ᶠ Kodeksu pracy – niedopuszczenie do pracy – środki podobne do alkoholu"](../zrodla/pl/kodeks-pracy/art-22-1f.md) – Sejm RP, 1974-06-26
 - Prawo polskie: [art. 6a u.o.d.o. "Art. 6a ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-006a.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-184/20 OT / Vyriausioji tarnybinės etikos komisija](../zrodla/orzecznictwo/tsue/c-184-20.md) – TSUE (wielka izba), 2022-08-01
+- Orzecznictwo: [C-204/21 Komisja / Polska (niezależność sądów – oświadczenia sędziów)](../zrodla/orzecznictwo/tsue/c-204-21.md) – TSUE (wielka izba), 2023-06-05
 - Orzecznictwo: [C-252/21 Meta Platforms i in. / Bundeskartellamt](../zrodla/orzecznictwo/tsue/c-252-21.md) – TSUE (wielka izba), 2023-07-04
+- Orzecznictwo: [C-667/21 ZQ / Medizinischer Dienst der Krankenversicherung Nordrhein](../zrodla/orzecznictwo/tsue/c-667-21.md) – TSUE (trzecia izba), 2023-12-21
+- Orzecznictwo: [C-21/23 ND / DR (Lindenapotheke)](../zrodla/orzecznictwo/tsue/c-21-23.md) – TSUE (wielka izba), 2024-10-04
+- Orzecznictwo: [C-446/21 Schrems / Meta Platforms Ireland (minimalizacja)](../zrodla/orzecznictwo/tsue/c-446-21.md) – TSUE (czwarta izba), 2024-10-04
+- Orzecznictwo: [C-65/23 MK / K GmbH](../zrodla/orzecznictwo/tsue/c-65-23.md) – TSUE (ósma izba), 2024-12-19
+- Orzecznictwo: [C-492/23 X / Russmedia Digital, Inform Media Press](../zrodla/orzecznictwo/tsue/c-492-23.md) – TSUE (wielka izba), 2025-12-02
+- Orzecznictwo: [C-474/24 AR i in. / NADA Austria](../zrodla/orzecznictwo/tsue/c-474-24.md) – TSUE (wielka izba), 2026-07-14
 - Decyzje organów: ["ZSZZS.440.768.2018" "nakaz, nałożenie kary (20 000,00 zł) – art. 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/zszzs_440_768-2018.md) – Prezes UODO, 2020-02-18
 - Decyzje organów: ["DS.523.7376.2021" "nakaz, upomnienie – art. 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_7376-2021.md) – Prezes UODO, 2022-04-27
 - Decyzje organów: ["DS.523.7988.2021" "umorzenie, upomnienie – art. 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_7988-2021.md) – Prezes UODO, 2022-07-13
@@ -240,6 +316,10 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Tezy: [Klauzule otwarte RODO – mapowanie na prawo polskie](klauzule-otwarte.md) – –, 2026-10-08
 - Prawo polskie: [art. 22¹ᵃ KP "Art. 22¹ᵃ Kodeksu pracy – zgoda kandydata/pracownika jako podstawa przetwarzania"](../zrodla/pl/kodeks-pracy/art-22-1a.md) – Sejm RP, 1974-06-26
 - Prawo polskie: [art. 6a u.o.d.o. "Art. 6a ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-006a.md) – Sejm RP, 2018-05-10
+- Orzecznictwo: [C-439/19 B (punkty karne) / Latvijas Republikas Saeima](../zrodla/orzecznictwo/tsue/c-439-19.md) – TSUE (wielka izba), 2021-06-22
+- Orzecznictwo: [C-740/22 Endemol Shine Finland](../zrodla/orzecznictwo/tsue/c-740-22.md) – TSUE (szósta izba), 2024-03-07
+- Orzecznictwo: [C-769/22 Komisja / Węgry (wartości UE, ochrona dzieci)](../zrodla/orzecznictwo/tsue/c-769-22.md) – TSUE (pełny skład), 2026-04-21
+- Orzecznictwo: [C-474/24 AR i in. / NADA Austria](../zrodla/orzecznictwo/tsue/c-474-24.md) – TSUE (wielka izba), 2026-07-14
 
 ## Art. 11
 
@@ -251,6 +331,9 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Tezy: [Art. 11 RODO – przetwarzanie niewymagające identyfikacji – tezy](art-011.md) – –, 2026-10-08
 - Prawo polskie: [art. 22² KP "Art. 22² Kodeksu pracy – monitoring wizyjny"](../zrodla/pl/kodeks-pracy/art-22-2.md) – Sejm RP, 1974-06-26
 - Orzecznictwo: [C-154/21 Österreichische Post (odbiorcy)](../zrodla/orzecznictwo/tsue/c-154-21.md) – TSUE (pierwsza izba), 2023-01-12
+- Orzecznictwo: [C-307/22 FT / DW (kopia dokumentacji medycznej)](../zrodla/orzecznictwo/tsue/c-307-22.md) – TSUE (pierwsza izba), 2023-10-26
+- Orzecznictwo: [C-757/22 Meta Platforms Ireland / Verbraucherzentrale Bundesverband (II)](../zrodla/orzecznictwo/tsue/c-757-22.md) – TSUE (czwarta izba), 2024-07-11
+- Orzecznictwo: [C-526/24 Brillen Rottler / TC](../zrodla/orzecznictwo/tsue/c-526-24.md) – TSUE (czwarta izba), 2026-03-19
 - Decyzje organów: ["EROD 1/2021" "WhatsApp – przejrzystość"](../zrodla/decyzje-organow/edpb-art65/2021-07-28-1-2021.md) – EROD, 2021-07-28
 - Decyzje organów: [Właściciel Tesli – tryb Sentry (Wächter-Modus)](../zrodla/decyzje-organow/at-dsb/2025-09-29-tesla-sentry.md) – DSB (AT), 2025-09-29
 - Wytyczne: [WP260 rev.01 "Wytyczne w sprawie przejrzystości na podstawie rozporządzenia 2016/679"](../zrodla/wytyczne/wp29/2018-04-wp260-przejrzystosc.md) – Grupa Robocza Art. 29 (przyjęte przez EROD 25.05.2018), 2018-04-11
@@ -266,7 +349,10 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 22² KP "Art. 22² Kodeksu pracy – monitoring wizyjny"](../zrodla/pl/kodeks-pracy/art-22-2.md) – Sejm RP, 1974-06-26
 - Prawo polskie: [art. 3 u.o.d.o. "Art. 3 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-003.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-40/17 Fashion ID](../zrodla/orzecznictwo/tsue/c-40-17.md) – TSUE (druga izba), 2019-07-29
+- Orzecznictwo: [C-757/22 Meta Platforms Ireland / Verbraucherzentrale Bundesverband (II)](../zrodla/orzecznictwo/tsue/c-757-22.md) – TSUE (czwarta izba), 2024-07-11
 - Orzecznictwo: [C-413/23 P EIOD / SRB](../zrodla/orzecznictwo/tsue/c-413-23-p.md) – TSUE (pierwsza izba), 2025-09-04
+- Orzecznictwo: [C-422/24 IMY / Storstockholms Lokaltrafik](../zrodla/orzecznictwo/tsue/c-422-24.md) – TSUE (pierwsza izba), 2025-12-18
+- Orzecznictwo: [C-484/24 NTH Haustechnik / EM](../zrodla/orzecznictwo/tsue/c-484-24.md) – TSUE (piąta izba), 2026-06-18
 - Decyzje organów: ["ZSPU.421.2.2018" "nakaz, umorzenie – art. 13, 30 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspu_421_2-2018.md) – Prezes UODO, 2019-04-06
 - Decyzje organów: ["EROD 1/2021" "WhatsApp – przejrzystość"](../zrodla/decyzje-organow/edpb-art65/2021-07-28-1-2021.md) – EROD, 2021-07-28
 - Decyzje organów: ["DS.523.2332.2021" "nakaz, odmowa – art. 13 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_2332-2021.md) – Prezes UODO, 2022-01-24
@@ -285,7 +371,9 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 ## Art. 14
 
 - Prawo polskie: [art. 4 u.o.d.o. "Art. 4 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-004.md) – Sejm RP, 2018-05-10
+- Orzecznictwo: [C-169/23 NAIH / UC (Másdi)](../zrodla/orzecznictwo/tsue/c-169-23.md) – TSUE (trzecia izba), 2024-11-28
 - Orzecznictwo: [C-413/23 P EIOD / SRB](../zrodla/orzecznictwo/tsue/c-413-23-p.md) – TSUE (pierwsza izba), 2025-09-04
+- Orzecznictwo: [C-422/24 IMY / Storstockholms Lokaltrafik](../zrodla/orzecznictwo/tsue/c-422-24.md) – TSUE (pierwsza izba), 2025-12-18
 - Decyzje organów: ["ZSPR.421.3.2018" "nakaz, nałożenie kary (943.470,00 zł) – art. 14 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspr_421_3-2018.md) – Prezes UODO, 2019-03-15
 - Decyzje organów: ["EROD 1/2021" "WhatsApp – przejrzystość"](../zrodla/decyzje-organow/edpb-art65/2021-07-28-1-2021.md) – EROD, 2021-07-28
 - Decyzje organów: ["DKE.523.18.2021" "nakaz, odmowa – art. 14 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_523_18-2021.md) – Prezes UODO, 2021-08-24
@@ -297,8 +385,14 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Tezy: [Art. 11 RODO – przetwarzanie niewymagające identyfikacji – tezy](art-011.md) – –, 2026-10-08
 - Prawo polskie: [art. 5 u.o.d.o. "Art. 5 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-005.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 5a u.o.d.o. "Art. 5a ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-005a.md) – Sejm RP, 2018-05-10
+- Orzecznictwo: [C-272/19 VQ / Land Hessen](../zrodla/orzecznictwo/tsue/c-272-19.md) – TSUE (trzecia izba), 2020-07-09
 - Orzecznictwo: [C-154/21 Österreichische Post (odbiorcy)](../zrodla/orzecznictwo/tsue/c-154-21.md) – TSUE (pierwsza izba), 2023-01-12
 - Orzecznictwo: [C-487/21 F.F. / Österreichische Datenschutzbehörde (kopia)](../zrodla/orzecznictwo/tsue/c-487-21.md) – TSUE (pierwsza izba), 2023-05-04
+- Orzecznictwo: [C-579/21 J.M. / Pankki S](../zrodla/orzecznictwo/tsue/c-579-21.md) – TSUE (pierwsza izba), 2023-06-22
+- Orzecznictwo: [C-307/22 FT / DW (kopia dokumentacji medycznej)](../zrodla/orzecznictwo/tsue/c-307-22.md) – TSUE (pierwsza izba), 2023-10-26
+- Orzecznictwo: [C-461/22 MK / WB (były kurator)](../zrodla/orzecznictwo/tsue/c-461-22.md) – TSUE (dziewiąta izba), 2024-07-11
+- Orzecznictwo: [C-203/22 CK / Magistrat der Stadt Wien (Dun & Bradstreet)](../zrodla/orzecznictwo/tsue/c-203-22.md) – TSUE (pierwsza izba), 2025-02-27
+- Orzecznictwo: [C-526/24 Brillen Rottler / TC](../zrodla/orzecznictwo/tsue/c-526-24.md) – TSUE (czwarta izba), 2026-03-19
 - Decyzje organów: ["ZSZZS.440.842.2018" "nakaz – art. 15 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zszzs_440_842-2018.md) – Prezes UODO, 2019-03-18
 - Decyzje organów: ["ZKE.440.89.2019" "nakaz, odmowa – art. 15 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/zke_440_89-2019.md) – Prezes UODO, 2020-02-20
 - Decyzje organów: ["DS.523.4826.2020" "nakaz – art. 15 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/ds_523_4826-2020.md) – Prezes UODO, 2022-10-19
@@ -313,13 +407,22 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 ## Art. 16
 
 - Tezy: [Art. 11 RODO – przetwarzanie niewymagające identyfikacji – tezy](art-011.md) – –, 2026-10-08
+- Orzecznictwo: [C-247/23 VP / Országos Idegenrendészeti Főigazgatóság (Deldits)](../zrodla/orzecznictwo/tsue/c-247-23.md) – TSUE (pierwsza izba), 2025-03-13
 - Wytyczne: [10/2020 "Wytyczne 10/2020 w sprawie ograniczeń na podstawie art. 23 RODO"](../zrodla/wytyczne/edpb/2021-10-wytyczne-10-2020-ograniczenia-art-23.md) – EROD, 2021-10-13
 
 ## Art. 17
 
 - Tezy: [Art. 11 RODO – przetwarzanie niewymagające identyfikacji – tezy](art-011.md) – –, 2026-10-08
 - Orzecznictwo: [C-131/12 Google Spain i Google](../zrodla/orzecznictwo/tsue/c-131-12.md) – TSUE (wielka izba), 2014-05-13
+- Orzecznictwo: [C-129/21 Proximus / Gegevensbeschermingsautoriteit](../zrodla/orzecznictwo/tsue/c-129-21.md) – TSUE (czwarta izba), 2022-10-27
+- Orzecznictwo: [C-460/20 TU, RE / Google](../zrodla/orzecznictwo/tsue/c-460-20.md) – TSUE (wielka izba), 2022-12-08
+- Orzecznictwo: [C-60/22 UZ / Bundesrepublik Deutschland](../zrodla/orzecznictwo/tsue/c-60-22.md) – TSUE (piąta izba), 2023-05-04
 - Orzecznictwo: [C-26/22, C-64/22 UF i AB / SCHUFA Holding (zwolnienie z długów)](../zrodla/orzecznictwo/tsue/c-26-22-c-64-22.md) – TSUE (pierwsza izba), 2023-12-07
+- Orzecznictwo: [C-46/23 Újpest / NAIH](../zrodla/orzecznictwo/tsue/c-46-23.md) – TSUE (piąta izba), 2024-03-14
+- Orzecznictwo: [C-200/23 Agentsia po vpisvaniyata / OL](../zrodla/orzecznictwo/tsue/c-200-23.md) – TSUE (pierwsza izba), 2024-10-04
+- Orzecznictwo: [C-655/23 IP / Quirin Privatbank](../zrodla/orzecznictwo/tsue/c-655-23.md) – TSUE (czwarta izba), 2025-09-04
+- Orzecznictwo: [C-312/24 CL / Prokuratura na Republika Bulgaria (Darashev)](../zrodla/orzecznictwo/tsue/c-312-24.md) – TSUE (piąta izba), 2026-06-04
+- Orzecznictwo: [C-484/24 NTH Haustechnik / EM](../zrodla/orzecznictwo/tsue/c-484-24.md) – TSUE (piąta izba), 2026-06-18
 - Decyzje organów: ["ZSPR.440.1055.2019" "upomnienie – art. 17 RODO"](../zrodla/decyzje-organow/pl-uodo/2022/zspr_440_1055-2019.md) – Prezes UODO, 2022-07-05
 - Wytyczne: [2/2019 "Wytyczne 2/2019 w sprawie przetwarzania danych osobowych na podstawie art. 6 ust. 1 lit. b) RODO w kontekście świadczenia usług online na rzecz osób, których dane dotyczą"](../zrodla/wytyczne/edpb/2019-10-wytyczne-2-2019-art-6-1-b-uslugi-online.md) – EROD, 2019-10-08
 - Wytyczne: [10/2020 "Wytyczne 10/2020 w sprawie ograniczeń na podstawie art. 23 RODO"](../zrodla/wytyczne/edpb/2021-10-wytyczne-10-2020-ograniczenia-art-23.md) – EROD, 2021-10-13
@@ -329,6 +432,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 ## Art. 18
 
 - Tezy: [Art. 11 RODO – przetwarzanie niewymagające identyfikacji – tezy](art-011.md) – –, 2026-10-08
+- Orzecznictwo: [C-60/22 UZ / Bundesrepublik Deutschland](../zrodla/orzecznictwo/tsue/c-60-22.md) – TSUE (piąta izba), 2023-05-04
 - Wytyczne: [10/2020 "Wytyczne 10/2020 w sprawie ograniczeń na podstawie art. 23 RODO"](../zrodla/wytyczne/edpb/2021-10-wytyczne-10-2020-ograniczenia-art-23.md) – EROD, 2021-10-13
 
 ## Art. 19
@@ -347,6 +451,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 398 PKE "Art. 398 Prawa komunikacji elektronicznej – zakaz marketingu bezpośredniego bez zgody (telefon, e-mail, systemy wywołujące)"](../zrodla/pl/prawo-komunikacji-elektronicznej/art-398.md) – Sejm RP, 2024-07-12
 - Orzecznictwo: [C-131/12 Google Spain i Google](../zrodla/orzecznictwo/tsue/c-131-12.md) – TSUE (wielka izba), 2014-05-13
 - Orzecznictwo: [C-26/22, C-64/22 UF i AB / SCHUFA Holding (zwolnienie z długów)](../zrodla/orzecznictwo/tsue/c-26-22-c-64-22.md) – TSUE (pierwsza izba), 2023-12-07
+- Orzecznictwo: [C-394/23 Mousse / CNIL, SNCF Connect](../zrodla/orzecznictwo/tsue/c-394-23.md) – TSUE (pierwsza izba), 2025-01-09
 - Wytyczne: [WP251 rev.01 "Wytyczne w sprawie zautomatyzowanego podejmowania decyzji w indywidualnych przypadkach i profilowania do celów rozporządzenia 2016/679"](../zrodla/wytyczne/wp29/2018-02-wp251-profilowanie-art-22.md) – Grupa Robocza Art. 29 (przyjęte przez EROD 25.05.2018), 2018-02-06
 - Wytyczne: [2/2019 "Wytyczne 2/2019 w sprawie przetwarzania danych osobowych na podstawie art. 6 ust. 1 lit. b) RODO w kontekście świadczenia usług online na rzecz osób, których dane dotyczą"](../zrodla/wytyczne/edpb/2019-10-wytyczne-2-2019-art-6-1-b-uslugi-online.md) – EROD, 2019-10-08
 - Wytyczne: [10/2020 "Wytyczne 10/2020 w sprawie ograniczeń na podstawie art. 23 RODO"](../zrodla/wytyczne/edpb/2021-10-wytyczne-10-2020-ograniczenia-art-23.md) – EROD, 2021-10-13
@@ -357,6 +462,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 ## Art. 22
 
 - Orzecznictwo: [C-634/21 OQ / SCHUFA Holding (scoring)](../zrodla/orzecznictwo/tsue/c-634-21.md) – TSUE (pierwsza izba), 2023-12-07
+- Orzecznictwo: [C-203/22 CK / Magistrat der Stadt Wien (Dun & Bradstreet)](../zrodla/orzecznictwo/tsue/c-203-22.md) – TSUE (pierwsza izba), 2025-02-27
 - Wytyczne: [WP251 rev.01 "Wytyczne w sprawie zautomatyzowanego podejmowania decyzji w indywidualnych przypadkach i profilowania do celów rozporządzenia 2016/679"](../zrodla/wytyczne/wp29/2018-02-wp251-profilowanie-art-22.md) – Grupa Robocza Art. 29 (przyjęte przez EROD 25.05.2018), 2018-02-06
 - Wytyczne: [10/2020 "Wytyczne 10/2020 w sprawie ograniczeń na podstawie art. 23 RODO"](../zrodla/wytyczne/edpb/2021-10-wytyczne-10-2020-ograniczenia-art-23.md) – EROD, 2021-10-13
 - Wytyczne: [Wspólna opinia EROD–EIOD 2/2026 "EDPB-EDPS Joint Opinion 2/2026 on the Proposal for a Regulation as regards the simplification of the digital legislative framework (Digital Omnibus)"](../zrodla/wytyczne/edpb/2026-02-wspolna-opinia-2-2026-digital-omnibus.md) – EROD i EIOD, 2026-02-11
@@ -369,15 +475,24 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 4 u.o.d.o. "Art. 4 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-004.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 5 u.o.d.o. "Art. 5 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-005.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 5a u.o.d.o. "Art. 5a ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-005a.md) – Sejm RP, 2018-05-10
+- Orzecznictwo: [C-175/20 „SS” SIA / Valsts ieņēmumu dienests](../zrodla/orzecznictwo/tsue/c-175-20.md) – TSUE (piąta izba), 2022-02-24
+- Orzecznictwo: [C-817/19 Ligue des droits humains (PNR)](../zrodla/orzecznictwo/tsue/c-817-19.md) – TSUE (wielka izba), 2022-06-21
+- Orzecznictwo: [C-268/21 Norra Stockholm Bygg / Per Nycander](../zrodla/orzecznictwo/tsue/c-268-21.md) – TSUE (trzecia izba), 2023-03-02
+- Orzecznictwo: [C-307/22 FT / DW (kopia dokumentacji medycznej)](../zrodla/orzecznictwo/tsue/c-307-22.md) – TSUE (pierwsza izba), 2023-10-26
 - Wytyczne: [10/2020 "Wytyczne 10/2020 w sprawie ograniczeń na podstawie art. 23 RODO"](../zrodla/wytyczne/edpb/2021-10-wytyczne-10-2020-ograniczenia-art-23.md) – EROD, 2021-10-13
 
 ## Art. 24
 
+- Orzecznictwo: [C-129/21 Proximus / Gegevensbeschermingsautoriteit](../zrodla/orzecznictwo/tsue/c-129-21.md) – TSUE (czwarta izba), 2022-10-27
+- Orzecznictwo: [C-340/21 VB / Natsionalna agentsia za prihodite](../zrodla/orzecznictwo/tsue/c-340-21.md) – TSUE (trzecia izba), 2023-12-14
+- Orzecznictwo: [C-687/21 BL / MediaMarktSaturn Hagen-Iserlohn](../zrodla/orzecznictwo/tsue/c-687-21.md) – TSUE (trzecia izba), 2024-01-25
+- Orzecznictwo: [C-492/23 X / Russmedia Digital, Inform Media Press](../zrodla/orzecznictwo/tsue/c-492-23.md) – TSUE (wielka izba), 2025-12-02
 - Decyzje organów: ["ZSPR.421.7.2019" "nakaz, nałożenie kary (201 559,50 zł) – art. 5, 6, 24 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspr_421_7-2019.md) – Prezes UODO, 2019-10-16
 - Decyzje organów: ["ZSPU.421.3.2019" "nakaz, nałożenie kary (40.000 zł) – art. 5, 24, 28, 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspu_421_3-2019.md) – Prezes UODO, 2019-10-18
 
 ## Art. 25
 
+- Orzecznictwo: [C-492/23 X / Russmedia Digital, Inform Media Press](../zrodla/orzecznictwo/tsue/c-492-23.md) – TSUE (wielka izba), 2025-12-02
 - Decyzje organów: ["EROD 2/2023" "TikTok – dane dzieci, ustawienia domyślne i projektowanie"](../zrodla/decyzje-organow/edpb-art65/2023-08-02-2-2023.md) – EROD, 2023-08-02
 - Decyzje organów: ["DKN.5131.5.2024" "nakaz, nałożenie kary (40 000 zł + 38 000 zł) – art. 5, 9, 25, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_5-2024.md) – Prezes UODO, 2025-12-29
 - Wytyczne: [WP248 rev.01 "Wytyczne dotyczące oceny skutków dla ochrony danych oraz pomagające ustalić, czy przetwarzanie „może powodować wysokie ryzyko” do celów rozporządzenia 2016/679"](../zrodla/wytyczne/wp29/2017-10-wp248-ocena-skutkow-dpia.md) – Grupa Robocza Art. 29 (przyjęte przez EROD 25.05.2018), 2017-10-04
@@ -390,8 +505,11 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 
 - Orzecznictwo: [C-210/16 Wirtschaftsakademie Schleswig-Holstein](../zrodla/orzecznictwo/tsue/c-210-16.md) – TSUE (wielka izba), 2018-06-05
 - Orzecznictwo: [C-40/17 Fashion ID](../zrodla/orzecznictwo/tsue/c-40-17.md) – TSUE (druga izba), 2019-07-29
+- Orzecznictwo: [C-60/22 UZ / Bundesrepublik Deutschland](../zrodla/orzecznictwo/tsue/c-60-22.md) – TSUE (piąta izba), 2023-05-04
 - Orzecznictwo: [C-683/21 Nacionalinis visuomenės sveikatos centras](../zrodla/orzecznictwo/tsue/c-683-21.md) – TSUE (wielka izba), 2023-12-05
+- Orzecznictwo: [C-231/22 État belge / Autorité de protection des données (Moniteur belge)](../zrodla/orzecznictwo/tsue/c-231-22.md) – TSUE (trzecia izba), 2024-01-11
 - Orzecznictwo: [C-604/22 IAB Europe](../zrodla/orzecznictwo/tsue/c-604-22.md) – TSUE (czwarta izba), 2024-03-07
+- Orzecznictwo: [C-492/23 X / Russmedia Digital, Inform Media Press](../zrodla/orzecznictwo/tsue/c-492-23.md) – TSUE (wielka izba), 2025-12-02
 - Wytyczne: [8/2020 "Wytyczne 8/2020 dotyczące targetowania użytkowników mediów społecznościowych"](../zrodla/wytyczne/edpb/2021-04-wytyczne-8-2020-targetowanie-social-media.md) – EROD, 2021-04-13
 - Wytyczne: [07/2020 "Wytyczne 07/2020 dotyczące pojęć administratora i podmiotu przetwarzającego zawartych w RODO"](../zrodla/wytyczne/edpb/2020-07-wytyczne-07-2020-administrator-podmiot-przetwarzajacy.md) – EROD, 2021-07-07
 - Wytyczne: [Pozostałe soft law – lista do sygnalizacji (bez not)](../zrodla/wytyczne/pozostale.md) – EROD / WP29 / UODO / EIOD, 2026-10-15
@@ -420,8 +538,13 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Decyzje organów: ["DKN.5131.12.2022" "decyzja – art. 28, 32, 35 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_12-2022.md) – Prezes UODO, 2026-06-11
 - Wytyczne: [07/2020 "Wytyczne 07/2020 dotyczące pojęć administratora i podmiotu przetwarzającego zawartych w RODO"](../zrodla/wytyczne/edpb/2020-07-wytyczne-07-2020-administrator-podmiot-przetwarzajacy.md) – EROD, 2021-07-07
 
+## Art. 29
+
+- Orzecznictwo: [C-741/21 GP / juris](../zrodla/orzecznictwo/tsue/c-741-21.md) – TSUE (trzecia izba), 2024-04-11
+
 ## Art. 30
 
+- Orzecznictwo: [C-60/22 UZ / Bundesrepublik Deutschland](../zrodla/orzecznictwo/tsue/c-60-22.md) – TSUE (piąta izba), 2023-05-04
 - Decyzje organów: ["ZSPU.421.2.2018" "nakaz, umorzenie – art. 13, 30 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspu_421_2-2018.md) – Prezes UODO, 2019-04-06
 - Decyzje organów: ["ZSPU.421.3.2019" "nakaz, nałożenie kary (40.000 zł) – art. 5, 24, 28, 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspu_421_3-2019.md) – Prezes UODO, 2019-10-18
 - Decyzje organów: ["DKN.5112.14.2022" "nałożenie kary (261 918,00 zł + 314 302,00 zł) – art. 30, 35, 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5112_14-2022.md) – Prezes UODO, 2024-12-18
@@ -436,6 +559,11 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 
 ## Art. 32
 
+- Orzecznictwo: [C-340/21 VB / Natsionalna agentsia za prihodite](../zrodla/orzecznictwo/tsue/c-340-21.md) – TSUE (trzecia izba), 2023-12-14
+- Orzecznictwo: [C-667/21 ZQ / Medizinischer Dienst der Krankenversicherung Nordrhein](../zrodla/orzecznictwo/tsue/c-667-21.md) – TSUE (trzecia izba), 2023-12-21
+- Orzecznictwo: [C-687/21 BL / MediaMarktSaturn Hagen-Iserlohn](../zrodla/orzecznictwo/tsue/c-687-21.md) – TSUE (trzecia izba), 2024-01-25
+- Orzecznictwo: [C-169/23 NAIH / UC (Másdi)](../zrodla/orzecznictwo/tsue/c-169-23.md) – TSUE (trzecia izba), 2024-11-28
+- Orzecznictwo: [C-492/23 X / Russmedia Digital, Inform Media Press](../zrodla/orzecznictwo/tsue/c-492-23.md) – TSUE (wielka izba), 2025-12-02
 - Decyzje organów: ["ZSPR.440.43.2019" "nałożenie kary (55 750,50 zł) – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspr_440_43-2019.md) – Prezes UODO, 2019-04-25
 - Decyzje organów: ["ZSPR.421.2.2019" "nałożenie kary (2 830 410 zł) – art. 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspr_421_2-2019.md) – Prezes UODO, 2019-09-10
 - Decyzje organów: ["ZSPU.421.3.2019" "nakaz, nałożenie kary (40.000 zł) – art. 5, 24, 28, 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspu_421_3-2019.md) – Prezes UODO, 2019-10-18
@@ -633,6 +761,9 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 
 ## Art. 38
 
+- Orzecznictwo: [C-534/20 Leistritz / LH](../zrodla/orzecznictwo/tsue/c-534-20.md) – TSUE (pierwsza izba), 2022-06-22
+- Orzecznictwo: [C-453/21 X-FAB Dresden / FC](../zrodla/orzecznictwo/tsue/c-453-21.md) – TSUE (szósta izba), 2023-02-09
+- Orzecznictwo: [C-560/21 ZS / Zweckverband KISA](../zrodla/orzecznictwo/tsue/c-560-21.md) – TSUE (szósta izba), 2023-02-09
 - Decyzje organów: ["ZWAD.405.31.331.2019" "umorzenie, upomnienie – art. 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/zwad_405_31_331-2019.md) – Prezes UODO, 2020-09-22
 - Decyzje organów: ["DKN.5112.14.2022" "nałożenie kary (261 918,00 zł + 314 302,00 zł) – art. 30, 35, 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5112_14-2022.md) – Prezes UODO, 2024-12-18
 - Decyzje organów: ["DKN.5110.14.2022" "upomnienie – art. 38, 39 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5110_14-2022.md) – Prezes UODO, 2025-04-02
@@ -736,6 +867,8 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 
 - Prawo polskie: [art. 34 u.o.d.o. "Art. 34 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-034.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-252/21 Meta Platforms i in. / Bundeskartellamt](../zrodla/orzecznictwo/tsue/c-252-21.md) – TSUE (wielka izba), 2023-07-04
+- Orzecznictwo: [C-33/22 Österreichische Datenschutzbehörde / WK (komisja śledcza)](../zrodla/orzecznictwo/tsue/c-33-22.md) – TSUE (wielka izba), 2024-01-16
+- Orzecznictwo: [C-313/23, C-316/23, C-332/23 Inspektorat kam Visshia sadeben savet](../zrodla/orzecznictwo/tsue/c-313-23-c-316-23-c-332-23.md) – TSUE (pierwsza izba), 2025-04-30
 
 ## Art. 52
 
@@ -755,14 +888,23 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 35 u.o.d.o. "Art. 35 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-035.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 46 u.o.d.o. "Art. 46 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-046.md) – Sejm RP, 2018-05-10
 
+## Art. 55
+
+- Orzecznictwo: [C-645/19 Facebook Ireland i in. / Gegevensbeschermingsautoriteit](../zrodla/orzecznictwo/tsue/c-645-19.md) – TSUE (wielka izba), 2021-06-15
+- Orzecznictwo: [C-245/20 X, Z / Autoriteit Persoonsgegevens](../zrodla/orzecznictwo/tsue/c-245-20.md) – TSUE (pierwsza izba), 2022-03-24
+- Orzecznictwo: [C-33/22 Österreichische Datenschutzbehörde / WK (komisja śledcza)](../zrodla/orzecznictwo/tsue/c-33-22.md) – TSUE (wielka izba), 2024-01-16
+
 ## Art. 56
 
+- Orzecznictwo: [C-645/19 Facebook Ireland i in. / Gegevensbeschermingsautoriteit](../zrodla/orzecznictwo/tsue/c-645-19.md) – TSUE (wielka izba), 2021-06-15
 - Wytyczne: [Pozostałe soft law – lista do sygnalizacji (bez not)](../zrodla/wytyczne/pozostale.md) – EROD / WP29 / UODO / EIOD, 2026-10-15
 
 ## Art. 57
 
 - Prawo polskie: [art. 60 u.o.d.o. "Art. 60 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-060.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 78 u.o.d.o. "Art. 78 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-078.md) – Sejm RP, 2018-05-10
+- Orzecznictwo: [C-768/21 TR / Land Hessen](../zrodla/orzecznictwo/tsue/c-768-21.md) – TSUE (pierwsza izba), 2024-09-26
+- Orzecznictwo: [C-416/23 Österreichische Datenschutzbehörde / F R](../zrodla/orzecznictwo/tsue/c-416-23.md) – TSUE (pierwsza izba), 2025-01-09
 - Decyzje organów: ["EROD 1/2026" "VRT – nadużycie prawa do skargi (spór zgłoszony przez organ belgijski)"](../zrodla/decyzje-organow/edpb-art65/2026-05-28-1-2026.md) – EROD, 2026-05-28
 
 ## Art. 58
@@ -782,7 +924,12 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 84 u.o.d.o. "Art. 84 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-084.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-362/14 Schrems (I)](../zrodla/orzecznictwo/tsue/c-362-14.md) – TSUE (wielka izba), 2015-10-06
 - Orzecznictwo: [C-311/18 Facebook Ireland i Schrems (Schrems II)](../zrodla/orzecznictwo/tsue/c-311-18.md) – TSUE (wielka izba), 2020-07-16
+- Orzecznictwo: [C-645/19 Facebook Ireland i in. / Gegevensbeschermingsautoriteit](../zrodla/orzecznictwo/tsue/c-645-19.md) – TSUE (wielka izba), 2021-06-15
+- Orzecznictwo: [C-306/21 Komisia za zashtita na lichnite danni / Demokratichna Bulgaria](../zrodla/orzecznictwo/tsue/c-306-21.md) – TSUE (ósma izba), 2022-10-20
 - Orzecznictwo: [C-807/21 Deutsche Wohnen](../zrodla/orzecznictwo/tsue/c-807-21.md) – TSUE (wielka izba), 2023-12-05
+- Orzecznictwo: [C-46/23 Újpest / NAIH](../zrodla/orzecznictwo/tsue/c-46-23.md) – TSUE (piąta izba), 2024-03-14
+- Orzecznictwo: [C-768/21 TR / Land Hessen](../zrodla/orzecznictwo/tsue/c-768-21.md) – TSUE (pierwsza izba), 2024-09-26
+- Orzecznictwo: [C-200/23 Agentsia po vpisvaniyata / OL](../zrodla/orzecznictwo/tsue/c-200-23.md) – TSUE (pierwsza izba), 2024-10-04
 - Decyzje organów: ["ZSPR.421.19.2019" "nałożenie kary (20.000 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/zspr_421_19-2019.md) – Prezes UODO, 2020-03-09
 - Decyzje organów: ["DKE.561.1.2020" "nałożenie kary (15.000 zł) – art. 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dke_561_1-2020.md) – Prezes UODO, 2020-05-29
 - Decyzje organów: ["DKE.561.2.2020" "nałożenie kary (5.000 zł) – art. 34, 58 RODO"](../zrodla/decyzje-organow/pl-uodo/2020/dke_561_2-2020.md) – Prezes UODO, 2020-06-03
@@ -898,26 +1045,39 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 ## Art. 60
 
 - Prawo polskie: [art. 76 u.o.d.o. "Art. 76 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-076.md) – Sejm RP, 2018-05-10
+- Orzecznictwo: [C-645/19 Facebook Ireland i in. / Gegevensbeschermingsautoriteit](../zrodla/orzecznictwo/tsue/c-645-19.md) – TSUE (wielka izba), 2021-06-15
 - Wytyczne: [Pozostałe soft law – lista do sygnalizacji (bez not)](../zrodla/wytyczne/pozostale.md) – EROD / WP29 / UODO / EIOD, 2026-10-15
 
 ## Art. 61
 
 - Prawo polskie: [art. 75 u.o.d.o. "Art. 75 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-075.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 76 u.o.d.o. "Art. 76 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-076.md) – Sejm RP, 2018-05-10
+- Orzecznictwo: [C-645/19 Facebook Ireland i in. / Gegevensbeschermingsautoriteit](../zrodla/orzecznictwo/tsue/c-645-19.md) – TSUE (wielka izba), 2021-06-15
 
 ## Art. 62
 
 - Prawo polskie: [art. 75 u.o.d.o. "Art. 75 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-075.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 77 u.o.d.o. "Art. 77 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-077.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 79 u.o.d.o. "Art. 79 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-079.md) – Sejm RP, 2018-05-10
+- Orzecznictwo: [C-645/19 Facebook Ireland i in. / Gegevensbeschermingsautoriteit](../zrodla/orzecznictwo/tsue/c-645-19.md) – TSUE (wielka izba), 2021-06-15
+
+## Art. 63
+
+- Orzecznictwo: [C-645/19 Facebook Ireland i in. / Gegevensbeschermingsautoriteit](../zrodla/orzecznictwo/tsue/c-645-19.md) – TSUE (wielka izba), 2021-06-15
+
+## Art. 64
+
+- Orzecznictwo: [C-645/19 Facebook Ireland i in. / Gegevensbeschermingsautoriteit](../zrodla/orzecznictwo/tsue/c-645-19.md) – TSUE (wielka izba), 2021-06-15
 
 ## Art. 65
 
+- Orzecznictwo: [C-645/19 Facebook Ireland i in. / Gegevensbeschermingsautoriteit](../zrodla/orzecznictwo/tsue/c-645-19.md) – TSUE (wielka izba), 2021-06-15
 - Wytyczne: [Pozostałe soft law – lista do sygnalizacji (bez not)](../zrodla/wytyczne/pozostale.md) – EROD / WP29 / UODO / EIOD, 2026-10-15
 
 ## Art. 66
 
 - Prawo polskie: [art. 75 u.o.d.o. "Art. 75 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-075.md) – Sejm RP, 2018-05-10
+- Orzecznictwo: [C-645/19 Facebook Ireland i in. / Gegevensbeschermingsautoriteit](../zrodla/orzecznictwo/tsue/c-645-19.md) – TSUE (wielka izba), 2021-06-15
 - Decyzje organów: ["EROD Urgent 01/2021" "Facebook – wniosek Hamburga o pilne środki (WhatsApp)"](../zrodla/decyzje-organow/edpb-art65/2021-07-12-pilna-01-2021.md) – EROD, 2021-07-12
 - Decyzje organów: ["EROD Urgent 01/2023" "Meta – zakaz reklamy behawioralnej (wniosek Norwegii)"](../zrodla/decyzje-organow/edpb-art65/2023-10-27-pilna-01-2023.md) – EROD, 2023-10-27
 
@@ -925,10 +1085,18 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 
 - Prawo polskie: [art. 60 u.o.d.o. "Art. 60 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-060.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-362/14 Schrems (I)](../zrodla/orzecznictwo/tsue/c-362-14.md) – TSUE (wielka izba), 2015-10-06
+- Orzecznictwo: [C-132/21 BE / NAIH (Budapesti Elektromos Művek)](../zrodla/orzecznictwo/tsue/c-132-21.md) – TSUE (pierwsza izba), 2023-01-12
+- Orzecznictwo: [C-33/22 Österreichische Datenschutzbehörde / WK (komisja śledcza)](../zrodla/orzecznictwo/tsue/c-33-22.md) – TSUE (wielka izba), 2024-01-16
+- Orzecznictwo: [C-768/21 TR / Land Hessen](../zrodla/orzecznictwo/tsue/c-768-21.md) – TSUE (pierwsza izba), 2024-09-26
+- Orzecznictwo: [C-169/23 NAIH / UC (Másdi)](../zrodla/orzecznictwo/tsue/c-169-23.md) – TSUE (trzecia izba), 2024-11-28
+- Orzecznictwo: [C-416/23 Österreichische Datenschutzbehörde / F R](../zrodla/orzecznictwo/tsue/c-416-23.md) – TSUE (pierwsza izba), 2025-01-09
+- Orzecznictwo: [C-414/24 Datenschutzbehörde / Dr. G S](../zrodla/orzecznictwo/tsue/c-414-24.md) – TSUE (pierwsza izba), 2026-06-18
+- Orzecznictwo: [C-474/24 AR i in. / NADA Austria](../zrodla/orzecznictwo/tsue/c-474-24.md) – TSUE (wielka izba), 2026-07-14
 - Decyzje organów: ["EROD 1/2026" "VRT – nadużycie prawa do skargi (spór zgłoszony przez organ belgijski)"](../zrodla/decyzje-organow/edpb-art65/2026-05-28-1-2026.md) – EROD, 2026-05-28
 
 ## Art. 78
 
+- Orzecznictwo: [C-132/21 BE / NAIH (Budapesti Elektromos Művek)](../zrodla/orzecznictwo/tsue/c-132-21.md) – TSUE (pierwsza izba), 2023-01-12
 - Orzecznictwo: [C-26/22, C-64/22 UF i AB / SCHUFA Holding (zwolnienie z długów)](../zrodla/orzecznictwo/tsue/c-26-22-c-64-22.md) – TSUE (pierwsza izba), 2023-12-07
 
 ## Art. 79
@@ -941,6 +1109,11 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 96 u.o.d.o. "Art. 96 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-096.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 99 u.o.d.o. "Art. 99 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-099.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 100 u.o.d.o. "Art. 100 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-100.md) – Sejm RP, 2018-05-10
+- Orzecznictwo: [C-132/21 BE / NAIH (Budapesti Elektromos Művek)](../zrodla/orzecznictwo/tsue/c-132-21.md) – TSUE (pierwsza izba), 2023-01-12
+- Orzecznictwo: [C-21/23 ND / DR (Lindenapotheke)](../zrodla/orzecznictwo/tsue/c-21-23.md) – TSUE (wielka izba), 2024-10-04
+- Orzecznictwo: [C-313/23, C-316/23, C-332/23 Inspektorat kam Visshia sadeben savet](../zrodla/orzecznictwo/tsue/c-313-23-c-316-23-c-332-23.md) – TSUE (pierwsza izba), 2025-04-30
+- Orzecznictwo: [C-655/23 IP / Quirin Privatbank](../zrodla/orzecznictwo/tsue/c-655-23.md) – TSUE (czwarta izba), 2025-09-04
+- Orzecznictwo: [C-414/24 Datenschutzbehörde / Dr. G S](../zrodla/orzecznictwo/tsue/c-414-24.md) – TSUE (pierwsza izba), 2026-06-18
 
 ## Art. 80
 
@@ -948,6 +1121,9 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 61 u.o.d.o. "Art. 61 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-061.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 98 u.o.d.o. "Art. 98 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-098.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-40/17 Fashion ID](../zrodla/orzecznictwo/tsue/c-40-17.md) – TSUE (druga izba), 2019-07-29
+- Orzecznictwo: [C-319/20 Meta Platforms Ireland / Verbraucherzentrale Bundesverband](../zrodla/orzecznictwo/tsue/c-319-20.md) – TSUE (trzecia izba), 2022-04-28
+- Orzecznictwo: [C-757/22 Meta Platforms Ireland / Verbraucherzentrale Bundesverband (II)](../zrodla/orzecznictwo/tsue/c-757-22.md) – TSUE (czwarta izba), 2024-07-11
+- Orzecznictwo: [C-21/23 ND / DR (Lindenapotheke)](../zrodla/orzecznictwo/tsue/c-21-23.md) – TSUE (wielka izba), 2024-10-04
 - Decyzje organów: ["EROD 1/2026" "VRT – nadużycie prawa do skargi (spór zgłoszony przez organ belgijski)"](../zrodla/decyzje-organow/edpb-art65/2026-05-28-1-2026.md) – EROD, 2026-05-28
 
 ## Art. 82
@@ -962,6 +1138,17 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 99 u.o.d.o. "Art. 99 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-099.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 100 u.o.d.o. "Art. 100 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-100.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-300/21 Österreichische Post (odszkodowanie)](../zrodla/orzecznictwo/tsue/c-300-21.md) – TSUE (trzecia izba), 2023-05-04
+- Orzecznictwo: [C-340/21 VB / Natsionalna agentsia za prihodite](../zrodla/orzecznictwo/tsue/c-340-21.md) – TSUE (trzecia izba), 2023-12-14
+- Orzecznictwo: [C-456/22 VX, AT / Gemeinde Ummendorf](../zrodla/orzecznictwo/tsue/c-456-22.md) – TSUE (trzecia izba), 2023-12-14
+- Orzecznictwo: [C-667/21 ZQ / Medizinischer Dienst der Krankenversicherung Nordrhein](../zrodla/orzecznictwo/tsue/c-667-21.md) – TSUE (trzecia izba), 2023-12-21
+- Orzecznictwo: [C-687/21 BL / MediaMarktSaturn Hagen-Iserlohn](../zrodla/orzecznictwo/tsue/c-687-21.md) – TSUE (trzecia izba), 2024-01-25
+- Orzecznictwo: [C-741/21 GP / juris](../zrodla/orzecznictwo/tsue/c-741-21.md) – TSUE (trzecia izba), 2024-04-11
+- Orzecznictwo: [C-182/22, C-189/22 JU i SO / Scalable Capital](../zrodla/orzecznictwo/tsue/c-182-22-c-189-22.md) – TSUE (trzecia izba), 2024-06-20
+- Orzecznictwo: [C-590/22 AT, BT / PS GbR i in.](../zrodla/orzecznictwo/tsue/c-590-22.md) – TSUE (trzecia izba), 2024-06-20
+- Orzecznictwo: [C-200/23 Agentsia po vpisvaniyata / OL](../zrodla/orzecznictwo/tsue/c-200-23.md) – TSUE (pierwsza izba), 2024-10-04
+- Orzecznictwo: [C-507/23 A / Patērētāju tiesību aizsardzības centrs](../zrodla/orzecznictwo/tsue/c-507-23.md) – TSUE (ósma izba), 2024-10-04
+- Orzecznictwo: [C-655/23 IP / Quirin Privatbank](../zrodla/orzecznictwo/tsue/c-655-23.md) – TSUE (czwarta izba), 2025-09-04
+- Orzecznictwo: [C-526/24 Brillen Rottler / TC](../zrodla/orzecznictwo/tsue/c-526-24.md) – TSUE (czwarta izba), 2026-03-19
 
 ## Art. 83
 
@@ -977,6 +1164,9 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 106 u.o.d.o. "Art. 106 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-106.md) – Sejm RP, 2018-05-10
 - Orzecznictwo: [C-683/21 Nacionalinis visuomenės sveikatos centras](../zrodla/orzecznictwo/tsue/c-683-21.md) – TSUE (wielka izba), 2023-12-05
 - Orzecznictwo: [C-807/21 Deutsche Wohnen](../zrodla/orzecznictwo/tsue/c-807-21.md) – TSUE (wielka izba), 2023-12-05
+- Orzecznictwo: [C-741/21 GP / juris](../zrodla/orzecznictwo/tsue/c-741-21.md) – TSUE (trzecia izba), 2024-04-11
+- Orzecznictwo: [C-590/22 AT, BT / PS GbR i in.](../zrodla/orzecznictwo/tsue/c-590-22.md) – TSUE (trzecia izba), 2024-06-20
+- Orzecznictwo: [C-383/23 ILVA A/S (postępowanie karne)](../zrodla/orzecznictwo/tsue/c-383-23.md) – TSUE (piąta izba), 2025-02-13
 - Decyzje organów: ["EROD 01/2020" "Twitter – zgłoszenie naruszenia (spór o projekt decyzji DPC)"](../zrodla/decyzje-organow/edpb-art65/2020-11-09-01-2020.md) – EROD, 2020-11-09
 - Decyzje organów: ["EROD 1/2021" "WhatsApp – przejrzystość"](../zrodla/decyzje-organow/edpb-art65/2021-07-28-1-2021.md) – EROD, 2021-07-28
 - Decyzje organów: ["EROD 01/2022" "Accor – wysokość kary (spór o projekt decyzji CNIL)"](../zrodla/decyzje-organow/edpb-art65/2022-06-15-01-2022.md) – EROD, 2022-06-15
@@ -994,15 +1184,20 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Tezy: [Klauzule otwarte RODO – mapowanie na prawo polskie](klauzule-otwarte.md) – –, 2026-10-08
 - Prawo polskie: [art. 107 u.o.d.o. "Art. 107 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-107.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 108 u.o.d.o. "Art. 108 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-108.md) – Sejm RP, 2018-05-10
+- Orzecznictwo: [C-21/23 ND / DR (Lindenapotheke)](../zrodla/orzecznictwo/tsue/c-21-23.md) – TSUE (wielka izba), 2024-10-04
 
 ## Art. 85
 
 - Tezy: [Klauzule otwarte RODO – mapowanie na prawo polskie](klauzule-otwarte.md) – –, 2026-10-08
 - Prawo polskie: [art. 2 u.o.d.o. "Art. 2 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-002.md) – Sejm RP, 2018-05-10
+- Orzecznictwo: [C-199/24 ND / Legal Newsdesk Sweden](../zrodla/orzecznictwo/tsue/c-199-24.md) – TSUE (piąta izba), 2026-07-09
 
 ## Art. 86
 
 - Tezy: [Klauzule otwarte RODO – mapowanie na prawo polskie](klauzule-otwarte.md) – –, 2026-10-08
+- Orzecznictwo: [C-439/19 B (punkty karne) / Latvijas Republikas Saeima](../zrodla/orzecznictwo/tsue/c-439-19.md) – TSUE (wielka izba), 2021-06-22
+- Orzecznictwo: [C-740/22 Endemol Shine Finland](../zrodla/orzecznictwo/tsue/c-740-22.md) – TSUE (szósta izba), 2024-03-07
+- Orzecznictwo: [C-710/23 L.H. / Ministerstvo zdravotnictví](../zrodla/orzecznictwo/tsue/c-710-23.md) – TSUE (pierwsza izba), 2025-04-03
 
 ## Art. 87
 
@@ -1022,6 +1217,8 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 22¹ʰ KP "Art. 22¹ʰ Kodeksu pracy – kontrola trzeźwości – osoby zatrudnione na innej podstawie"](../zrodla/pl/kodeks-pracy/art-22-1h.md) – Sejm RP, 1974-06-26
 - Prawo polskie: [art. 22² KP "Art. 22² Kodeksu pracy – monitoring wizyjny"](../zrodla/pl/kodeks-pracy/art-22-2.md) – Sejm RP, 1974-06-26
 - Prawo polskie: [art. 22³ KP "Art. 22³ Kodeksu pracy – monitoring poczty elektronicznej i inne formy monitoringu"](../zrodla/pl/kodeks-pracy/art-22-3.md) – Sejm RP, 1974-06-26
+- Orzecznictwo: [C-34/21 Hauptpersonalrat der Lehrerinnen und Lehrer](../zrodla/orzecznictwo/tsue/c-34-21.md) – TSUE (pierwsza izba), 2023-03-30
+- Orzecznictwo: [C-65/23 MK / K GmbH](../zrodla/orzecznictwo/tsue/c-65-23.md) – TSUE (ósma izba), 2024-12-19
 
 ## Art. 89
 
@@ -1040,4 +1237,10 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 
 - Tezy: [Klauzule otwarte RODO – mapowanie na prawo polskie](klauzule-otwarte.md) – –, 2026-10-08
 - Prawo polskie: [art. 399 PKE "Art. 399 Prawa komunikacji elektronicznej – cookies – przechowywanie informacji i dostęp do urządzenia końcowego"](../zrodla/pl/prawo-komunikacji-elektronicznej/art-399.md) – Sejm RP, 2024-07-12
+- Orzecznictwo: [C-129/21 Proximus / Gegevensbeschermingsautoriteit](../zrodla/orzecznictwo/tsue/c-129-21.md) – TSUE (czwarta izba), 2022-10-27
+- Orzecznictwo: [C-654/23 Inteligo Media / ANSPDCP](../zrodla/orzecznictwo/tsue/c-654-23.md) – TSUE (pierwsza izba), 2025-11-13
 - Wytyczne: [2/2023 "Wytyczne 2/2023 w sprawie technicznego zakresu stosowania art. 5 ust. 3 dyrektywy o prywatności i łączności elektronicznej"](../zrodla/wytyczne/edpb/2024-10-wytyczne-2-2023-art-5-3-eprivacy-zakres-techniczny.md) – EROD, 2024-10-07
+
+## Art. 99
+
+- Orzecznictwo: [C-579/21 J.M. / Pankki S](../zrodla/orzecznictwo/tsue/c-579-21.md) – TSUE (pierwsza izba), 2023-06-22

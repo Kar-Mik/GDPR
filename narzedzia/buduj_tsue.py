@@ -182,6 +182,8 @@ weryfikacja: {WERYF}
 
 Etap 1 obejmuje wyłącznie wyroki wiodące. Każdy plik zawiera tezę (własnymi słowami), kluczowe punkty uzasadnienia oraz sentencję w brzmieniu z EUR-Lex (suma SHA-256 w nagłówku). Gdy teza wynika z uzasadnienia, a nie z sentencji, plik wskazuje numer punktu.
 
+Pełna lista wyroków TSUE na gruncie RODO (także noty sygnalizacyjne bez tekstu sentencji): [`rejestr-rodo.md`](rejestr-rodo.md).
+
 | Sygnatura | Nazwa | Data | Skład | ECLI | Podstawa | Artykuły RODO |
 |---|---|---|---|---|---|---|
 """ + "\n".join(rows) + "\n")
