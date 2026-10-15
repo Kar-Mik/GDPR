@@ -12,7 +12,7 @@ weryfikacja: niezweryfikowane (z wyjątkiem pozycji z notą – zob. pole weryfi
 
 # Soft law – rejestr (etap 2)
 
-Numery i daty przyjęcia w wersji ostatecznej potwierdzić przy imporcie. Źródła i zasady importu: [`ZRODLA.md`](ZRODLA.md).
+Numery i daty przyjęcia w wersji ostatecznej potwierdzić przy imporcie. Źródła i zasady importu: [`ZRODLA.md`](ZRODLA.md). Pozostałe dokumenty (bez not, do sygnalizacji): [`pozostale.md`](pozostale.md).
 
 Uwaga (lista EROD „Endorsed WP29 Guidelines”, 2026-10-15): WP259 (zgoda) zastąpione wytycznymi 05/2020, WP250 (naruszenia) – wytycznymi 9/2022. W konsultacjach: 02/2026 (anonimizacja), 03/2026 (web scraping w generatywnej AI), 04/2026 (relacja kar do innych uprawnień naprawczych – nie zastępuje 04/2022), 1/2026 (badania naukowe).
 
@@ -30,6 +30,11 @@ Uwaga (lista EROD „Endorsed WP29 Guidelines”, 2026-10-15): WP259 (zgoda) zas
 | 9/2022 | zgłaszanie naruszeń | 33, 34 | [nota](edpb/2023-03-wytyczne-9-2022-zglaszanie-naruszen.md) |
 | 04/2022 | obliczanie kar pieniężnych | 83 | [nota](edpb/2023-05-wytyczne-04-2022-obliczanie-kar.md) |
 | 1/2024 | prawnie uzasadniony interes | 6(1)(f) | [nota](edpb/2024-10-wytyczne-1-2024-uzasadniony-interes-projekt.md) (projekt – konsultacje 2024) |
+| 8/2020 | targetowanie użytkowników mediów społecznościowych | 6, 9, 26 | [nota](edpb/2021-04-wytyczne-8-2020-targetowanie-social-media.md) |
+| 10/2020 | ograniczenia praw na podstawie art. 23 | 23 | [nota](edpb/2021-10-wytyczne-10-2020-ograniczenia-art-23.md) |
+| 01/2021 | przykłady zgłaszania naruszeń | 33, 34 | [nota](edpb/2021-12-wytyczne-01-2021-przyklady-naruszen.md) |
+| 03/2022 | zwodnicze wzorce projektowe (dark patterns) | 5(1)(a), 7, 25 | [nota](edpb/2023-02-wytyczne-03-2022-zwodnicze-wzorce-projektowe.md) |
+| 2/2023 | techniczny zakres art. 5 ust. 3 ePrivacy (cookies, piksele, śledzenie) | 95 | [nota](edpb/2024-10-wytyczne-2-2023-art-5-3-eprivacy-zakres-techniczny.md) |
 | 01/2025 | pseudonimizacja | 4(5), 11, 25, 32 | [nota](edpb/2025-01-wytyczne-01-2025-pseudonimizacja-projekt.md) (projekt – konsultacje 2025) |
 
 ## Rekomendacje i opinie EROD
