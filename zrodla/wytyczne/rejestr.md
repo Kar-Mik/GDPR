@@ -12,7 +12,9 @@ weryfikacja: niezweryfikowane
 
 # Soft law – rejestr (etap 2)
 
-Numery i daty przyjęcia w wersji ostatecznej potwierdzić przy imporcie.
+Numery i daty przyjęcia w wersji ostatecznej potwierdzić przy imporcie. Źródła i zasady importu: [`ZRODLA.md`](ZRODLA.md).
+
+Uwaga (lista EROD „Endorsed WP29 Guidelines”, 2026-10-15): WP259 (zgoda) zastąpione wytycznymi 05/2020, WP250 (naruszenia) – wytycznymi 9/2022. W konsultacjach: 02/2026 (anonimizacja), 03/2026 (web scraping w generatywnej AI), 04/2026 (kary – może zastąpić 04/2022), 1/2026 (badania naukowe).
 
 ## Wytyczne EROD
 

@@ -30,7 +30,7 @@ zrodla/
     at-dsb/                  austriacka Datenschutzbehörde
     edpb-art65/              wiążące decyzje EROD
     …                        kolejne organy: kod państwa + skrót organu
-  wytyczne/                  soft law (etap 2)
+  wytyczne/                  soft law (etap 2) – źródła i zasady: wytyczne/ZRODLA.md
   kodeksy-certyfikacja/      kodeksy postępowania, certyfikacja (etap 2)
   zmiany/                    projekty zmian (etap 3)
 indeksy/
