@@ -22,6 +22,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Orzecznictwo: [C-212/13 Ryneš](../zrodla/orzecznictwo/tsue/c-212-13.md) – TSUE (czwarta izba), 2014-12-11
 - Orzecznictwo: [C-311/18 Facebook Ireland i Schrems (Schrems II)](../zrodla/orzecznictwo/tsue/c-311-18.md) – TSUE (wielka izba), 2020-07-16
 - Decyzje organów: [Właściciel Tesli – tryb Sentry (Wächter-Modus)](../zrodla/decyzje-organow/at-dsb/2025-09-29-tesla-sentry.md) – DSB (AT), 2025-09-29
+- Wytyczne: [3/2019 "Wytyczne 3/2019 w sprawie przetwarzania danych osobowych przez urządzenia wideo"](../zrodla/wytyczne/edpb/2020-01-wytyczne-3-2019-urzadzenia-wideo.md) – EROD, 2020-01-29
 
 ## Art. 3
 
@@ -42,6 +43,9 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Orzecznictwo: [C-604/22 IAB Europe](../zrodla/orzecznictwo/tsue/c-604-22.md) – TSUE (czwarta izba), 2024-03-07
 - Orzecznictwo: [C-413/23 P EIOD / SRB](../zrodla/orzecznictwo/tsue/c-413-23-p.md) – TSUE (pierwsza izba), 2025-09-04
 - Decyzje organów: ["EROD 1/2021" "WhatsApp – przejrzystość"](../zrodla/decyzje-organow/edpb-art65/2021-07-28-1-2021.md) – EROD, 2021-07-28
+- Wytyczne: [05/2020 "Wytyczne 05/2020 dotyczące zgody na mocy rozporządzenia 2016/679"](../zrodla/wytyczne/edpb/2020-05-wytyczne-05-2020-zgoda.md) – EROD, 2020-05-04
+- Wytyczne: [07/2020 "Wytyczne 07/2020 dotyczące pojęć administratora i podmiotu przetwarzającego zawartych w RODO"](../zrodla/wytyczne/edpb/2020-07-wytyczne-07-2020-administrator-podmiot-przetwarzajacy.md) – EROD, 2021-07-07
+- Wytyczne: [9/2022 "Wytyczne 9/2022 dotyczące zgłaszania naruszenia ochrony danych osobowych na podstawie RODO"](../zrodla/wytyczne/edpb/2023-03-wytyczne-9-2022-zglaszanie-naruszen.md) – EROD, 2023-03-28
 - Zmiany w przygotowaniu: [Digital Omnibus – projektowane zmiany RODO i ePrivacy](../zrodla/zmiany/digital-omnibus.md) – Komisja Europejska, 2025-11-19
 
 ## Art. 5
@@ -104,6 +108,8 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Decyzje organów: ["DKN.5131.27.2023" "nakaz, nałożenie kary (15 000 zł + 5 500 zł + 13 200 zł) – art. 5, 32, 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_27-2023.md) – Prezes UODO, 2026-05-19
 - Decyzje organów: ["DKN.5131.5.2025" "nałożenie kary (21 000 zł + 12 500 zł) – art. 5, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_5-2025.md) – Prezes UODO, 2026-05-25
 - Decyzje organów: ["DKN.5131.34.2023" "nałożenie kary (11 594 zł) – art. 5, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_34-2023.md) – Prezes UODO, 2026-06-13
+- Wytyczne: [WP260 rev.01 "Wytyczne w sprawie przejrzystości na podstawie rozporządzenia 2016/679"](../zrodla/wytyczne/wp29/2018-04-wp260-przejrzystosc.md) – Grupa Robocza Art. 29 (przyjęte przez EROD 25.05.2018), 2018-04-11
+- Wytyczne: [3/2019 "Wytyczne 3/2019 w sprawie przetwarzania danych osobowych przez urządzenia wideo"](../zrodla/wytyczne/edpb/2020-01-wytyczne-3-2019-urzadzenia-wideo.md) – EROD, 2020-01-29
 
 ## Art. 6
 
@@ -158,6 +164,9 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Decyzje organów: ["DKN.5131.12.2025" "nałożenie kary (35 582 zł) – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_12-2025.md) – Prezes UODO, 2026-02-13
 - Decyzje organów: ["DKN.5112.33.2022" "nakaz, nałożenie kary (5 898 064 zł) – art. 5, 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5112_33-2022.md) – Prezes UODO, 2026-02-19
 - Decyzje organów: ["DS.523.2582.2024" "upomnienie – art. 6 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/ds_523_2582-2024.md) – Prezes UODO, 2026-05-18
+- Wytyczne: [3/2019 "Wytyczne 3/2019 w sprawie przetwarzania danych osobowych przez urządzenia wideo"](../zrodla/wytyczne/edpb/2020-01-wytyczne-3-2019-urzadzenia-wideo.md) – EROD, 2020-01-29
+- Wytyczne: [05/2020 "Wytyczne 05/2020 dotyczące zgody na mocy rozporządzenia 2016/679"](../zrodla/wytyczne/edpb/2020-05-wytyczne-05-2020-zgoda.md) – EROD, 2020-05-04
+- Wytyczne: [1/2024 "Guidelines 1/2024 on processing of personal data based on Article 6(1)(f) GDPR (prawnie uzasadniony interes)"](../zrodla/wytyczne/edpb/2024-10-wytyczne-1-2024-uzasadniony-interes-projekt.md) – EROD, 2024-10-08
 - Zmiany w przygotowaniu: [Digital Omnibus – projektowane zmiany RODO i ePrivacy](../zrodla/zmiany/digital-omnibus.md) – Komisja Europejska, 2025-11-19
 
 ## Art. 7
@@ -167,11 +176,13 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 399 PKE "Art. 399 Prawa komunikacji elektronicznej – cookies – przechowywanie informacji i dostęp do urządzenia końcowego"](../zrodla/pl/prawo-komunikacji-elektronicznej/art-399.md) – Sejm RP, 2024-07-12
 - Prawo polskie: [art. 400 PKE "Art. 400 Prawa komunikacji elektronicznej – zgoda – odesłanie do przepisów o ochronie danych osobowych"](../zrodla/pl/prawo-komunikacji-elektronicznej/art-400.md) – Sejm RP, 2024-07-12
 - Orzecznictwo: [C-673/17 Planet49](../zrodla/orzecznictwo/tsue/c-673-17.md) – TSUE (wielka izba), 2019-10-01
+- Wytyczne: [05/2020 "Wytyczne 05/2020 dotyczące zgody na mocy rozporządzenia 2016/679"](../zrodla/wytyczne/edpb/2020-05-wytyczne-05-2020-zgoda.md) – EROD, 2020-05-04
 
 ## Art. 8
 
 - Tezy: [Klauzule otwarte RODO – mapowanie na prawo polskie](klauzule-otwarte.md) – –, 2026-10-08
 - Prawo polskie: [art. 400 PKE "Art. 400 Prawa komunikacji elektronicznej – zgoda – odesłanie do przepisów o ochronie danych osobowych"](../zrodla/pl/prawo-komunikacji-elektronicznej/art-400.md) – Sejm RP, 2024-07-12
+- Wytyczne: [05/2020 "Wytyczne 05/2020 dotyczące zgody na mocy rozporządzenia 2016/679"](../zrodla/wytyczne/edpb/2020-05-wytyczne-05-2020-zgoda.md) – EROD, 2020-05-04
 
 ## Art. 9
 
@@ -195,6 +206,8 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Decyzje organów: ["DS.523.4750.2023" "umorzenie, nałożenie kary (75.000 zł) – art. 6, 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/ds_523_4750-2023.md) – Prezes UODO, 2025-03-19
 - Decyzje organów: ["DKN.5131.10.2025" "nakaz, upomnienie – art. 5, 6, 9 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_10-2025.md) – Prezes UODO, 2025-08-07
 - Decyzje organów: ["DKN.5131.5.2024" "nakaz, nałożenie kary (40 000 zł + 38 000 zł) – art. 5, 9, 25, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_5-2024.md) – Prezes UODO, 2025-12-29
+- Wytyczne: [3/2019 "Wytyczne 3/2019 w sprawie przetwarzania danych osobowych przez urządzenia wideo"](../zrodla/wytyczne/edpb/2020-01-wytyczne-3-2019-urzadzenia-wideo.md) – EROD, 2020-01-29
+- Wytyczne: [05/2020 "Wytyczne 05/2020 dotyczące zgody na mocy rozporządzenia 2016/679"](../zrodla/wytyczne/edpb/2020-05-wytyczne-05-2020-zgoda.md) – EROD, 2020-05-04
 - Zmiany w przygotowaniu: [Digital Omnibus – projektowane zmiany RODO i ePrivacy](../zrodla/zmiany/digital-omnibus.md) – Komisja Europejska, 2025-11-19
 
 ## Art. 10
@@ -215,6 +228,8 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Orzecznictwo: [C-154/21 Österreichische Post (odbiorcy)](../zrodla/orzecznictwo/tsue/c-154-21.md) – TSUE (pierwsza izba), 2023-01-12
 - Decyzje organów: ["EROD 1/2021" "WhatsApp – przejrzystość"](../zrodla/decyzje-organow/edpb-art65/2021-07-28-1-2021.md) – EROD, 2021-07-28
 - Decyzje organów: [Właściciel Tesli – tryb Sentry (Wächter-Modus)](../zrodla/decyzje-organow/at-dsb/2025-09-29-tesla-sentry.md) – DSB (AT), 2025-09-29
+- Wytyczne: [WP260 rev.01 "Wytyczne w sprawie przejrzystości na podstawie rozporządzenia 2016/679"](../zrodla/wytyczne/wp29/2018-04-wp260-przejrzystosc.md) – Grupa Robocza Art. 29 (przyjęte przez EROD 25.05.2018), 2018-04-11
+- Wytyczne: [3/2019 "Wytyczne 3/2019 w sprawie przetwarzania danych osobowych przez urządzenia wideo"](../zrodla/wytyczne/edpb/2020-01-wytyczne-3-2019-urzadzenia-wideo.md) – EROD, 2020-01-29
 - Zmiany w przygotowaniu: [Digital Omnibus – projektowane zmiany RODO i ePrivacy](../zrodla/zmiany/digital-omnibus.md) – Komisja Europejska, 2025-11-19
 
 ## Art. 13
@@ -231,6 +246,9 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Decyzje organów: [Właściciel Tesli – tryb Sentry (Wächter-Modus)](../zrodla/decyzje-organow/at-dsb/2025-09-29-tesla-sentry.md) – DSB (AT), 2025-09-29
 - Decyzje organów: ["DKN.5112.11.2021" "umorzenie, upomnienie – art. 5, 13, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5112_11-2021.md) – Prezes UODO, 2025-11-06
 - Decyzje organów: ["DKN.5112.13.2023" "nakaz, upomnienie, nałożenie kary (975 zł) – art. 5, 13, 28, 30, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5112_13-2023.md) – Prezes UODO, 2026-02-27
+- Wytyczne: [WP260 rev.01 "Wytyczne w sprawie przejrzystości na podstawie rozporządzenia 2016/679"](../zrodla/wytyczne/wp29/2018-04-wp260-przejrzystosc.md) – Grupa Robocza Art. 29 (przyjęte przez EROD 25.05.2018), 2018-04-11
+- Wytyczne: [3/2019 "Wytyczne 3/2019 w sprawie przetwarzania danych osobowych przez urządzenia wideo"](../zrodla/wytyczne/edpb/2020-01-wytyczne-3-2019-urzadzenia-wideo.md) – EROD, 2020-01-29
+- Wytyczne: [1/2024 "Guidelines 1/2024 on processing of personal data based on Article 6(1)(f) GDPR (prawnie uzasadniony interes)"](../zrodla/wytyczne/edpb/2024-10-wytyczne-1-2024-uzasadniony-interes-projekt.md) – EROD, 2024-10-08
 - Zmiany w przygotowaniu: [Digital Omnibus – projektowane zmiany RODO i ePrivacy](../zrodla/zmiany/digital-omnibus.md) – Komisja Europejska, 2025-11-19
 
 ## Art. 14
@@ -240,6 +258,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Decyzje organów: ["ZSPR.421.3.2018" "nakaz, nałożenie kary (943.470,00 zł) – art. 14 RODO"](../zrodla/decyzje-organow/pl-uodo/2019/zspr_421_3-2018.md) – Prezes UODO, 2019-03-15
 - Decyzje organów: ["EROD 1/2021" "WhatsApp – przejrzystość"](../zrodla/decyzje-organow/edpb-art65/2021-07-28-1-2021.md) – EROD, 2021-07-28
 - Decyzje organów: ["DKE.523.18.2021" "nakaz, odmowa – art. 14 RODO"](../zrodla/decyzje-organow/pl-uodo/2021/dke_523_18-2021.md) – Prezes UODO, 2021-08-24
+- Wytyczne: [WP260 rev.01 "Wytyczne w sprawie przejrzystości na podstawie rozporządzenia 2016/679"](../zrodla/wytyczne/wp29/2018-04-wp260-przejrzystosc.md) – Grupa Robocza Art. 29 (przyjęte przez EROD 25.05.2018), 2018-04-11
 
 ## Art. 15
 
@@ -282,6 +301,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 398 PKE "Art. 398 Prawa komunikacji elektronicznej – zakaz marketingu bezpośredniego bez zgody (telefon, e-mail, systemy wywołujące)"](../zrodla/pl/prawo-komunikacji-elektronicznej/art-398.md) – Sejm RP, 2024-07-12
 - Orzecznictwo: [C-131/12 Google Spain i Google](../zrodla/orzecznictwo/tsue/c-131-12.md) – TSUE (wielka izba), 2014-05-13
 - Orzecznictwo: [C-26/22, C-64/22 UF i AB / SCHUFA Holding (zwolnienie z długów)](../zrodla/orzecznictwo/tsue/c-26-22-c-64-22.md) – TSUE (pierwsza izba), 2023-12-07
+- Wytyczne: [1/2024 "Guidelines 1/2024 on processing of personal data based on Article 6(1)(f) GDPR (prawnie uzasadniony interes)"](../zrodla/wytyczne/edpb/2024-10-wytyczne-1-2024-uzasadniony-interes-projekt.md) – EROD, 2024-10-08
 
 ## Art. 22
 
@@ -305,6 +325,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 
 - Decyzje organów: ["EROD 2/2023" "TikTok – dane dzieci, ustawienia domyślne i projektowanie"](../zrodla/decyzje-organow/edpb-art65/2023-08-02-2-2023.md) – EROD, 2023-08-02
 - Decyzje organów: ["DKN.5131.5.2024" "nakaz, nałożenie kary (40 000 zł + 38 000 zł) – art. 5, 9, 25, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_5-2024.md) – Prezes UODO, 2025-12-29
+- Wytyczne: [WP248 rev.01 "Wytyczne dotyczące oceny skutków dla ochrony danych oraz pomagające ustalić, czy przetwarzanie „może powodować wysokie ryzyko” do celów rozporządzenia 2016/679"](../zrodla/wytyczne/wp29/2017-10-wp248-ocena-skutkow-dpia.md) – Grupa Robocza Art. 29 (przyjęte przez EROD 25.05.2018), 2017-10-04
 
 ## Art. 26
 
@@ -312,6 +333,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Orzecznictwo: [C-40/17 Fashion ID](../zrodla/orzecznictwo/tsue/c-40-17.md) – TSUE (druga izba), 2019-07-29
 - Orzecznictwo: [C-683/21 Nacionalinis visuomenės sveikatos centras](../zrodla/orzecznictwo/tsue/c-683-21.md) – TSUE (wielka izba), 2023-12-05
 - Orzecznictwo: [C-604/22 IAB Europe](../zrodla/orzecznictwo/tsue/c-604-22.md) – TSUE (czwarta izba), 2024-03-07
+- Wytyczne: [07/2020 "Wytyczne 07/2020 dotyczące pojęć administratora i podmiotu przetwarzającego zawartych w RODO"](../zrodla/wytyczne/edpb/2020-07-wytyczne-07-2020-administrator-podmiot-przetwarzajacy.md) – EROD, 2021-07-07
 
 ## Art. 28
 
@@ -335,6 +357,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Decyzje organów: ["DKN.5131.7.2022" "upomnienie, nałożenie kary (10 145 zł) – art. 5, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_7-2022.md) – Prezes UODO, 2026-04-13
 - Decyzje organów: ["DKN.5131.5.2025" "nałożenie kary (21 000 zł + 12 500 zł) – art. 5, 28, 32 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_5-2025.md) – Prezes UODO, 2026-05-25
 - Decyzje organów: ["DKN.5131.12.2022" "decyzja – art. 28, 32, 35 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_12-2022.md) – Prezes UODO, 2026-06-11
+- Wytyczne: [07/2020 "Wytyczne 07/2020 dotyczące pojęć administratora i podmiotu przetwarzającego zawartych w RODO"](../zrodla/wytyczne/edpb/2020-07-wytyczne-07-2020-administrator-podmiot-przetwarzajacy.md) – EROD, 2021-07-07
 
 ## Art. 30
 
@@ -447,6 +470,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Decyzje organów: ["DKN.5131.16.2025" "nałożenie kary (4 852 zł) – art. 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_16-2025.md) – Prezes UODO, 2026-04-07
 - Decyzje organów: ["DKN.5131.17.2025" "nałożenie kary (7 700 zł) – art. 33 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_17-2025.md) – Prezes UODO, 2026-04-30
 - Decyzje organów: ["DKN.5131.27.2023" "nakaz, nałożenie kary (15 000 zł + 5 500 zł + 13 200 zł) – art. 5, 32, 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_27-2023.md) – Prezes UODO, 2026-05-19
+- Wytyczne: [9/2022 "Wytyczne 9/2022 dotyczące zgłaszania naruszenia ochrony danych osobowych na podstawie RODO"](../zrodla/wytyczne/edpb/2023-03-wytyczne-9-2022-zglaszanie-naruszen.md) – EROD, 2023-03-28
 - Zmiany w przygotowaniu: [Digital Omnibus – projektowane zmiany RODO i ePrivacy](../zrodla/zmiany/digital-omnibus.md) – Komisja Europejska, 2025-11-19
 
 ## Art. 34
@@ -498,6 +522,7 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Decyzje organów: ["DKN.5131.17.2024" "nakaz, nałożenie kary (7 700 zł + 13 200 zł) – art. 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2025/dkn_5131_17-2024.md) – Prezes UODO, 2025-10-23
 - Decyzje organów: ["DKN.5131.15.2025" "upomnienie, nałożenie kary (6 700 zł + 6 091 zł + 9 137 zł) – art. 33, 34, 37, 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_15-2025.md) – Prezes UODO, 2026-02-10
 - Decyzje organów: ["DKN.5131.27.2023" "nakaz, nałożenie kary (15 000 zł + 5 500 zł + 13 200 zł) – art. 5, 32, 33, 34 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_27-2023.md) – Prezes UODO, 2026-05-19
+- Wytyczne: [9/2022 "Wytyczne 9/2022 dotyczące zgłaszania naruszenia ochrony danych osobowych na podstawie RODO"](../zrodla/wytyczne/edpb/2023-03-wytyczne-9-2022-zglaszanie-naruszen.md) – EROD, 2023-03-28
 
 ## Art. 35
 
@@ -508,12 +533,15 @@ Akty wykonawcze: `zrodla/ue/akty-wykonawcze/rejestr.md`. Wytyczne: `zrodla/wytyc
 - Prawo polskie: [art. 172 u.o.d.o. "Art. 172 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-172.md) – Sejm RP, 2018-05-10
 - Decyzje organów: ["DKN.5112.14.2022" "nałożenie kary (261 918,00 zł + 314 302,00 zł) – art. 30, 35, 38 RODO"](../zrodla/decyzje-organow/pl-uodo/2024/dkn_5112_14-2022.md) – Prezes UODO, 2024-12-18
 - Decyzje organów: ["DKN.5131.12.2022" "decyzja – art. 28, 32, 35 RODO"](../zrodla/decyzje-organow/pl-uodo/2026/dkn_5131_12-2022.md) – Prezes UODO, 2026-06-11
+- Wytyczne: [WP248 rev.01 "Wytyczne dotyczące oceny skutków dla ochrony danych oraz pomagające ustalić, czy przetwarzanie „może powodować wysokie ryzyko” do celów rozporządzenia 2016/679"](../zrodla/wytyczne/wp29/2017-10-wp248-ocena-skutkow-dpia.md) – Grupa Robocza Art. 29 (przyjęte przez EROD 25.05.2018), 2017-10-04
+- Wytyczne: [3/2019 "Wytyczne 3/2019 w sprawie przetwarzania danych osobowych przez urządzenia wideo"](../zrodla/wytyczne/edpb/2020-01-wytyczne-3-2019-urzadzenia-wideo.md) – EROD, 2020-01-29
 - Zmiany w przygotowaniu: [Digital Omnibus – projektowane zmiany RODO i ePrivacy](../zrodla/zmiany/digital-omnibus.md) – Komisja Europejska, 2025-11-19
 
 ## Art. 36
 
 - Prawo polskie: [art. 51 u.o.d.o. "Art. 51 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-051.md) – Sejm RP, 2018-05-10
 - Prawo polskie: [art. 57 u.o.d.o. "Art. 57 ustawy o ochronie danych osobowych"](../zrodla/pl/ustawa-odo-2018/art-057.md) – Sejm RP, 2018-05-10
+- Wytyczne: [WP248 rev.01 "Wytyczne dotyczące oceny skutków dla ochrony danych oraz pomagające ustalić, czy przetwarzanie „może powodować wysokie ryzyko” do celów rozporządzenia 2016/679"](../zrodla/wytyczne/wp29/2017-10-wp248-ocena-skutkow-dpia.md) – Grupa Robocza Art. 29 (przyjęte przez EROD 25.05.2018), 2017-10-04
 
 ## Art. 37
 
