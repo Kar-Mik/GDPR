@@ -1,5 +1,7 @@
 # GDPR – baza wiedzy dla skilla RODO
 
+About (English)
+A structured knowledge base on EU data protection law, built as the source layer for my own AI skill that answers GDPR questions. It contains the GDPR (articles and recitals, checksum-verified against EUR-Lex), the Polish Data Protection Act, over 80 CJEU judgments on the GDPR, 585 decisions of the Polish DPA (UODO) with fines and outcomes, 12 binding EDPB decisions and notes on EDPB guidelines. Texts come only from official sources; case summaries are written in my own words. Content is in Polish. Next stages: soft law, the Digital Omnibus in “old vs new wording” mode, and document-review checklists.
 Repozytorium przechowuje źródła prawa ochrony danych osobowych, z których korzysta skill `gdpr-rodo` (instrukcje w [`SKILL.md`](SKILL.md)). Skill odpowiada na pytania prawne na podstawie RODO, prawa polskiego, orzecznictwa TSUE i sądów polskich oraz decyzji organów nadzorczych.
 
 **Etap 1 (bieżący):** odpowiedzi na pytania prawne.
